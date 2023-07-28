@@ -1,0 +1,180 @@
+{
+    "fruits": [
+      {
+        "name": "Apple",
+        "vitamins": ["Vitamin C"],
+        "health_benefits": "Apples are a good source of fiber and antioxidants. They may help improve heart health, aid in digestion, and support immune function.",
+        "side_effects": "Some people may experience bloating or gas due to the fiber content. Apple seeds contain cyanide compounds, but you would need to consume a large amount of seeds to be affected.",
+        "image": ""
+      },
+      {
+        "name": "Apricot",
+        "vitamins": ["Vitamin A", "Vitamin C"],
+        "health_benefits": "Apricots are rich in vitamin A, which is essential for vision health, as well as vitamin C, an antioxidant that supports the immune system.",
+        "side_effects": "Eating large amounts of apricots may cause gastrointestinal issues like diarrhea due to their high fiber content. The pits contain amygdalin, a compound that can release cyanide, so avoid consuming large quantities of them.",
+        "image": ""
+      },
+      {
+        "name": "Banana",
+        "vitamins": ["Vitamin B6", "Vitamin C"],
+        "health_benefits": "Bananas are a good source of potassium and vitamin B6, which are important for heart health and brain function. They also provide vitamin C for immune support.",
+        "side_effects": "Eating too many bananas in a short period may lead to an excess intake of potassium, which can cause hyperkalemia, a condition that affects the heart rhythm.",
+        "image": ""
+      },
+      {
+        "name": "Blueberry",
+        "vitamins": ["Vitamin C", "Vitamin K"],
+        "health_benefits": "Blueberries are packed with antioxidants and vitamin C, which can help combat oxidative stress and support the immune system.",
+        "side_effects": "Blueberries are generally safe to eat in moderation. However, some people may experience allergic reactions, and excessive consumption may cause stomach discomfort.",
+        "image": ""
+      },
+      {
+        "name": "Cherry",
+        "vitamins": ["Vitamin C"],
+        "health_benefits": "Cherries are rich in antioxidants and vitamin C, which may help reduce inflammation and support skin health.",
+        "side_effects": "Cherry pits contain cyanide compounds, but you would need to consume a large amount of pits to be affected. Some people may also experience allergic reactions to cherries.",
+        "image": ""
+      },
+      {
+        "name": "Cranberry",
+        "vitamins": ["Vitamin C", "Vitamin K"],
+        "health_benefits": "Cranberries are well-known for their role in urinary tract health. They contain antioxidants and vitamin C to support the immune system.",
+        "side_effects": "Cranberries are generally safe for most people. However, excessive consumption may lead to an upset stomach or interact with certain medications.",
+        "image": ""
+      },
+      {
+        "name": "Date",
+        "vitamins": ["Vitamin B6", "Vitamin K"],
+        "health_benefits": "Dates are a good source of energy and contain essential minerals. They may aid in digestion and support bone health.",
+        "side_effects": "Dates are high in natural sugars, so consuming them in excess may lead to weight gain or fluctuations in blood sugar levels.",
+        "image": ""
+      },
+      {
+        "name": "Durian",
+        "vitamins": ["Vitamin C"],
+        "health_benefits": "Durian is rich in vitamins and minerals, including vitamin C, which supports the immune system.",
+        "side_effects": "Durian has a strong odor that some people find unpleasant. It is also high in calories and natural sugars, so excessive consumption may lead to weight gain or blood sugar spikes.",
+        "image": ""
+      },
+      {
+        "name": "Elderberry",
+        "vitamins": ["Vitamin C"],
+        "health_benefits": "Elderberries are a rich source of antioxidants, particularly anthocyanins, which may help boost the immune system and reduce inflammation.",
+        "side_effects": "Elderberries should not be consumed raw as they can cause nausea, vomiting, or diarrhea. Always cook elderberries before consuming them.",
+        "image": ""
+      },
+      {
+        "name": "Fig",
+        "vitamins": ["Vitamin B6", "Vitamin K"],
+        "health_benefits": "Figs are a good source of dietary fiber, promoting healthy digestion. They also contain various vitamins and minerals that support overall well-being.",
+        "side_effects": "Figs are generally safe to eat, but some people may be allergic to them. Overconsumption may cause digestive issues due to their high fiber content.",
+        "image": ""
+      },
+      {
+        "name": "Grapes",
+        "vitamins": ["Vitamin C", "Vitamin K"],
+        "health_benefits": "Grapes are rich in antioxidants, including resveratrol, which may benefit heart health. They also provide vitamin C for immune support.",
+        "side_effects": "Grapes are generally safe to eat. However, some people may experience digestive issues or allergic reactions.",
+        "image": ""
+      },
+      {
+        "name": "Guava",
+        "vitamins": ["Vitamin C", "Vitamin A"],
+        "health_benefits": "Guava is a powerhouse of vitamin C, supporting the immune system and skin health. It also contains vitamin A, which is beneficial for vision.",
+        "side_effects": "Guava is safe for most people when eaten in moderation. Excessive consumption may lead to constipation due to its high fiber content.",
+        "image": ""
+      },
+      {
+        "name": "Jackfruit",
+        "vitamins": ["Vitamin C", "Vitamin B6"],
+        "health_benefits": "Jackfruit is rich in fiber and provides essential vitamins like vitamin C and vitamin B6, which supports metabolism and the immune system.",
+        "side_effects": "Jackfruit is generally safe to eat. However, some people may be allergic to it or experience digestive issues if consumed in large quantities.",
+        "image": ""
+      },
+      {
+        "name": "Kiwi",
+        "vitamins": ["Vitamin C", "Vitamin K"],
+        "health_benefits": "Kiwi is packed with vitamin C, which supports the immune system and collagen production. It also provides vitamin K for blood clotting.",
+        "side_effects": "Kiwi is safe for most people when eaten in moderation. Some individuals may be allergic to kiwi, leading to skin rashes or digestive problems.",
+        "image": ""
+      },
+      {
+        "name": "Lychee",
+        "vitamins": ["Vitamin C"],
+        "health_benefits": "Lychee is a good source of vitamin C and antioxidants, which may help protect cells from oxidative damage and support the immune system.",
+        "side_effects": "Lychee is generally safe for most people. However, consuming too many lychees may lead to the following side effects:",
+        "image": ""
+      },      
+      {
+        "name": "Mango",
+        "vitamins": ["Vitamin C", "Vitamin A"],
+            "health_benefits": "Mangoes are rich in vitamin C, which supports the immune system, and vitamin A, which is beneficial for vision and skin health. They are also a good source of antioxidants.",
+            "side_effects": "Mangoes are safe for most people when eaten in moderation. Excessive consumption may lead to stomach upset or allergies in some individuals.",
+            "image": ""
+          },
+          {
+            "name": "Orange",
+            "vitamins": ["Vitamin C"],
+            "health_benefits": "Oranges are famous for their high vitamin C content, supporting the immune system and promoting skin health. They are also rich in antioxidants.",
+            "side_effects": "Oranges are safe for most people when consumed in moderation. Some individuals may experience heartburn or sensitivity to citrus fruits.",
+            "image": ""
+          },
+          {
+            "name": "Pineapple",
+            "vitamins": ["Vitamin C"],
+            "health_benefits": "Pineapples are a good source of vitamin C, which supports the immune system and aids in collagen production. They also contain bromelain, an enzyme that may aid digestion.",
+            "side_effects": "Pineapples can cause mouth and tongue irritation due to bromelain. Additionally, excessive consumption may lead to digestive discomfort.",
+            "image": ""
+          },
+          {
+            "name": "Quince",
+            "vitamins": ["Vitamin C"],
+            "health_benefits": "Quinces are rich in vitamin C, supporting the immune system and overall health. They also contain dietary fiber, promoting digestive health.",
+            "side_effects": "Quinces are generally safe to eat, but some people may be allergic to them or experience stomach upset when consumed in large quantities.",
+            "image": ""
+          },
+          {
+            "name": "Raspberry",
+            "vitamins": ["Vitamin C", "Vitamin K"],
+            "health_benefits": "Raspberries are a good source of antioxidants, vitamin C, and vitamin K. They may help reduce oxidative stress and support heart health.",
+            "side_effects": "Raspberries are safe for most people. However, some individuals may be allergic to them or experience digestive issues when consuming a large amount.",
+            "image": ""
+          },
+          {
+            "name": "Strawberry",
+            "vitamins": ["Vitamin C", "Vitamin K"],
+            "health_benefits": "Strawberries are rich in vitamin C and antioxidants, promoting immune health and reducing inflammation. They also provide vitamin K for blood clotting.",
+            "side_effects": "Strawberries are safe for most people when eaten in moderation. Some individuals may be allergic to them, leading to skin rashes or digestive problems.",
+            "image": ""
+          },
+          {
+            "name": "Tomato",
+            "vitamins": ["Vitamin C", "Vitamin K"],
+            "health_benefits": "Tomatoes are a good source of vitamin C and vitamin K, which supports bone health and blood clotting. They also contain the antioxidant lycopene.",
+            "side_effects": "Tomatoes are safe for most people. However, some individuals may be sensitive to them or experience acid reflux when consuming large quantities.",
+            "image": ""
+          },
+          {
+            "name": "Ugli Fruit",
+            "vitamins": ["Vitamin C"],
+            "health_benefits": "Ugli fruits are rich in vitamin C, supporting the immune system and skin health. They are a hybrid of grapefruits, oranges, and tangerines.",
+            "side_effects": "Ugli fruits are generally safe to eat. However, some individuals may be allergic to them or experience stomach discomfort when consuming large amounts.",
+            "image": ""
+          },
+          {
+            "name": "Vanilla Bean",
+            "vitamins": ["Vitamin B2"],
+            "health_benefits": "Vanilla beans contain vitamin B2, also known as riboflavin, which supports energy production and overall cell health.",
+            "side_effects": "Vanilla beans are safe for most people when used in culinary applications. However, some individuals may be sensitive to vanilla and should avoid it.",
+            "image": ""
+          },
+          {
+            "name": "Watermelon",
+            "vitamins": ["Vitamin C", "Vitamin A"],
+            "health_benefits": "Watermelons are hydrating and rich in vitamins, including vitamin C and vitamin A. They may help with hydration and support eye health.",
+            "side_effects": "Watermelons are generally safe to eat. However, excessive consumption may lead to digestive issues or an upset stomach.",
+            "image": ""
+          }
+        ]
+      }
+       
