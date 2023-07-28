@@ -2097,166 +2097,166 @@
         {
           "name": "Agege",
           "postal_code": "100001"
-                  },
-                  {
-                    "name": "Ajeromi-Ifelodun",
-                    "postal_code": "100002"
-                  },
-                  {
-                    "name": "Alimosho",
-                    "postal_code": "100003"
-                  },
-                  {
-                    "name": "Amuwo-Odofin",
-                    "postal_code": "100004"
-                  },
-                  {
-                    "name": "Apapa",
-                    "postal_code": "100005"
-                  },
-                  {
-                    "name": "Badagry",
-                    "postal_code": "100006"
-                  },
-                  {
-                    "name": "Epe",
-                    "postal_code": "100007"
-                  },
-                  {
-                    "name": "Eti-Osa",
-                    "postal_code": "100008"
-                  },
-                  {
-                    "name": "Ibeju/Lekki",
-                    "postal_code": "100009"
-                  },
-                  {
-                    "name": "Ifako-Ijaiye",
-                    "postal_code": "100010"
-                  },
-                  {
-                    "name": "Ikeja",
-                    "postal_code": "100011"
-                  },
-                  {
-                    "name": "Ikorodu",
-                    "postal_code": "100012"
-                  },
-                  {
-                    "name": "Kosofe",
-                    "postal_code": "100013"
-                  },
-                  {
-                    "name": "Lagos Island",
-                    "postal_code": "100014"
-                  },
-                  {
-                    "name": "Lagos Mainland",
-                    "postal_code": "100015"
-                  }
-                ]
-              },
-              {
-                "name": "Nasarawa",
-                "capital": "Lafia",
-                "local_governments": [
-                  {
-                    "name": "Akwanga",
-                    "postal_code": "950001"
-                  },
-                  {
-                    "name": "Awe",
-                    "postal_code": "950002"
-                  },
-                  {
-                    "name": "Doma",
-                    "postal_code": "950003"
-                  },
-                  {
-                    "name": "Karu",
-                    "postal_code": "950004"
-                  },
-                  {
-                    "name": "Keana",
-                    "postal_code": "950005"
-                  },
-                  {
-                    "name": "Keffi",
-                    "postal_code": "950006"
-                  },
-                  {
-                    "name": "Kokona",
-                    "postal_code": "950007"
-                  },
-                  {
-                    "name": "Lafia",
-                    "postal_code": "950008"
-                  },
-                  {
-                    "name": "Nasarawa",
-                    "postal_code": "950009"
-                  },
-                  {
-                    "name": "Nasarawa-Eggon",
-                    "postal_code": "950010"
-                  },
-                  {
-                    "name": "Obi",
-                    "postal_code": "950011"
-                  },
-                  {
-                    "name": "Toto",
-                    "postal_code": "950012"
-                  },
-                  {
-                    "name": "Wamba",
-                    "postal_code": "950013"
-                  }
-                ]
-              },
-              {
-                "name": "Niger",
-                "capital": "Minna",
-                "local_governments": [
-                  {
-                    "name": "Agaie",
-                    "postal_code": "920001"
-                  },
-                  {
-                    "name": "Agwara",
-                    "postal_code": "920002"
-                  },
-                  {
-                    "name": "Bida",
-                    "postal_code": "920003"
-                  },
-                  {
-                    "name": "Borgu",
-                    "postal_code": "920004"
-                  },
-                  {
-                    "name": "Bosso",
-                    "postal_code": "920005"
-                  },
-                  {
-                    "name": "Chanchaga",
-                    "postal_code": "920006"
-                  },
-                  {
-                    "name": "Edati",
-                    "postal_code": "920007"
-                  },
-                  {
-                    "name": "Gbako",
-                    "postal_code": "920008"
-                  },
-                  {
-                    "name": "Gurara",
-                    "postal_code": "920009"
-                  },
-                  {
-                    "name": "Katcha",
-                    "postal_code": "920010"
+        },
+        {
+          "name": "Ajeromi-Ifelodun",
+          "postal_code": "100002"
+        },
+        {
+          "name": "Alimosho",
+          "postal_code": "100003"
+        },
+        {
+          "name": "Amuwo-Odofin",
+          "postal_code": "100004"
+        },
+        {
+          "name": "Apapa",
+          "postal_code": "100005"
+        },
+        {
+          "name": "Badagry",
+          "postal_code": "100006"
+        },
+        {
+          "name": "Epe",
+          "postal_code": "100007"
+        },
+        {
+          "name": "Eti-Osa",
+          "postal_code": "100008"
+        },
+        {
+          "name": "Ibeju/Lekki",
+          "postal_code": "100009"
+        },
+        {
+          "name": "Ifako-Ijaiye",
+          "postal_code": "100010"
+        },
+        {
+          "name": "Ikeja",
+          "postal_code": "100011"
+        },
+        {
+          "name": "Ikorodu",
+          "postal_code": "100012"
+        },
+        {
+          "name": "Kosofe",
+          "postal_code": "100013"
+        },
+        {
+          "name": "Lagos Island",
+          "postal_code": "100014"
+        },
+        {
+          "name": "Lagos Mainland",
+          "postal_code": "100015"
+        }
+      ]
+    },
+    {
+      "name": "Nasarawa",
+      "capital": "Lafia",
+      "local_governments": [
+        {
+          "name": "Akwanga",
+          "postal_code": "950001"
+        },
+        {
+          "name": "Awe",
+          "postal_code": "950002"
+        },
+        {
+          "name": "Doma",
+          "postal_code": "950003"
+        },
+        {
+          "name": "Karu",
+          "postal_code": "950004"
+        },
+        {
+          "name": "Keana",
+          "postal_code": "950005"
+        },
+        {
+          "name": "Keffi",
+          "postal_code": "950006"
+        },
+        {
+          "name": "Kokona",
+          "postal_code": "950007"
+        },
+        {
+          "name": "Lafia",
+          "postal_code": "950008"
+        },
+        {
+          "name": "Nasarawa",
+          "postal_code": "950009"
+        },
+        {
+          "name": "Nasarawa-Eggon",
+          "postal_code": "950010"
+        },
+        {
+          "name": "Obi",
+          "postal_code": "950011"
+        },
+        {
+          "name": "Toto",
+          "postal_code": "950012"
+        },
+        {
+          "name": "Wamba",
+          "postal_code": "950013"
+        }
+      ]
+    },
+    {
+      "name": "Niger",
+      "capital": "Minna",
+      "local_governments": [
+        {
+          "name": "Agaie",
+          "postal_code": "920001"
+        },
+        {
+          "name": "Agwara",
+          "postal_code": "920002"
+        },
+        {
+          "name": "Bida",
+          "postal_code": "920003"
+        },
+        {
+          "name": "Borgu",
+          "postal_code": "920004"
+        },
+        {
+          "name": "Bosso",
+          "postal_code": "920005"
+        },
+        {
+          "name": "Chanchaga",
+          "postal_code": "920006"
+        },
+        {
+          "name": "Edati",
+          "postal_code": "920007"
+        },
+        {
+          "name": "Gbako",
+          "postal_code": "920008"
+        },
+        {
+          "name": "Gurara",
+          "postal_code": "920009"
+        },
+        {
+          "name": "Katcha",
+          "postal_code": "920010"
         },
         {
           "name": "Kontagora",
@@ -2274,639 +2274,639 @@
           "name": "Magama",
           "postal_code": "920014"
         },
-                  {
-                    "name": "Maradi",
-                    "postal_code": "920015"
-                  },
-                  {
-                    "name": "Mashegu",
-                    "postal_code": "920016"
-                  },
-                  {
-                    "name": "Mokwa",
-                    "postal_code": "920017"
-                  },
-                  {
-                    "name": "Moshegu",
-                    "postal_code": "920018"
-                  },
-                  {
-                    "name": "Moya",
-                    "postal_code": "920019"
-                  },
-                  {
-                    "name": "Paikoro",
-                    "postal_code": "920020"
-                  },
-                  {
-                    "name": "Rafi",
-                    "postal_code": "920021"
-                  },
-                  {
-                    "name": "Rijau",
-                    "postal_code": "920022"
-                  },
-                  {
-                    "name": "Shiroro",
-                    "postal_code": "920023"
-                  },
-                  {
-                    "name": "Suleja",
-                    "postal_code": "920024"
-                  },
-                  {
-                    "name": "Tafa",
-                    "postal_code": "920025"
-                  },
-                  {
-                    "name": "Wushishi",
-                    "postal_code": "920026"
-                  }
-                ]
-              },
-              {
-                "name": "Ogun",
-                "capital": "Abeokuta",
-                "local_governments": [
-                  {
-                    "name": "Abeokuta North",
-                    "postal_code": "110001"
-                  },
-                  {
-                    "name": "Abeokuta South",
-                    "postal_code": "110002"
-                  },
-                  {
-                    "name": "Ado-Odo/Ota",
-                    "postal_code": "110003"
-                  },
-                  {
-                    "name": "Ewekoro",
-                    "postal_code": "110004"
-                  },
-                  {
-                    "name": "Ifo",
-                    "postal_code": "110005"
-                  },
-                  {
-                    "name": "Ijebu East",
-                    "postal_code": "110006"
-                  },
-                  {
-                    "name": "Ijebu North",
-                    "postal_code": "110007"
-                  },
-                  {
-                    "name": "Ijebu North East",
-                    "postal_code": "110008"
-                  },
-                  {
-                    "name": "Ijebu Ode",
-                    "postal_code": "110009"
-                  },
-                  {
-                    "name": "Ikenne",
-                    "postal_code": "110010"
-                  },
-                  {
-                    "name": "Imeko-Afon",
-                    "postal_code": "110011"
-                  },
-                  {
-                    "name": "Ipokia",
-                    "postal_code": "110012"
-                  },
-                  {
-                    "name": "Obafemi-Owode",
-                    "postal_code": "110013"
-                  },
-                  {
-                    "name": "Odeda",
-                    "postal_code": "110014"
-                  },
-                  {
-                    "name": "Odogbolu",
-                    "postal_code": "110015"
-                  },
-                  {
-                    "name": "Ogun Waterside",
-                    "postal_code": "110016"
-                  },
-                  {
-                    "name": "Remo North",
-                    "postal_code": "110017"
-                  },
-                  {
-                    "name": "Shagamu",
-                    "postal_code": "110018"
-                  }
-                ]
-              },
-              {
-                "name": "Ondo",
-                "capital": "Akure",
-                "local_governments": [
-                  {
-                    "name": "Akoko North-East",
-                    "postal_code": "340001"
-                  },
-                  {
-                    "name": "Akoko North-West",
-                    "postal_code": "340002"
-                  },
-                  {
-                    "name": "Akoko South-East",
-                    "postal_code": "340003"
-                  },
-                  {
-                    "name": "Akoko South-West",
-                    "postal_code": "340004"
-                  },
-                  {
-                    "name": "Akure North",
-                    "postal_code": "340005"
-                  },
-                  {
-                    "name": "Akure South",
-                    "postal_code": "340006"
-                  },
-                  {
-                    "name": "Ese Odo",
-                    "postal_code": "340007"
-                  },
-                  {
-                    "name": "Idanre",
-                    "postal_code": "340008"
-                  },
-                  {
-                    "name": "Ifedore",
-                    "postal_code": "340009"
-                  },
-                  {
-                    "name": "Ilaje",
-                    "postal_code": "340010"
-                  },
-                  {
-                    "name": "Ile Oluji/Okeigbo",
-                    "postal_code": "340011"
-                  },
-                  {
-                    "name": "Irele",
-                    "postal_code": "340012"
-                  },
-                  {
-                    "name": "Odigbo",
-                    "postal_code": "340013"
-                  },
-                  {
-                    "name": "Okitipupa",
-                    "postal_code": "340014"
-                  },
-                  {
-                    "name": "Ondo East",
-                    "postal_code": "340015"
-                  },
-                  {
-                    "name": "Ondo West",
-                    "postal_code": "340016"
-                  },
-                  {
-                    "name": "Ose",
-                    "postal_code": "340017"
-                  },
-                  {
-                    "name": "Owo",
-                    "postal_code": "340018"
-                  }
-                ]
-              },
-              {
-                "name": "Osun",
-                "capital": "Osogbo",
-                "local_governments": [
-                  {
-                    "name": "Atakumosa East",
-                    "postal_code": "230001"
-                  },
-                  {
-                    "name": "Atakumosa West",
-                    "postal_code": "230002"
-                  },
-                  {
-                    "name": "Aiyedaade",
-                    "postal_code": "230003"
-                  },
-                  {
-                    "name": "Aiyedire",
-                    "postal_code": "230004"
-                  },
-                  {
-                    "name": "Boluwaduro",
-                    "postal_code": "230005"
-                  },
-                  {
-                    "name": "Boripe",
-                    "postal_code": "230006"
-                  },
-                  {
-                    "name": "Ede North",
-                    "postal_code": "230007"
-                  },
-                  {
-                    "name": "Ede South",
-                    "postal_code": "230008"
-                  },
-                  {
-                    "name": "Ife Central",
-                    "postal_code": "230009"
-                  },
-                  {
-                    "name": "Ife East",
-                    "postal_code": "230010"
-                  },
-                  {
-                    "name": "Ife North",
-                    "postal_code": "230011"
-                  },
-                  {
-                    "name": "Ife South",
-                    "postal_code": "230012"
-                  },
-                  {
-                    "name": "Egbedore",
-                    "postal_code": "230013"
-                  },
-                  {
-                    "name": "Ejigbo",
-                    "postal_code": "230014"
-                  },
-                  {
-                    "name": "Ila",
-                    "postal_code": "230015"
-                  },
-                  {
-                    "name": "Ilesa East",
-                    "postal_code": "230016"
-                  },
-                  {
-                    "name": "Ilesa West",
-                    "postal_code": "230017"
-                  },
-                  {
-                    "name": "Irepodun",
-                    "postal_code": "230018"
-                  },
-                  {
-                    "name": "Irewole",
-                    "postal_code": "230019"
-                  },
-                  {
-                    "name": "Isokan",
-                    "postal_code": "230020"
-                  },
-                  {
-                    "name": "Iwo",
-                    "postal_code": "230021"
-                  },
-                  {
-                    "name": "Obokun",
-                    "postal_code": "230022"
-                  },
-                  {
-                    "name": "Odo Otin",
-                    "postal_code": "230023"
-                  },
-                  {
-                    "name": "Ola Oluwa",
-                    "postal_code": "230024"
-                  },
-                  {
-                    "name": "Olorunda",
-                    "postal_code": "230025"
-                  },
-                  {
-                    "name": "Oriade",
-                    "postal_code": "230026"
-                  },
-                  {
-                    "name": "Orolu",
-                    "postal_code": "230027"
-                  },
-                  {
-                    "name": "Osogbo",
-                    "postal_code": "230028"
-                  }
-                ]
-              },
-              {
-                "name": "Oyo",
-                "capital": "Ibadan",
-                "local_governments": [
-                  {
-                    "name": "Afijio",
-                    "postal_code": "200001"
-                  },
-                  {
-                    "name": "Akinyele",
-                    "postal_code": "200002"
-                  },
-                  {
-                    "name": "Atiba",
-                    "postal_code": "200003"
-                  },
-                  {
-                    "name": "Atigbo",
-                    "postal_code": "200004"
-                  },
-                  {
-                    "name": "Egbeda",
-                    "postal_code": "200005"
-                  },
-                  {
-                    "name": "Ibadan North",
-                    "postal_code": "200006"
-                  },
-                  {
-                    "name": "Ibadan North-East",
-                    "postal_code": "200007"
-                  },
-                  {
-                    "name": "Ibadan North-West",
-                    "postal_code": "200008"
-                  },
-                  {
-                    "name": "Ibadan South-East",
-                    "postal_code": "200009"
-                  },
-                  {
-                    "name": "Ibadan South-West",
-                    "postal_code": "200010"
-                  },
-                  {
-                    "name": "Ibarapa Central",
-                    "postal_code": "200011"
-                  },
-                  {
-                    "name": "Ibarapa East",
-                    "postal_code": "200012"
-                  },
-                  {
-                    "name": "Ibarapa North",
-                    "postal_code": "200013"
-                  },
-                  {
-                    "name": "Ido",
-                    "postal_code": "200014"
-                  },
-                  {
-                    "name": "Irepo",
-                    "postal_code": "200015"
-                  },
-                  {
-                    "name": "Iseyin",
-                    "postal_code": "200016"
-                  },
-                  {
-                    "name": "Itesiwaju",
-                    "postal_code": "200017"
-                  },
-                  {
-                    "name": "Iwajowa",
-                    "postal_code": "200018"
-                  },
-                  {
-                    "name": "Kajola",
-                    "postal_code": "200019"
-                  },
-                  {
-                    "name": "Lagelu",
-                    "postal_code": "200020"
-                  },
-                  {
-                    "name": "Ogbomosho North",
-                    "postal_code": "200021"
-                  },
-                  {
-                    "name": "Ogbomosho South",
-                    "postal_code": "200022"
-                  },
-                  {
-                    "name": "Ogo Oluwa",
-                    "postal_code": "200023"
-                  },
-                  {
-                    "name": "Olorunsogo",
-                    "postal_code": "200024"
-                  },
-                  {
-                    "name": "Oluyole",
-                    "postal_code": "200025"
-                  },
-                  {
-                    "name": "Ona Ara",
-                    "postal_code": "200026"
-                  },
-                  {
-                    "name": "Orelope",
-                    "postal_code": "200027"
-                  },
-                  {
-                    "name": "Ori Ire",
-                    "postal_code": "200028"
-                  },
-                  {
-                    "name": "Oyo East",
-                    "postal_code": "200029"
-                  },
-                  {
-                    "name": "Oyo West",
-                    "postal_code": "200030"
-                  },
-                  {
-                    "name": "Saki East",
-                    "postal_code": "200031"
-                  },
-                  {
-                    "name": "Saki West",
-                    "postal_code": "200032"
-                  },
-                  {
-                    "name": "Surulere",
-                    "postal_code": "200033"
-                  }
-                ]
-              },
-              {
-                "name": "Plateau",
-                "capital": "Jos",
-                "local_governments": [
-                  {
-                    "name": "Barikin Ladi",
-                    "postal_code": "930001"
-                  },
-                  {
-                    "name": "Bassa",
-                    "postal_code": "930002"
-                  },
-                  {
-                    "name": "Bokkos",
-                    "postal_code": "930003"
-                  },
-                  {
-                    "name": "Jos East",
-                    "postal_code": "930004"
-                  },
-                  {
-                    "name": "Jos North",
-                    "postal_code": "930005"
-                  },
-                  {
-                    "name": "Jos South",
-                    "postal_code": "930006"
-                  },
-                  {
-                    "name": "Kanam",
-                    "postal_code": "930007"
-                  },
-                  {
-                    "name": "Kanke",
-                    "postal_code": "930008"
-                  },
-                  {
-                    "name": "Langtang North",
-                    "postal_code": "930009"
-                  },
-                  {
-                    "name": "Langtang South",
-                    "postal_code": "930010"
-                  },
-                  {
-                    "name": "Mangu",
-                    "postal_code": "930011"
-                  },
-                  {
-                    "name": "Mikang",
-                    "postal_code": "930012"
-                  },
-                  {
-                    "name": "Pankshin",
-                    "postal_code": "930013"
-                  },
-                  {
-                    "name": "Qua'an Pan",
-                    "postal_code": "930014"
-                  },
-                  {
-                    "name": "Riyom",
-                    "postal_code": "930015"
-                  },
-                  {
-                    "name": "Shendam",
-                    "postal_code": "930016"
-                  },
-                  {
-                    "name": "Wase",
-                    "postal_code": "930017"
-                  }
-                ]
-              },
-              {
-                "name": "Rivers",
-                "capital": "Port Harcourt",
-                "local_governments": [
-                  {
-                    "name": "Abua/Odual",
-                    "postal_code": "500001"
-                  },
-                  {
-                    "name": "Ahoada East",
-                    "postal_code": "500002"
-                  },
-                  {
-                    "name": "Ahoada West",
-                    "postal_code": "500003"
-                  },
-                  {
-                    "name": "Akuku-Toru",
-                    "postal_code": "500004"
-                  },
-                  {
-                    "name": "Andoni",
-                    "postal_code": "500005"
-                  },
-                  {
-                    "name": "Asari-Toru",
-                    "postal_code": "500006"
-                  },
-                  {
-                    "name": "Bonny",
-                    "postal_code": "500007"
-                  },
-                  {
-                    "name": "Degema",
-                    "postal_code": "500008"
-                  },
-                  {
-                    "name": "Eleme",
-                    "postal_code": "500009"
-                  },
-                  {
-                    "name": "Emohua",
-                    "postal_code": "500010"
-                  },
-                  {
-                    "name": "Etche",
-                    "postal_code": "500011"
-                  },
-                  {
-                    "name": "Gokana",
-                    "postal_code": "500012"
-                  },
-                  {
-                    "name": "Ikwerre",
-                    "postal_code": "500013"
-                  },
-                  {
-                    "name": "Khana",
-                    "postal_code": "500014"
-                  },
-                  {
-                    "name": "Obio/Akpor",
-                    "postal_code": "500015"
-                  },
-                  {
-                    "name": "Ogba/Egbema/Ndoni",
-                    "postal_code": "500016"
-                  },
-                  {
-                    "name": "Ogu/Bolo",
-                    "postal_code": "500017"
-                  },
-                  {
-                    "name": "Okrika",
-                    "postal_code": "500018"
-                  },
-                  {
-                    "name": "Omuma",
-                    "postal_code": "500019"
-                  },
-                  {
-                    "name": "Opobo/Nkoro",
-                    "postal_code": "500020"
-                  },
-                  {
-                    "name": "Oyigbo",
-                    "postal_code": "500021"
-                  },
-                  {
-                    "name": "Port Harcourt",
-                    "postal_code": "500022"
-                  },
-                  {
-                    "name": "Tai",
-                    "postal_code": "500023"
-                  }
-                ]
+        {
+          "name": "Maradi",
+          "postal_code": "920015"
+        },
+        {
+          "name": "Mashegu",
+          "postal_code": "920016"
+        },
+        {
+          "name": "Mokwa",
+          "postal_code": "920017"
+        },
+        {
+          "name": "Moshegu",
+          "postal_code": "920018"
+        },
+        {
+          "name": "Moya",
+          "postal_code": "920019"
+        },
+        {
+          "name": "Paikoro",
+          "postal_code": "920020"
+        },
+        {
+          "name": "Rafi",
+          "postal_code": "920021"
+        },
+        {
+          "name": "Rijau",
+          "postal_code": "920022"
+        },
+        {
+          "name": "Shiroro",
+          "postal_code": "920023"
+        },
+        {
+          "name": "Suleja",
+          "postal_code": "920024"
+        },
+        {
+          "name": "Tafa",
+          "postal_code": "920025"
+        },
+        {
+          "name": "Wushishi",
+          "postal_code": "920026"
+        }
+      ]
+    },
+    {
+      "name": "Ogun",
+      "capital": "Abeokuta",
+      "local_governments": [
+        {
+          "name": "Abeokuta North",
+          "postal_code": "110001"
+        },
+        {
+          "name": "Abeokuta South",
+          "postal_code": "110002"
+        },
+        {
+          "name": "Ado-Odo/Ota",
+          "postal_code": "110003"
+        },
+        {
+          "name": "Ewekoro",
+          "postal_code": "110004"
+        },
+        {
+          "name": "Ifo",
+          "postal_code": "110005"
+        },
+        {
+          "name": "Ijebu East",
+          "postal_code": "110006"
+        },
+        {
+          "name": "Ijebu North",
+          "postal_code": "110007"
+        },
+        {
+          "name": "Ijebu North East",
+          "postal_code": "110008"        
+        },
+        {
+          "name": "Ijebu Ode",
+          "postal_code": "110009"
+        },
+        {
+          "name": "Ikenne",
+          "postal_code": "110010"
+        },
+        {
+          "name": "Imeko-Afon",
+          "postal_code": "110011"
+        },
+        {
+          "name": "Ipokia",
+          "postal_code": "110012"
+        },
+        {
+          "name": "Obafemi-Owode",
+          "postal_code": "110013"
+        },
+        {
+          "name": "Odeda",
+          "postal_code": "110014"
+        },
+        {
+          "name": "Odogbolu",
+          "postal_code": "110015"
+        },
+        {
+          "name": "Ogun Waterside",
+          "postal_code": "110016"
+        },
+        {
+          "name": "Remo North",
+          "postal_code": "110017"
+        },
+        {
+          "name": "Shagamu",
+          "postal_code": "110018"
+        }
+      ]
+    },
+    {
+      "name": "Ondo",
+      "capital": "Akure",
+      "local_governments": [
+        {
+          "name": "Akoko North-East",
+          "postal_code": "340001"
+        },
+        {
+          "name": "Akoko North-West",
+          "postal_code": "340002"
+        },
+        {
+          "name": "Akoko South-East",
+          "postal_code": "340003"
+        },
+        {
+          "name": "Akoko South-West",
+          "postal_code": "340004"
+        },
+        {
+          "name": "Akure North",
+          "postal_code": "340005"
+        },
+        {
+          "name": "Akure South",
+          "postal_code": "340006"
+        },
+        {
+          "name": "Ese Odo",
+          "postal_code": "340007"
+        },
+        {
+          "name": "Idanre",
+          "postal_code": "340008"
+        },
+        {
+          "name": "Ifedore",
+          "postal_code": "340009"
+        },
+        {
+          "name": "Ilaje",
+          "postal_code": "340010"
+        },
+        {
+          "name": "Ile Oluji/Okeigbo",
+          "postal_code": "340011"
+        },
+        {
+          "name": "Irele",
+          "postal_code": "340012"
+        },
+        {
+          "name": "Odigbo",
+          "postal_code": "340013"
+        },
+        {
+          "name": "Okitipupa",
+          "postal_code": "340014"
+        },
+        {
+          "name": "Ondo East",
+          "postal_code": "340015"
+        },
+        {
+          "name": "Ondo West",
+          "postal_code": "340016"
+        },
+        {
+          "name": "Ose",
+          "postal_code": "340017"
+        },
+        {
+          "name": "Owo",
+          "postal_code": "340018"
+        }
+      ]
+    },
+    {
+      "name": "Osun",
+      "capital": "Osogbo",
+      "local_governments": [
+        {
+          "name": "Atakumosa East",
+          "postal_code": "230001"
+        },
+        {
+          "name": "Atakumosa West",
+          "postal_code": "230002"
+        },
+        {
+          "name": "Aiyedaade",
+          "postal_code": "230003"
+        },
+        {
+          "name": "Aiyedire",
+          "postal_code": "230004"
+        },
+        {
+          "name": "Boluwaduro",
+          "postal_code": "230005"
+        },
+        {
+          "name": "Boripe",
+          "postal_code": "230006"
+        },
+        {
+          "name": "Ede North",
+          "postal_code": "230007"
+        },
+        {
+          "name": "Ede South",
+          "postal_code": "230008"
+        },
+        {
+          "name": "Ife Central",
+          "postal_code": "230009"
+        },
+        {
+          "name": "Ife East",
+          "postal_code": "230010"
+        },
+        {
+          "name": "Ife North",
+          "postal_code": "230011"
+        },
+        {
+          "name": "Ife South",
+          "postal_code": "230012"
+        },
+        {
+          "name": "Egbedore",
+          "postal_code": "230013"
+        },
+        {
+          "name": "Ejigbo",
+          "postal_code": "230014"
+        },
+        {
+          "name": "Ila",
+          "postal_code": "230015"
+        },
+        {
+          "name": "Ilesa East",
+          "postal_code": "230016"
+        },
+        {
+          "name": "Ilesa West",
+          "postal_code": "230017"
+        },
+        {
+          "name": "Irepodun",
+          "postal_code": "230018"
+        },
+        {
+          "name": "Irewole",
+          "postal_code": "230019"
+        },
+        {
+          "name": "Isokan",
+          "postal_code": "230020"
+        },
+        {
+          "name": "Iwo",
+          "postal_code": "230021"
+        },
+        {
+          "name": "Obokun",
+          "postal_code": "230022"
+        },
+        {
+          "name": "Odo Otin",
+          "postal_code": "230023"
+        },
+        {
+          "name": "Ola Oluwa",
+          "postal_code": "230024"
+        },
+        {
+          "name": "Olorunda",
+          "postal_code": "230025"
+        },
+        {
+          "name": "Oriade",
+          "postal_code": "230026"
+        },
+        {
+          "name": "Orolu",
+          "postal_code": "230027"
+        },
+        {
+          "name": "Osogbo",
+          "postal_code": "230028"
+        }
+      ]
+    },
+    {
+      "name": "Oyo",
+      "capital": "Ibadan",
+      "local_governments": [
+        {
+          "name": "Afijio",
+          "postal_code": "200001"
+        },
+        {
+          "name": "Akinyele",
+          "postal_code": "200002"
+        },
+        {
+          "name": "Atiba",
+          "postal_code": "200003"
+        },
+        {
+          "name": "Atigbo",
+          "postal_code": "200004"
+        },
+        {
+          "name": "Egbeda",
+          "postal_code": "200005"
+        },
+        {
+          "name": "Ibadan North",
+          "postal_code": "200006"
+        },
+        {
+          "name": "Ibadan North-East",
+          "postal_code": "200007"
+        },
+        {
+          "name": "Ibadan North-West",
+          "postal_code": "200008"
+        },
+        {
+          "name": "Ibadan South-East",
+          "postal_code": "200009"
+        },
+        {
+          "name": "Ibadan South-West",
+          "postal_code": "200010"
+        },
+        {
+          "name": "Ibarapa Central",
+          "postal_code": "200011"
+        },
+        {
+          "name": "Ibarapa East",
+          "postal_code": "200012"
+        },
+        {
+          "name": "Ibarapa North",
+          "postal_code": "200013"
+        },
+        {
+          "name": "Ido",
+          "postal_code": "200014"
+        },
+        {
+          "name": "Irepo",
+          "postal_code": "200015"
+        },
+        {
+          "name": "Iseyin",
+          "postal_code": "200016"
+        },
+        {
+          "name": "Itesiwaju",
+          "postal_code": "200017"
+        },
+        {
+          "name": "Iwajowa",
+          "postal_code": "200018"
+        },
+        {
+          "name": "Kajola",
+          "postal_code": "200019"
+        },
+        {
+          "name": "Lagelu",
+          "postal_code": "200020"
+        },
+        {
+          "name": "Ogbomosho North",
+          "postal_code": "200021"
+        },
+        {
+          "name": "Ogbomosho South",
+          "postal_code": "200022"
+        },
+        {
+          "name": "Ogo Oluwa",
+          "postal_code": "200023"
+        },
+        {
+          "name": "Olorunsogo",
+          "postal_code": "200024"
+        },
+        {
+          "name": "Oluyole",
+          "postal_code": "200025"
+        },
+        {
+          "name": "Ona Ara",
+          "postal_code": "200026"
+        },
+        {
+          "name": "Orelope",
+          "postal_code": "200027"
+        },
+        {
+          "name": "Ori Ire",
+          "postal_code": "200028"
+        },
+        {
+          "name": "Oyo East",
+          "postal_code": "200029"
+        },
+        {
+          "name": "Oyo West",
+          "postal_code": "200030"
+        },
+        {
+          "name": "Saki East",
+          "postal_code": "200031"
+        },
+        {
+          "name": "Saki West",
+          "postal_code": "200032"
+        },
+        {
+          "name": "Surulere",
+          "postal_code": "200033"
+        }
+      ]
+    },
+    {
+      "name": "Plateau",
+      "capital": "Jos",
+      "local_governments": [
+        {
+          "name": "Barikin Ladi",
+          "postal_code": "930001"
+        },
+        {
+          "name": "Bassa",
+          "postal_code": "930002"
+        },
+        {
+          "name": "Bokkos",
+          "postal_code": "930003"
+        },
+        {
+          "name": "Jos East",
+          "postal_code": "930004"
+        },
+        {
+          "name": "Jos North",
+          "postal_code": "930005"
+        },
+        {
+          "name": "Jos South",
+          "postal_code": "930006"
+        },
+        {
+          "name": "Kanam",
+          "postal_code": "930007"
+        },
+        {
+          "name": "Kanke",
+          "postal_code": "930008"
+        },
+        {
+          "name": "Langtang North",
+          "postal_code": "930009"
+        },
+        {
+          "name": "Langtang South",
+          "postal_code": "930010"
+        },
+        {
+          "name": "Mangu",
+          "postal_code": "930011"
+        },
+        {
+          "name": "Mikang",
+          "postal_code": "930012"
+        },
+        {
+          "name": "Pankshin",
+          "postal_code": "930013"
+        },
+        {
+          "name": "Qua'an Pan",
+          "postal_code": "930014"
+        },
+        {
+          "name": "Riyom",
+          "postal_code": "930015"
+        },
+        {
+          "name": "Shendam",
+          "postal_code": "930016"
+        },
+        {
+          "name": "Wase",
+          "postal_code": "930017"
+        }
+      ]
+    },
+    {
+      "name": "Rivers",
+      "capital": "Port Harcourt",
+      "local_governments": [
+        {
+          "name": "Abua/Odual",
+          "postal_code": "500001"
+        },
+        {
+          "name": "Ahoada East",
+          "postal_code": "500002"
+        },
+        {
+          "name": "Ahoada West",
+          "postal_code": "500003"
+        },
+        {
+          "name": "Akuku-Toru",
+          "postal_code": "500004"
+        },
+        {
+          "name": "Andoni",
+          "postal_code": "500005"
+        },
+        {
+          "name": "Asari-Toru",
+          "postal_code": "500006"
+        },
+        {
+          "name": "Bonny",
+          "postal_code": "500007"
+        },
+        {
+          "name": "Degema",
+          "postal_code": "500008"
+        },
+        {
+          "name": "Eleme",
+          "postal_code": "500009"
+        },
+        {
+          "name": "Emohua",
+          "postal_code": "500010"
+        },
+        {
+          "name": "Etche",
+          "postal_code": "500011"
+        },
+        {
+          "name": "Gokana",
+          "postal_code": "500012"
+        },
+        {
+          "name": "Ikwerre",
+          "postal_code": "500013"
+        },
+        {
+          "name": "Khana",
+          "postal_code": "500014"
+        },
+        {
+          "name": "Obio/Akpor",
+          "postal_code": "500015"
+        },
+        {
+          "name": "Ogba/Egbema/Ndoni",
+          "postal_code": "500016"
+        },
+        {
+          "name": "Ogu/Bolo",
+          "postal_code": "500017"
+        },
+        {
+          "name": "Okrika",
+          "postal_code": "500018"
+        },
+        {
+          "name": "Omuma",
+          "postal_code": "500019"
+        },
+        {
+          "name": "Opobo/Nkoro",
+          "postal_code": "500020"
+        },
+        {
+          "name": "Oyigbo",
+          "postal_code": "500021"
+        },
+        {
+          "name": "Port Harcourt",
+          "postal_code": "500022"
+        },
+        {
+          "name": "Tai",
+          "postal_code": "500023"
+        }
+      ]
     },
     {
       "name": "Sokoto",

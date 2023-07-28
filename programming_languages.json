@@ -1,0 +1,134 @@
+{
+    "programming_languages": [
+        {
+            "name": "Python",
+            "created_by": "Guido van Rossum",
+            "syntax": "Python has a clean and easy-to-read syntax that uses indentation to define code blocks.",
+            "main_features": "Python is known for its simplicity, versatility, and a vast standard library. It supports multiple programming paradigms, including object-oriented, imperative, and functional.",
+            "popular_use_cases": "Python is widely used for web development, data analysis, artificial intelligence, machine learning, automation, and scripting.",
+            "frameworks_libraries": [
+                {"name": "Django", "created_by": "Django Software Foundation"},
+                {"name": "Flask", "created_by": "Armin Ronacher"},
+                {"name": "NumPy", "created_by": "Travis Olliphant"},
+                {"name": "Pandas", "created_by": "Wes McKinney"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "JavaScript",
+            "created_by": "Brendan Eich",
+            "syntax": "JavaScript uses curly braces to define code blocks and is primarily used as a scripting language for web development.",
+            "main_features": "JavaScript is a versatile language that runs on the client-side (in web browsers) and server-side (with Node.js). It allows dynamic, interactive content on websites.",
+            "popular_use_cases": "JavaScript is essential for front-end web development, creating interactive user interfaces, and building web applications.",
+            "frameworks_libraries": [
+                {"name": "React", "created_by": "Facebook"},
+                {"name": "Angular", "created_by": "Google"},
+                {"name": "Vue.js", "created_by": "Evan You"},
+                {"name": "Express.js", "created_by": "TJ Holowaychuk"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "Java",
+            "created_by": "James Gosling",
+            "syntax": "Java uses semicolons to end statements and curly braces for code blocks. It follows an object-oriented programming (OOP) paradigm.",
+            "main_features": "Java is platform-independent and known for its write-once, run-anywhere capability (WORA). It has a robust standard library and strong community support.",
+            "popular_use_cases": "Java is widely used for developing enterprise applications, Android mobile apps, backend services, and large-scale systems.",
+            "frameworks_libraries": [
+                {"name": "Spring", "created_by": "Pivotal Software"},
+                {"name": "Hibernate", "created_by": "Gavin King"},
+                {"name": "JavaFX", "created_by": "Oracle Corporation"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "C++",
+            "created_by": "Bjarne Stroustrup",
+            "syntax": "C++ is a superset of the C programming language and uses semicolons to end statements.",
+            "main_features": "C++ supports object-oriented, procedural, and generic programming. It provides direct memory access and control, making it efficient for system-level programming.",
+            "popular_use_cases": "C++ is commonly used for game development, system software, embedded systems, and performance-critical applications.",
+            "frameworks_libraries": [
+                {"name": "Qt", "created_by": "Qt Company"},
+                {"name": "Boost", "created_by": "Boost.org"},
+                {"name": "STL", "created_by": "ISO/IEC JTC1/SC22/WG21 (C++ Standards Committee)"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "Swift",
+            "created_by": "Apple Inc.",
+            "syntax": "Swift has a modern and concise syntax inspired by several programming languages.",
+            "main_features": "Swift is designed for safety and performance, offering features like optionals and automatic memory management.",
+            "popular_use_cases": "Swift is the primary language for iOS and macOS app development, and it is becoming popular for server-side applications.",
+            "frameworks_libraries": [
+                {"name": "UIKit", "created_by": "Apple Inc."},
+                {"name": "SwiftUI", "created_by": "Apple Inc."},
+                {"name": "Combine", "created_by": "Apple Inc."}
+            ],
+            "image": ""
+        },
+        {
+            "name": "Ruby",
+            "created_by": "Yukihiro Matsumoto",
+            "syntax": "Ruby uses simple and elegant syntax with significant whitespace.",
+            "main_features": "Ruby emphasizes simplicity and productivity. It follows the principles of \"Convention over Configuration\" and \"Don't Repeat Yourself\" (DRY).",
+            "popular_use_cases": "Ruby is commonly used for web development, especially with the Ruby on Rails framework.",
+            "frameworks_libraries": [
+                {"name": "Ruby on Rails", "created_by": "David Heinemeier Hansson"},
+                {"name": "Sinatra", "created_by": "Blake Mizerany"},
+                {"name": "RSpec", "created_by": "Steven Baker"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "Go (Golang)",
+            "created_by": "Robert Griesemer, Rob Pike, and Ken Thompson",
+            "syntax": "Go has a C-like syntax with explicit curly braces for code blocks.",
+            "main_features": "Go is designed for efficiency and simplicity. It has built-in support for concurrency with Goroutines and Channels.",
+            "popular_use_cases": "Go is used for backend development, cloud services, networking, and distributed systems.",
+            "frameworks_libraries": [
+                {"name": "Gin", "created_by": "Manu Mtz-Almeida"},
+                {"name": "Beego", "created_by": "astaxie"},
+                {"name": "Gorilla", "created_by": "Gorilla Toolkit"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "C#",
+            "created_by": "Microsoft Corporation",
+            "syntax": "C# has a syntax similar to Java and C++, using semicolons to end statements and curly braces for code blocks.",
+            "main_features": "C# is a language developed by Microsoft for its .NET platform. It supports object-oriented programming and has a robust standard library.",
+            "popular_use_cases": "C# is commonly used for Windows application development, game development with Unity, and enterprise software.",
+            "frameworks_libraries": [
+                {"name": "ASP.NET", "created_by": "Microsoft Corporation"},
+                {"name": "Entity Framework", "created_by": "Microsoft Corporation"},
+                {"name": "Xamarin", "created_by": "Microsoft Corporation"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "PHP",
+            "created_by": "Rasmus Lerdorf",
+            "syntax": "PHP syntax is similar to C and Perl, and it is embedded within HTML to create dynamic web pages.",
+            "main_features": "PHP is a server-side scripting language designed for web development. It offers extensive database support and is easy to learn.",
+            "popular_use_cases": "PHP is widely used for web development to create dynamic websites, content management systems (CMS), and e-commerce platforms.",
+            "frameworks_libraries": [
+                {"name": "Laravel", "created_by": "Taylor Otwell"},
+                {"name": "Symfony", "created_by": "Fabien Potencier"},
+                {"name": "CodeIgniter", "created_by": "EllisLab, British Columbia Institute of Technology"}
+            ],
+            "image": ""
+        },
+        {
+            "name": "C",
+            "created_by": "Dennis Ritchie",
+            "syntax": "C has a simple syntax with semicolons to end statements and curly braces for code blocks.",
+            "main_features": "C is a general-purpose programming language known for its efficiency and low-level memory manipulation capabilities.",
+            "popular_use_cases": "C is commonly used for system programming, embedded systems, firmware development, and operating systems.",
+            "frameworks_libraries": [
+                {"name": "None (C is a low-level language)", "created_by": ""}
+            ],
+            "image": ""
+        }
+    ]
+}
