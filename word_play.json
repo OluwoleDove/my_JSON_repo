@@ -1,0 +1,204 @@
+{
+  "Word Play": [
+    {
+      "Sentence": "A crimson car glides gracefully down the curved canyon.",
+      "Words": ["crimson", "car", "glides", "gracefully", "curved", "canyon"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "c",
+      "Meaning/Context": "A phrase with the repeated 'c' sound, describing a crimson car gliding gracefully down the curved canyon.",
+      "Category/Theme": "Travel",
+      "Tags": ["consonance", "wordplay", "crimson car", "glides", "curved canyon"],
+      "Source": "Drive - Ryan Gosling (2011)"
+    },
+    {
+      "Sentence": "Serenading stars softly shimmer in the silent sky.",
+      "Words": ["serenading", "stars", "softly", "shimmer", "silent", "sky"],
+      "Figure of speech": "Assonance",
+      "Vowel Sound": "i",
+      "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing serenading stars softly shimmering in the silent sky.",
+      "Category/Theme": "Night",
+      "Tags": ["assonance", "wordplay", "serenading stars", "softly shimmer", "silent sky"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Whirling winds whisk away the white wisps of winter.",
+      "Words": ["whirling", "winds", "whisk", "away", "white", "wisps", "winter"],
+      "Figure of speech": "Alliteration",
+      "Initial Consonant": "W",
+      "Meaning/Context": "An alliterative phrase depicting whirling winds whisking away the white wisps of winter.",
+      "Category/Theme": "Weather",
+      "Tags": ["alliteration", "wordplay", "whirling winds", "white wisps", "winter"],
+      "Source": "Frozen II - Evan Rachel Wood (2019)"
+    },
+    {
+      "Sentence": "Midnight moonbeams merge with the misty meadow.",
+      "Words": ["midnight", "moonbeams", "merge", "misty", "meadow"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "m",
+      "Meaning/Context": "A phrase with the repeated 'm' sound, describing midnight moonbeams merging with the misty meadow.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "midnight", "moonbeams", "misty meadow"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Jubilant jazz juxtaposes with joyful jumping.",
+      "Words": ["jubilant", "jazz", "juxtaposes", "joyful", "jumping"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "j",
+      "Meaning/Context": "A phrase with the repeated 'j' sound, describing jubilant jazz juxtaposing with joyful jumping.",
+      "Category/Theme": "Music",
+      "Tags": ["consonance", "wordplay", "jubilant jazz", "joyful jumping"],
+      "Source": "La La Land - Ryan Gosling (2016)"
+    },
+    {
+      "Sentence": "Violet violets bloom vibrantly in the verdant valley.",
+      "Words": ["violet", "violets", "bloom", "vibrantly", "verdant", "valley"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "v",
+      "Meaning/Context": "A phrase with the repeated 'v' sound, describing violet violets blooming vibrantly in the verdant valley.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "violet violets", "bloom", "verdant valley"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Gleaming galaxies gaze at the glittering galaxy.",
+      "Words": ["gleaming", "galaxies", "gaze", "glittering", "galaxy"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "g",
+      "Meaning/Context": "A phrase with the repeated 'g' sound, describing gleaming galaxies gazing at the glittering galaxy.",
+      "Category/Theme": "Space",
+      "Tags": ["consonance", "wordplay", "gleaming galaxies", "glittering galaxy"],
+      "Source": "Interstellar - Matthew McConaughey (2014)"
+    },
+    {
+      "Sentence": "Blissful breeze brushes against the blooming bluebells.",
+      "Words": ["blissful", "breeze", "brushes", "blooming", "bluebells"],
+      "Figure of speech": "Alliteration",
+      "Initial Consonant": "B",
+      "Meaning/Context": "An alliterative phrase depicting blissful breeze brushing against the blooming bluebells.",
+      "Category/Theme": "Nature",
+      "Tags": ["alliteration", "wordplay", "blissful breeze", "blooming bluebells"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Whistling winds whisper through the wheat fields.",
+      "Words": ["whistling", "winds", "whisper", "through", "wheat", "fields"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "w",
+      "Meaning/Context": "A phrase with the repeated 'w' sound, describing whistling winds whispering through the wheat fields.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "whistling winds", "whisper", "wheat fields"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Graceful gazelles gallop gracefully on the golden grasslands.",
+      "Words": ["graceful", "gazelles", "gallop", "gracefully", "golden", "grasslands"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "g",
+      "Meaning/Context": "A phrase with the repeated 'g' sound, describing graceful gazelles galloping gracefully on the golden grasslands.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "graceful gazelles", "gallop", "golden grasslands"],
+      "Source": "The Lion King - James Earl Jones (1994)"
+    },
+    {
+      "Sentence": "A crimson car glides gracefully down the curved canyon.",
+      "Words": ["crimson", "car", "glides", "gracefully", "curved", "canyon"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "c",
+      "Meaning/Context": "A phrase with the repeated 'c' sound, describing a crimson car gliding gracefully down the curved canyon.",
+      "Category/Theme": "Travel",
+      "Tags": ["consonance", "wordplay", "crimson car", "glides", "curved canyon"],
+      "Source": "Drive - Ryan Gosling (2011)"
+    },
+    {
+      "Sentence": "Serenading stars softly shimmer in the silent sky.",
+      "Words": ["serenading", "stars", "softly", "shimmer", "silent", "sky"],
+      "Figure of speech": "Assonance",
+      "Vowel Sound": "i",
+      "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing serenading stars softly shimmering in the silent sky.",
+      "Category/Theme": "Night",
+      "Tags": ["assonance", "wordplay", "serenading stars", "softly shimmer", "silent sky"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Whirling winds whisk away the white wisps of winter.",
+      "Words": ["whirling", "winds", "whisk", "away", "white", "wisps", "winter"],
+      "Figure of speech": "Alliteration",
+      "Initial Consonant": "W",
+      "Meaning/Context": "An alliterative phrase depicting whirling winds whisking away the white wisps of winter.",
+      "Category/Theme": "Weather",
+      "Tags": ["alliteration", "wordplay", "whirling winds", "white wisps", "winter"],
+      "Source": "Frozen II - Evan Rachel Wood (2019)"
+    },
+    {
+      "Sentence": "Midnight moonbeams merge with the misty meadow.",
+      "Words": ["midnight", "moonbeams", "merge", "misty", "meadow"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "m",
+      "Meaning/Context": "A phrase with the repeated 'm' sound, describing midnight moonbeams merging with the misty meadow.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "midnight", "moonbeams", "misty meadow"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Jubilant jazz juxtaposes with joyful jumping.",
+      "Words": ["jubilant", "jazz", "juxtaposes", "joyful", "jumping"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "j",
+      "Meaning/Context": "A phrase with the repeated 'j' sound, describing jubilant jazz juxtaposing with joyful jumping.",
+      "Category/Theme": "Music",
+      "Tags": ["consonance", "wordplay", "jubilant jazz", "joyful jumping"],
+      "Source": "La La Land - Ryan Gosling (2016)"
+    },
+    {
+      "Sentence": "Violet violets bloom vibrantly in the verdant valley.",
+      "Words": ["violet", "violets", "bloom", "vibrantly", "verdant", "valley"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "v",
+      "Meaning/Context": "A phrase with the repeated 'v' sound, describing violet violets blooming vibrantly in the verdant valley.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "violet violets", "bloom", "verdant valley"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Gleaming galaxies gaze at the glittering galaxy.",
+      "Words": ["gleaming", "galaxies", "gaze", "glittering", "galaxy"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "g",
+      "Meaning/Context": "A phrase with the repeated 'g' sound, describing gleaming galaxies gazing at the glittering galaxy.",
+      "Category/Theme": "Space",
+      "Tags": ["consonance", "wordplay", "gleaming galaxies", "glittering galaxy"],
+      "Source": "Interstellar - Matthew McConaughey (2014)"
+    },
+    {
+      "Sentence": "Blissful breeze brushes against the blooming bluebells.",
+      "Words": ["blissful", "breeze", "brushes", "blooming", "bluebells"],
+      "Figure of speech": "Alliteration",
+      "Initial Consonant": "B",
+      "Meaning/Context": "An alliterative phrase depicting blissful breeze brushing against the blooming bluebells.",
+      "Category/Theme": "Nature",
+      "Tags": ["alliteration", "wordplay", "blissful breeze", "blooming bluebells"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Whistling winds whisper through the wheat fields.",
+      "Words": ["whistling", "winds", "whisper", "through", "wheat", "fields"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "w",
+      "Meaning/Context": "A phrase with the repeated 'w' sound, describing whistling winds whispering through the wheat fields.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "whistling winds", "whisper", "wheat fields"],
+      "Source": ""
+    },
+    {
+      "Sentence": "Graceful gazelles gallop gracefully on the golden grasslands.",
+      "Words": ["graceful", "gazelles", "gallop", "gracefully", "golden", "grasslands"],
+      "Figure of speech": "Consonance",
+      "Consonant Sound": "g",
+      "Meaning/Context": "A phrase with the repeated 'g' sound, describing graceful gazelles galloping gracefully on the golden grasslands.",
+      "Category/Theme": "Nature",
+      "Tags": ["consonance", "wordplay", "graceful gazelles", "gallop", "golden grasslands"],
+      "Source": "The Lion King - James Earl Jones (1994)"
+    }
+  ]
+}

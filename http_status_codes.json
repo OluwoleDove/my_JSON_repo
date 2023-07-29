@@ -1,0 +1,242 @@
+{
+    "100": {
+      "status": "Continue",
+      "class": "Informational"
+    },
+    "101": {
+      "status": "Switching Protocols",
+      "class": "Informational"
+    },
+    "102": {
+      "status": "Processing",
+      "class": "Informational"
+    },
+    "200": {
+      "status": "OK",
+      "class": "Successful"
+    },
+    "201": {
+      "status": "Created",
+      "class": "Successful"
+    },
+    "202": {
+      "status": "Accepted",
+      "class": "Successful"
+    },
+    "203": {
+      "status": "Non-Authoritative Information",
+      "class": "Successful"
+    },
+    "204": {
+      "status": "No Content",
+      "class": "Successful"
+    },
+    "205": {
+      "status": "Reset Content",
+      "class": "Successful"
+    },
+    "206": {
+      "status": "Partial Content",
+      "class": "Successful"
+    },
+    "207": {
+      "status": "Multi-Status",
+      "class": "Successful"
+    },
+    "208": {
+      "status": "Already Reported",
+      "class": "Successful"
+    },
+    "226": {
+      "status": "IM Used",
+      "class": "Successful"
+    },
+    "300": {
+      "status": "Multiple Choices",
+      "class": "Redirection"
+    },
+    "301": {
+      "status": "Moved Permanently",
+      "class": "Redirection"
+    },
+    "302": {
+      "status": "Found",
+      "class": "Redirection"
+    },
+    "303": {
+      "status": "See Other",
+      "class": "Redirection"
+    },
+    "304": {
+      "status": "Not Modified",
+      "class": "Redirection"
+    },
+    "305": {
+      "status": "Use Proxy",
+      "class": "Redirection"
+    },
+    "307": {
+      "status": "Temporary Redirect",
+      "class": "Redirection"
+    },
+    "308": {
+      "status": "Permanent Redirect",
+      "class": "Redirection"
+    },
+    "400": {
+      "status": "Bad Request",
+      "class": "Client Error"
+    },
+    "401": {
+      "status": "Unauthorized",
+      "class": "Client Error"
+    },
+    "402": {
+      "status": "Payment Required",
+      "class": "Client Error"
+    },
+    "403": {
+      "status": "Forbidden",
+      "class": "Client Error"
+    },
+    "404": {
+      "status": "Not Found",
+      "class": "Client Error"
+    },
+    "405": {
+      "status": "Method Not Allowed",
+      "class": "Client Error"
+    },
+    "406": {
+      "status": "Not Acceptable",
+      "class": "Client Error"
+    },
+    "407": {
+      "status": "Proxy Authentication Required",
+      "class": "Client Error"
+    },
+    "408": {
+      "status": "Request Timeout",
+      "class": "Client Error"
+    },
+    "409": {
+      "status": "Conflict",
+      "class": "Client Error"
+    },
+    "410": {
+      "status": "Gone",
+      "class": "Client Error"
+    },
+    "411": {
+      "status": "Length Required",
+      "class": "Client Error"
+    },
+    "412": {
+      "status": "Precondition Failed",
+      "class": "Client Error"
+    },
+    "413": {
+      "status": "Payload Too Large",
+      "class": "Client Error"
+    },
+    "414": {
+      "status": "URI Too Long",
+      "class": "Client Error"
+    },
+    "415": {
+      "status": "Unsupported Media Type",
+      "class": "Client Error"
+    },
+    "416": {
+      "status": "Range Not Satisfiable",
+      "class": "Client Error"
+    },
+    "417": {
+      "status": "Expectation Failed",
+      "class": "Client Error"
+    },
+    "418": {
+      "status": "I'm a teapot",
+      "class": "Client Error"
+    },
+    "421": {
+      "status": "Misdirected Request",
+      "class": "Client Error"
+    },
+    "422": {
+      "status": "Unprocessable Entity",
+      "class": "Client Error"
+    },
+    "423": {
+      "status": "Locked",
+      "class": "Client Error"
+    },
+    "424": {
+      "status": "Failed Dependency",
+      "class": "Client Error"
+    },
+    "426": {
+      "status": "Upgrade Required",
+      "class": "Client Error"
+    },
+    "428": {
+      "status": "Precondition Required",
+      "class": "Client Error"
+    },
+    "429": {
+      "status": "Too Many Requests",
+      "class": "Client Error"
+    },
+    "431": {
+      "status": "Request Header Fields Too Large",
+      "class": "Client Error"
+    },
+    "451": {
+      "status": "Unavailable For Legal Reasons",
+      "class": "Client Error"
+    },
+    "500": {
+      "status": "Internal Server Error",
+      "class": "Server Error"
+    },
+    "501": {
+      "status": "Not Implemented",
+      "class": "Server Error"
+    },
+    "502": {
+      "status": "Bad Gateway",
+      "class": "Server Error"
+    },
+    "503": {
+      "status": "Service Unavailable",
+      "class": "Server Error"
+    },
+    "504": {
+      "status": "Gateway Timeout",
+      "class": "Server Error"
+    },
+    "505": {
+      "status": "HTTP Version Not Supported",
+      "class": "Server Error"
+    },
+    "506": {
+      "status": "Variant Also Negotiates",
+      "class": "Server Error"
+    },
+    "507": {
+      "status": "Insufficient Storage",
+      "class": "Server Error"
+    },
+    "508": {
+      "status": "Loop Detected",
+      "class": "Server Error"
+    },
+    "510": {
+      "status": "Not Extended",
+      "class": "Server Error"
+    },
+    "511": {
+      "status": "Network Authentication Required",
+      "class": "Server Error"
+    }
+  }  
