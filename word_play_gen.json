@@ -19,6 +19,33 @@
         "Tags": ["alliteration", "wordplay", "Silly Sally", "school", "children"]
       },
       {
+        "Sentence": "Breaking waves fade away on the bay.",
+        "Words": ["waves", "fade", "away", "bay"],
+        "Figure of speech": "Assonance",
+        "Vowel Sound": "ay",
+        "Meaning/Context": "An assonant phrase with the repeated 'ay' sound, describing the fading waves on the bay.",
+        "Category/Theme": "Nature",
+        "Tags": ["assonance", "waves", "fade", "bay", "nature"]
+      },
+      {
+        "Sentence": "Whispering winds twist and twirl.",
+        "Words": ["Whispering", "winds", "twist", "twirl"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "tw",
+        "Meaning/Context": "The line uses consonance with the repeated 'tw' sound to evoke the motion of the winds.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "winds", "twist", "twirl", "nature"]
+      },
+      {
+        "Sentence": "Silent shadows slip through the sixth street.",
+        "Words": ["Silent", "shadows", "slip", "streets"],
+        "Figure of speech": "Alliteration",
+        "Initial Consonant Sound": "s",
+        "Meaning/Context": "This line is an example of alliteration, with the initial 's' sound repeated in 'Silent,' 'shadows,' 'slip,' and 'streets.'",
+        "Category/Theme": "Urban",
+        "Tags": ["alliteration", "shadows", "streets", "urban"]
+      },
+      {
         "Sentence": "The ship has sailed into the sunset.",
         "Words": ["ship", "sailed", "sunset"],
         "Figure of speech": "Consonance",
@@ -28,7 +55,7 @@
         "Tags": ["consonance", "wordplay", "ship", "sunset", "travel"]
       },
       {
-        "Sentence": "She sells seashells by the seashore.",
+        "Sentence": "Shelby sells seashells by the seashore.",
         "Words": ["sells", "seashells", "seashore"],
         "Figure of speech": "Consonance",
         "Consonant Sound": "s",
