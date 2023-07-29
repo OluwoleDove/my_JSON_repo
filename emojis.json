@@ -1,0 +1,1777 @@
+{
+    "😀": {
+      "unicode": "\uD83D\uDE00",
+      "html_entity": "&#128512;",
+      "name": "Grinning Face"
+    },
+    "😃": {
+      "unicode": "\uD83D\uDE03",
+      "html_entity": "&#128515;",
+      "name": "Grinning Face with Big Eyes"
+    },
+    "😄": {
+      "unicode": "\uD83D\uDE04",
+      "html_entity": "&#128516;",
+      "name": "Grinning Face with Smiling Eyes"
+    },
+    "😁": {
+      "unicode": "\uD83D\uDE01",
+      "html_entity": "&#128513;",
+      "name": "Beaming Face with Smiling Eyes"
+    },
+    "😆": {
+      "unicode": "\uD83D\uDE06",
+      "html_entity": "&#128518;",
+      "name": "Grinning Squinting Face"
+    },
+    "😅": {
+      "unicode": "\uD83D\uDE05",
+      "html_entity": "&#128517;",
+      "name": "Grinning Face with Sweat"
+    },
+    "🤣": {
+      "unicode": "\uD83E\uDD23",
+      "html_entity": "&#129315;",
+      "name": "Rolling on the Floor Laughing"
+    },
+    "😂": {
+      "unicode": "\uD83D\uDE02",
+      "html_entity": "&#128514;",
+      "name": "Face with Tears of Joy"
+    },
+    "🙂": {
+      "unicode": "\uD83D\uDE42",
+      "html_entity": "&#128578;",
+      "name": "Slightly Smiling Face"
+    },
+    "🙃": {
+      "unicode": "\uD83D\uDE43",
+      "html_entity": "&#128579;",
+      "name": "Upside-Down Face"
+    },
+    "😉": {
+      "unicode": "\uD83D\uDE09",
+      "html_entity": "&#128521;",
+      "name": "Winking Face"
+    },
+    "😊": {
+      "unicode": "\uD83D\uDE0A",
+      "html_entity": "&#128522;",
+      "name": "Smiling Face with Smiling Eyes"
+    },
+    "😇": {
+      "unicode": "\uD83D\uDE07",
+      "html_entity": "&#128519;",
+      "name": "Smiling Face with Halo"
+    },
+    "🥰": {
+      "unicode": "\uD83E\uDD70",
+      "html_entity": "&#129392;",
+      "name": "Smiling Face with Hearts"
+    },
+    "😍": {
+      "unicode": "\uD83D\uDE0D",
+      "html_entity": "&#128525;",
+      "name": "Smiling Face with Heart-Eyes"
+    },
+    "🤩": {
+      "unicode": "\uD83E\uDD29",
+      "html_entity": "&#129321;",
+      "name": "Star-Struck"
+    },
+    "😘": {
+      "unicode": "\uD83D\uDE18",
+      "html_entity": "&#128536;",
+      "name": "Face Blowing a Kiss"
+    },
+    "😗": {
+      "unicode": "\uD83D\uDE17",
+      "html_entity": "&#128535;",
+      "name": "Kissing Face"
+    },
+    "😚": {
+      "unicode": "\uD83D\uDE1A",
+      "html_entity": "&#128538;",
+      "name": "Kissing Face with Closed Eyes"
+    },
+    "😙": {
+      "unicode": "\uD83D\uDE19",
+      "html_entity": "&#128537;",
+      "name": "Kissing Face with Smiling Eyes"
+    },
+    "😋": {
+      "unicode": "\uD83D\uDE0B",
+      "html_entity": "&#128523;",
+      "name": "Face Savoring Food"
+    },
+    "😛": {
+      "unicode": "\uD83D\uDE1B",
+      "html_entity": "&#128539;",
+      "name": "Face with Tongue"
+    },
+    "😜": {
+      "unicode": "\uD83D\uDE1C",
+      "html_entity": "&#128540;",
+      "name": "Winking Face with Tongue"
+    },
+    "🤪": {
+      "unicode": "\uD83E\uDD2A",
+      "html_entity": "&#129322;",
+      "name": "Zany Face"
+    },
+    "😝": {
+      "unicode": "\uD83D\uDE1D",
+      "html_entity": "&#128541;",
+      "name": "Squinting Face with Tongue"
+    },
+    "🤑": {
+      "unicode": "\uD83E\uDD11",
+      "html_entity": "&#129297;",
+      "name": "Money-Mouth Face"
+    },
+    "🤗": {
+      "unicode": "\uD83E\uDD17",
+      "html_entity": "&#129303;",
+      "name": "Hugging Face"
+    },
+    "🤭": {
+      "unicode": "\uD83E\uDD2D",
+      "html_entity": "&#129309;",
+      "name": "Face with Hand Over Mouth"
+    },
+    "🤫": {
+      "unicode": "\uD83E\uDD1F",
+      "html_entity": "&#129295;",
+      "name": "Shushing Face"
+    },
+    "🤔": {
+      "unicode": "\uD83E\uDD14",
+      "html_entity": "&#129300;",
+      "name": "Thinking Face"
+    },
+    "🤐": {
+      "unicode": "\uD83E\uDD10",
+      "html_entity": "&#129296;",
+      "name": "Zipper-Mouth Face"
+    },
+    "🤨": {
+      "unicode": "\uD83E\uDD28",
+      "html_entity": "&#129304;",
+      "name": "Face with Raised Eyebrow"
+    },
+    "😐": {
+      "unicode": "\uD83D\uDE10",
+      "html_entity": "&#128528;",
+      "name": "Neutral Face"
+    },
+    "😑": {
+      "unicode": "\uD83D\uDE11",
+      "html_entity": "&#128529;",
+      "name": "Expressionless Face"
+    },
+    "😶": {
+      "unicode": "\uD83D\uDE36",
+      "html_entity": "&#128566;",
+      "name": "Face Without Mouth"
+    },
+    "😏": {
+      "unicode": "\uD83D\uDE0F",
+      "html_entity": "&#128527;",
+      "name": "Smirking Face"
+    },
+    "😒": {
+      "unicode": "\uD83D\uDE12",
+      "html_entity": "&#128530;",
+      "name": "Unamused Face"
+    },
+    "🙄": {
+      "unicode": "\uD83D\uDE44",
+      "html_entity": "&#128580;",
+      "name": "Face with Rolling Eyes"
+    },
+    "😬": {
+      "unicode": "\uD83D\uDE2C",
+      "html_entity": "&#128556;",
+      "name": "Grimacing Face"
+    },
+    "🤥": {
+      "unicode": "\uD83E\uDD25",
+      "html_entity": "&#129317;",
+      "name": "Lying Face"
+    },
+    "😌": {
+      "unicode": "\uD83D\uDE0C",
+      "html_entity": "&#128524;",
+      "name": "Relieved Face"
+    },
+    "😔": {
+      "unicode": "\uD83D\uDE14",
+      "html_entity": "&#128532;",
+      "name": "Pensive Face"
+    },
+    "😪": {
+      "unicode": "\uD83D\uDE2A",
+      "html_entity": "&#128554;",
+      "name": "Sleepy Face"
+    },
+    "🤤": {
+      "unicode": "\uD83E\uDD24",
+      "html_entity": "&#129316;",
+      "name": "Drooling Face"
+    },
+    "😴": {
+      "unicode": "\uD83D\uDE34",
+      "html_entity": "&#128564;",
+      "name": "Sleeping Face"
+    },
+    "💤": {
+      "unicode": "\uD83D\uDDA4",
+      "html_entity": "&#128164;",
+      "name": "Zzz"
+    },
+    "😷": {
+      "unicode": "\uD83D\uDE37",
+      "html_entity": "&#128567;",
+      "name": "Face with Medical Mask"
+    },
+    "🤒": {
+      "unicode": "\uD83E\uDD12",
+      "html_entity": "&#129298;",
+      "name": "Face with Thermometer"
+    },
+    "🤕": {
+      "unicode": "\uD83E\uDD15",
+      "html_entity": "&#129301;",
+      "name": "Face with Head-Bandage"
+    },
+    "🤢": {
+      "unicode": "\uD83E\uDD22",
+      "html_entity": "&#129314;",
+      "name": "Nauseated Face"
+    },
+    "🤮": {
+      "unicode": "\uD83E\uDD2E",
+      "html_entity": "&#129326;",
+      "name": "Face Vomiting"
+    },
+    "🤧": {
+      "unicode": "\uD83E\uDD27",
+      "html_entity": "&#129319;",
+      "name": "Sneezing Face"
+    },
+    "🥵": {
+      "unicode": "\uD83E\uDD75",
+      "html_entity": "&#129365;",
+      "name": "Hot Face"
+    },
+    "🥶": {
+      "unicode": "\uD83E\uDD76",
+      "html_entity": "&#129366;",
+      "name": "Cold Face"
+    },
+    "🥴": {
+      "unicode": "\uD83E\uDD34",
+      "html_entity": "&#129300;",
+      "name": "Woozy Face"
+    },
+    "😵": {
+      "unicode": "\uD83D\uDE35",
+      "html_entity": "&#128565;",
+      "name": "Dizzy Face"
+    },
+    "🤯": {
+      "unicode": "\uD83E\uDD2F",
+      "html_entity": "&#129327;",
+      "name": "Exploding Head"
+    },
+    "🤠": {
+      "unicode": "\uD83E\uDD20",
+      "html_entity": "&#129312;",
+      "name": "Cowboy Hat Face"
+    },
+    "🥳": {
+      "unicode": "\uD83E\uDD73",
+      "html_entity": "&#129363;",
+      "name": "Partying Face"
+    },
+    "🥸": {
+      "unicode": "\uD83E\uDD78",
+      "html_entity": "&#129370;",
+      "name": "Disguised Face"
+    },
+    "😎": {
+      "unicode": "\uD83D\uDE0E",
+      "html_entity": "&#128526;",
+      "name": "Smiling Face with Sunglasses"
+    },
+    "🤓": {
+      "unicode": "\uD83E\uDD13",
+      "html_entity": "&#129299;",
+      "name": "Nerd Face"
+    },
+    "🧐": {
+      "unicode": "\uD83E\uDD2E",
+      "html_entity": "&#129326;",
+      "name": "Face with Monocle"
+    },
+    "😕": {
+      "unicode": "\uD83D\uDE15",
+      "html_entity": "&#128533;",
+      "name": "Confused Face"
+    },
+    "😟": {
+      "unicode": "\uD83D\uDE1F",
+      "html_entity": "&#128543;",
+      "name": "Worried Face"
+    },
+    "🙁": {
+      "unicode": "\uD83D\uDE41",
+      "html_entity": "&#128577;",
+      "name": "Slightly Frowning Face"
+    },
+    "☹️": {
+      "unicode": "\u2639\uFE0F",
+      "html_entity": "&#9785;",
+      "name": "Frowning Face"
+    },
+    "😮": {
+      "unicode": "\uD83D\uDE2E",
+      "html_entity": "&#128558;",
+      "name": "Face with Open Mouth"
+    },
+    "😯": {
+      "unicode": "\uD83D\uDE2F",
+      "html_entity": "&#128559;",
+      "name": "Hushed Face"
+    },
+    "😲": {
+      "unicode": "\uD83D\uDE32",
+      "html_entity": "&#128562;",
+      "name": "Astonished Face"
+    },
+    "😳": {
+      "unicode": "\uD83D\uDE33",
+      "html_entity": "&#128563;",
+      "name": "Flushed Face"
+    },
+    "🥺": {
+      "unicode": "\uD83E\uDD7A",
+      "html_entity": "&#129370;",
+      "name": "Pleading Face"
+    },
+    "😦": {
+      "unicode": "\uD83D\uDE26",
+      "html_entity": "&#128550;",
+      "name": "Frowning Face with Open Mouth"
+    },
+    "😧": {
+      "unicode": "\uD83D\uDE27",
+      "html_entity": "&#128551;",
+      "name": "Anguished Face"
+    },
+    "😨": {
+      "unicode": "\uD83D\uDE28",
+      "html_entity": "&#128552;",
+      "name": "Fearful Face"
+    },
+    "😰": {
+      "unicode": "\uD83D\uDE30",
+      "html_entity": "&#128560;",
+      "name": "Anxious Face with Sweat"
+    },
+    "😥": {
+      "unicode": "\uD83D\uDE25",
+      "html_entity": "&#128549;",
+      "name": "Sad but Relieved Face"
+    },
+    "😢": {
+      "unicode": "\uD83D\uDE22",
+      "html_entity": "&#128546;",
+      "name": "Crying Face"
+    },
+    "😭": {
+      "unicode": "\uD83D\uDE2D",
+      "html_entity": "&#128557;",
+      "name": "Loudly Crying Face"
+    },
+    "😱": {
+      "unicode": "\uD83D\uDE31",
+      "html_entity": "&#128561;",
+      "name": "Face Screaming in Fear"
+    },
+    "😖": {
+      "unicode": "\uD83D\uDE16",
+      "html_entity": "&#128534;",
+      "name": "Confounded Face"
+    },
+    "😣": {
+      "unicode": "\uD83D\uDE23",
+      "html_entity": "&#128547;",
+      "name": "Persevering Face"
+    },
+    "😞": {
+      "unicode": "\uD83D\uDE1E",
+      "html_entity": "&#128542;",
+      "name": "Disappointed Face"
+    },
+    "😓": {
+      "unicode": "\uD83D\uDE13",
+      "html_entity": "&#128531;",
+      "name": "Downcast Face with Sweat"
+    },
+    "😩": {
+      "unicode": "\uD83D\uDE29",
+      "html_entity": "&#128553;",
+      "name": "Weary Face"
+    },
+    "😫": {
+      "unicode": "\uD83D\uDE2B",
+      "html_entity": "&#128555;",
+      "name": "Tired Face"
+    },
+    "🥱": {
+      "unicode": "\uD83E\uDD71",
+      "html_entity": "&#129361;",
+      "name": "Yawning Face"
+    },
+    "😤": {
+      "unicode": "\uD83D\uDE24",
+      "html_entity": "&#128548;",
+      "name": "Face with Steam From Nose"
+    },
+    "😡": {
+      "unicode": "\uD83D\uDE21",
+      "html_entity": "&#128545;",
+      "name": "Pouting Face"
+    },
+    "😠": {
+      "unicode": "\uD83D\uDE20",
+      "html_entity": "&#128544;",
+      "name": "Angry Face"
+    },
+    "🤬": {
+      "unicode": "\uD83E\uDD2C",
+      "html_entity": "&#129324;",
+      "name": "Face with Symbols on Mouth"
+    },
+    "😈": {
+      "unicode": "\uD83D\uDC7A",
+      "html_entity": "&#128122;",
+      "name": "Smiling Face with Horns"
+    },
+    "👿": {
+      "unicode": "\uD83D\uDC7F",
+      "html_entity": "&#128127;",
+      "name": "Angry Face with Horns"
+    },
+    "💀": {
+      "unicode": "\uD83D\uDC80",
+      "html_entity": "&#128128;",
+      "name": "Skull"
+    },
+    "☠️": {
+      "unicode": "\u2620\uFE0F",
+      "html_entity": "&#9760;",
+      "name": "Skull and Crossbones"
+    },
+    "💩": {
+      "unicode": "\uD83D\uDCA9",
+      "html_entity": "&#128169;",
+      "name": "Pile of Poo"
+    },
+    "🤡": {
+      "unicode": "\uD83E\uDD21",
+      "html_entity": "&#129313;",
+      "name": "Clown Face"
+    },
+    "👹": {
+      "unicode": "\uD83D\uDC79",
+      "html_entity": "&#128121;",
+      "name": "Ogre"
+    },
+    "👺": {
+      "unicode": "\uD83D\uDC7A",
+      "html_entity": "&#128122;",
+      "name": "Goblin"
+    },
+    "👻": {
+      "unicode": "\uD83D\uDC7B",
+      "html_entity": "&#128123;",
+      "name": "Ghost"
+    },
+    "👽": {
+      "unicode": "\uD83D\uDC7D",
+      "html_entity": "&#128125;",
+      "name": "Alien"
+    },
+    "👾": {
+      "unicode": "\uD83D\uDC7E",
+      "html_entity": "&#128126;",
+      "name": "Alien Monster"
+    },
+    "🤖": {
+      "unicode": "\uD83E\uDD16",
+      "html_entity": "&#129302;",
+      "name": "Robot Face"
+    },
+    "😺": {
+      "unicode": "\uD83D\uDE3A",
+      "html_entity": "&#128570;",
+      "name": "Grinning Cat"
+    },
+    "😸": {
+      "unicode": "\uD83D\uDE38",
+      "html_entity": "&#128568;",
+      "name": "Grinning Cat with Smiling Eyes"
+    },
+    "😹": {
+      "unicode": "\uD83D\uDE39",
+      "html_entity": "&#128569;",
+      "name": "Cat with Tears of Joy"
+    },
+    "😻": {
+      "unicode": "\uD83D\uDE3B",
+      "html_entity": "&#128571;",
+      "name": "Smiling Cat with Heart-Eyes"
+    },
+    "😼": {
+      "unicode": "\uD83D\uDE3C",
+      "html_entity": "&#128572;",
+      "name": "Cat with Wry Smile"
+    },
+    "😽": {
+      "unicode": "\uD83D\uDE3D",
+      "html_entity": "&#128573;",
+      "name": "Kissing Cat"
+    },
+    "🙀": {
+      "unicode": "\uD83D\uDE40",
+      "html_entity": "&#128576;",
+      "name": "Weary Cat"
+    },
+    "😿": {
+      "unicode": "\uD83D\uDE3F",
+      "html_entity": "&#128575;",
+      "name": "Crying Cat"
+    },
+    "😾": {
+      "unicode": "\uD83D\uDE3E",
+      "html_entity": "&#128574;",
+      "name": "Pouting Cat"
+    },
+    "🙈": {
+      "unicode": "\uD83D\uDE48",
+      "html_entity": "&#128584;",
+      "name": "See-No-Evil Monkey"
+    },
+    "🙉": {
+      "unicode": "\uD83D\uDE49",
+      "html_entity": "&#128585;",
+      "name": "Hear-No-Evil Monkey"
+    },
+    "🙊": {
+      "unicode": "\uD83D\uDE4A",
+      "html_entity": "&#128586;",
+      "name": "Speak-No-Evil Monkey"
+    },
+    "💋": {
+      "unicode": "\uD83D\uDC8B",
+      "html_entity": "&#128139;",
+      "name": "Kiss Mark"
+    },
+    "💌": {
+      "unicode": "\uD83D\uDC8C",
+      "html_entity": "&#128140;",
+      "name": "Love Letter"
+    },
+    "💘": {
+      "unicode": "\uD83D\uDC98",
+      "html_entity": "&#128152;",
+      "name": "Heart with Arrow"
+    },
+    "💝": {
+      "unicode": "\uD83D\uDC9D",
+      "html_entity": "&#128157;",
+      "name": "Heart with Ribbon"
+    },
+    "💖": {
+      "unicode": "\uD83D\uDC96",
+      "html_entity": "&#128150;",
+      "name": "Sparkling Heart"
+    },
+    "💗": {
+      "unicode": "\uD83D\uDC97",
+      "html_entity": "&#128151;",
+      "name": "Growing Heart"
+    },
+    "💓": {
+      "unicode": "\uD83D\uDC93",
+      "html_entity": "&#128147;",
+      "name": "Beating Heart"
+    },
+    "💞": {
+      "unicode": "\uD83D\uDC9E",
+      "html_entity": "&#128158;",
+      "name": "Revolving Hearts"
+    },
+    "💕": {
+      "unicode": "\uD83D\uDC95",
+      "html_entity": "&#128149;",
+      "name": "Two Hearts"
+    },
+    "💟": {
+      "unicode": "\uD83D\uDC9F",
+      "html_entity": "&#128159;",
+      "name": "Heart Decoration"
+    },
+    "❣️": {
+      "unicode": "\u2763\uFE0F",
+      "html_entity": "&#10083;",
+      "name": "Heart Exclamation"
+    },
+    "💔": {
+      "unicode": "\uD83D\uDC94",
+      "html_entity": "&#128148;",
+      "name": "Broken Heart"
+    },
+    "❤️": {
+      "unicode": "\u2764\uFE0F",
+      "html_entity": "&#10084;",
+      "name": "Red Heart"
+    },
+    "🧡": {
+      "unicode": "\uD83E\uDDE1",
+      "html_entity": "&#129505;",
+      "name": "Orange Heart"
+    },
+    "💛": {
+      "unicode": "\uD83D\uDC9B",
+      "html_entity": "&#128155;",
+      "name": "Yellow Heart"
+    },
+    "💚": {
+      "unicode": "\uD83D\uDC9A",
+      "html_entity": "&#128154;",
+      "name": "Green Heart"
+    },
+    "💙": {
+      "unicode": "\uD83D\uDC99",
+      "html_entity": "&#128153;",
+      "name": "Blue Heart"
+    },
+    "💜": {
+      "unicode": "\uD83D\uDC9C",
+      "html_entity": "&#128156;",
+      "name": "Purple Heart"
+    },
+    "🤎": {
+      "unicode": "\uD83E\uDD8E",
+      "html_entity": "&#129454;",
+      "name": "Brown Heart"
+    },
+    "🖤": {
+      "unicode": "\uD83D\uDDA4",
+      "html_entity": "&#128420;",
+      "name": "Black Heart"
+    },
+    "🤍": {
+      "unicode": "\uD83E\uDDFD",
+      "html_entity": "&#129405;",
+      "name": "White Heart"
+    },
+    "💯": {
+      "unicode": "\uD83D\uDCAF",
+      "html_entity": "&#128175;",
+      "name": "Hundred Points"
+    },
+    "💢": {
+      "unicode": "\uD83D\uDCA2",
+      "html_entity": "&#128162;",
+      "name": "Anger Symbol"
+    },
+    "💥": {
+      "unicode": "\uD83D\uDCA5",
+      "html_entity": "&#128165;",
+      "name": "Collision"
+    },
+    "💫": {
+      "unicode": "\uD83D\uDCAB",
+      "html_entity": "&#128171;",
+      "name": "Dizzy"
+    },
+    "💦": {
+      "unicode": "\uD83D\uDCA6",
+      "html_entity": "&#128166;",
+      "name": "Sweat Droplets"
+    },
+    "💨": {
+      "unicode": "\uD83D\uDCA8",
+      "html_entity": "&#128168;",
+      "name": "Dashing Away"
+    },
+    "🕳️": {
+      "unicode": "\uD83D\uDD73\uFE0F",
+      "html_entity": "&#128371;",
+      "name": "Hole"
+    },
+    "💣": {
+      "unicode": "\uD83D\uDCA3",
+      "html_entity": "&#128163;",
+      "name": "Bomb"
+    },
+    "💬": {
+      "unicode": "\uD83D\uDDE8",
+      "html_entity": "&#128488;",
+      "name": "Speech Balloon"
+    },
+    "👁️‍🗨️": {
+      "unicode": "\uD83D\uDC41\uFE0F\u200D\uD83D\uDDE8\uFE0F",
+      "html_entity": "&#128065;&#65039;&#8205;&#128488;&#65039;",
+      "name": "Eye in Speech Bubble"
+    },
+    "🗨️": {
+      "unicode": "\uD83D\uDDE8",
+      "html_entity": "&#128488;",
+      "name": "Left Speech Bubble"
+    },
+    "🗯️": {
+      "unicode": "\uD83D\uDDEF",
+      "html_entity": "&#128495;",
+      "name": "Right Anger Bubble"
+    },
+    "💭": {
+      "unicode": "\uD83D\uDCAD",
+      "html_entity": "&#128173;",
+      "name": "Thought Balloon"
+    },
+    "💤": {
+      "unicode": "\uD83D\uDCA4",
+      "html_entity": "&#128164;",
+      "name": "Zzz"
+    },
+    "👋": {
+      "unicode": "\uD83D\uDC4B",
+      "html_entity": "&#128075;",
+      "name": "Waving Hand"
+    },
+    "🤚": {
+      "unicode": "\uD83E\uDD1A",
+      "html_entity": "&#129306;",
+      "name": "Raised Back of Hand"
+    },
+    "🖐️": {
+      "unicode": "\uD83D\uDD90\uFE0F",
+      "html_entity": "&#128400;",
+      "name": "Hand with Fingers Splayed"
+    },
+    "✋": {
+      "unicode": "\u270B",
+      "html_entity": "&#9995;",
+      "name": "Raised Hand"
+    },
+    "🖖": {
+      "unicode": "\uD83D\uDD96",
+      "html_entity": "&#128406;",
+      "name": "Vulcan Salute"
+    },
+    "👌": {
+      "unicode": "\uD83D\uDC4C",
+      "html_entity": "&#128076;",
+      "name": "OK Hand"
+    },
+    "🤌": {
+      "unicode": "\uD83E\uDD90",
+      "html_entity": "&#129328;",
+      "name": "Pinched Fingers"
+    },
+    "🤏": {
+      "unicode": "\uD83E\uDD70",
+      "html_entity": "&#129392;",
+      "name": "Pinching Hand"
+    },
+    "✌️": {
+      "unicode": "\u270C\uFE0F",
+      "html_entity": "&#9996;",
+      "name": "Victory Hand"
+    },
+    "🤞": {
+      "unicode": "\uD83E\uDD1E",
+      "html_entity": "&#129310;",
+      "name": "Crossed Fingers"
+    },
+    "🤟": {
+      "unicode": "\uD83E\uDD1F",
+      "html_entity": "&#129311;",
+      "name": "Love-You Gesture"
+    },
+    "🤘": {
+      "unicode": "\uD83E\uDD18",
+      "html_entity": "&#129304;",
+      "name": "Sign of the Horns"
+    },
+    "🤙": {
+      "unicode": "\uD83E\uDD19",
+      "html_entity": "&#129305;",
+      "name": "Call Me Hand"
+    },
+    "👈": {
+      "unicode": "\uD83D\uDC48",
+      "html_entity": "&#128072;",
+      "name": "Backhand Index Pointing Left"
+    },
+    "👉": {
+      "unicode": "\uD83D\uDC49",
+      "html_entity": "&#128073;",
+      "name": "Backhand Index Pointing Right"
+    },
+    "👆": {
+      "unicode": "\uD83D\uDC46",
+      "html_entity": "&#128070;",
+      "name": "Backhand Index Pointing Up"
+    },
+    "🖕": {
+      "unicode": "\uD83D\uDD95",
+      "html_entity": "&#128405;",
+      "name": "Middle Finger"
+    },
+    "👇": {
+      "unicode": "\uD83D\uDC47",
+      "html_entity": "&#128071;",
+      "name": "Backhand Index Pointing Down"
+    },
+    "☝️": {
+      "unicode": "\u261D\uFE0F",
+      "html_entity": "&#9757;",
+      "name": "Index Pointing Up"
+    },
+    "👍": {
+      "unicode": "\uD83D\uDC4D",
+      "html_entity": "&#128077;",
+      "name": "Thumbs Up"
+    },
+    "👎": {
+      "unicode": "\uD83D\uDC4E",
+      "html_entity": "&#128078;",
+      "name": "Thumbs Down"
+    },
+    "✊": {
+      "unicode": "\u270A",
+      "html_entity": "&#9994;",
+      "name": "Raised Fist"
+    },
+    "👊": {
+      "unicode": "\uD83D\uDC4A",
+      "html_entity": "&#128074;",
+      "name": "Oncoming Fist"
+    },
+    "🤛": {
+      "unicode": "\uD83E\uDD1B",
+      "html_entity": "&#129307;",
+      "name": "Left-Facing Fist"
+    },
+    "🤜": {
+      "unicode": "\uD83E\uDD1C",
+      "html_entity": "&#129308;",
+      "name": "Right-Facing Fist"
+    },
+    "👏": {
+      "unicode": "\uD83D\uDC4F",
+      "html_entity": "&#128079;",
+      "name": "Clapping Hands"
+    },
+    "🙌": {
+      "unicode": "\uD83D\uDE4C",
+      "html_entity": "&#128076;",
+      "name": "Raising Hands"
+    },
+    "👐": {
+      "unicode": "\uD83D\uDC50",
+      "html_entity": "&#128080;",
+      "name": "Open Hands"
+    },
+    "🤲": {
+      "unicode": "\uD83E\uDD32",
+      "html_entity": "&#129330;",
+      "name": "Palms Up Together"
+    },
+    "🤝": {
+      "unicode": "\uD83E\uDD1D",
+      "html_entity": "&#129309;",
+      "name": "Handshake"
+    },
+    "🙏": {
+      "unicode": "\uD83D\uDE4F",
+      "html_entity": "&#128079;",
+      "name": "Folded Hands"
+    },
+    "✍️": {
+      "unicode": "\u270D\uFE0F",
+      "html_entity": "&#9997;",
+      "name": "Writing Hand"
+    },
+    "💅": {
+      "unicode": "\uD83D\uDC85",
+      "html_entity": "&#128133;",
+      "name": "Nail Polish"
+    },
+    "🤳": {
+      "unicode": "\uD83E\uDDF3",
+      "html_entity": "&#129459;",
+      "name": "Selfie"
+    },
+    "💪": {
+      "unicode": "\uD83D\uDCAA",
+      "html_entity": "&#128170;",
+      "name": "Flexed Biceps"
+    },
+    "🦾": {
+      "unicode": "\uD83E\uDDBE",
+      "html_entity": "&#129406;",
+      "name": "Mechanical Arm"
+    },
+    "🦿": {
+      "unicode": "\uD83E\uDDBF",
+      "html_entity": "&#129407;",
+      "name": "Mechanical Leg"
+    },
+    "🦵": {
+      "unicode": "\uD83E\uDDB5",
+      "html_entity": "&#129397;",
+      "name": "Leg"
+    },
+    "🦶": {
+      "unicode": "\uD83E\uDDB6",
+      "html_entity": "&#129398;",
+      "name": "Foot"
+    },
+    "👂": {
+      "unicode": "\uD83D\uDC42",
+      "html_entity": "&#128066;",
+      "name": "Ear"
+    },
+    "🦻": {
+      "unicode": "\uD83E\uDDBB",
+      "html_entity": "&#129403;",
+      "name": "Ear with Hearing Aid"
+    },
+    "👃": {
+      "unicode": "\uD83D\uDC43",
+      "html_entity": "&#128067;",
+      "name": "Nose"
+    },
+    "🧠": {
+      "unicode": "\uD83E\uDDE0",
+      "html_entity": "&#129504;",
+      "name": "Brain"
+    },
+    "🦷": {
+      "unicode": "\uD83E\uDDB7",
+      "html_entity": "&#129399;",
+      "name": "Tooth"
+    },
+    "🦴": {
+      "unicode": "\uD83E\uDDB4",
+      "html_entity": "&#129396;",
+      "name": "Bone"
+    },
+    "👀": {
+      "unicode": "\uD83D\uDC40",
+      "html_entity": "&#128064;",
+      "name": "Eyes"
+    },
+    "👁️": {
+      "unicode": "\uD83D\uDC41\uFE0F",
+      "html_entity": "&#128065;&#65039;",
+      "name": "Eye"
+    },
+    "👅": {
+      "unicode": "\uD83D\uDC45",
+      "html_entity": "&#128069;",
+      "name": "Tongue"
+    },
+    "👄": {
+      "unicode": "\uD83D\uDC44",
+      "html_entity": "&#128068;",
+      "name": "Mouth"
+    },
+    "👶": {
+      "unicode": "\uD83D\uDC76",
+      "html_entity": "&#128118;",
+      "name": "Baby"
+    },
+    "🧒": {
+      "unicode": "\uD83E\uDDD2",
+      "html_entity": "&#129458;",
+      "name": "Child"
+    },
+    "👦": {
+      "unicode": "\uD83D\uDC66",
+      "html_entity": "&#128102;",
+      "name": "Boy"
+    },
+    "👧": {
+      "unicode": "\uD83D\uDC67",
+      "html_entity": "&#128103;",
+      "name": "Girl"
+    },
+    "🧑": {
+      "unicode": "\uD83E\uDDD1",
+      "html_entity": "&#129457;",
+      "name": "Person"
+    },
+    "👱": {
+      "unicode": "\uD83D\uDC71",
+      "html_entity": "&#128113;",
+      "name": "Person: Blond Hair"
+    },
+    "👨": {
+      "unicode": "\uD83D\uDC68",
+      "html_entity": "&#128104;",
+      "name": "Man"
+    },
+    "🧔": {
+      "unicode": "\uD83E\uDDD4",
+      "html_entity": "&#129460;",
+      "name": "Person: Beard"
+    },
+    "👨‍🦰": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDB0",
+      "html_entity": "&#128104;&#8205;&#129392;",
+      "name": "Man: Red Hair"
+    },
+    "👨‍🦱": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDB1",
+      "html_entity": "&#128104;&#8205;&#129393;",
+      "name": "Man: Curly Hair"
+    },
+    "👨‍🦳": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDB3",
+      "html_entity": "&#128104;&#8205;&#129395;",
+      "name": "Man: White Hair"
+    },
+    "👨‍🦲": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDB2",
+      "html_entity": "&#128104;&#8205;&#129394;",
+      "name": "Man: Bald"
+    },
+    "👩": {
+      "unicode": "\uD83D\uDC69",
+      "html_entity": "&#128105;",
+      "name": "Woman"
+    },
+    "👩‍🦰": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDB0",
+      "html_entity": "&#128105;&#8205;&#129392;",
+      "name": "Woman: Red Hair"
+    },
+    "👩‍🦱": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDB1",
+      "html_entity": "&#128105;&#8205;&#129393;",
+      "name": "Woman: Curly Hair"
+    },
+    "👩‍🦳": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDB3",
+      "html_entity": "&#128105;&#8205;&#129395;",
+      "name": "Woman: White Hair"
+    },
+    "👩‍🦲": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDB2",
+      "html_entity": "&#128105;&#8205;&#129394;",
+      "name": "Woman: Bald"
+    },
+    "👱‍♀️": {
+      "unicode": "\uD83D\uDC71\u200D\uD83D\uDC69",
+      "html_entity": "&#128113;&#8205;&#128105;",
+      "name": "Woman: Blond Hair"
+    },
+    "👱‍♂️": {
+      "unicode": "\uD83D\uDC71\u200D\uD83D\uDC68",
+      "html_entity": "&#128113;&#8205;&#128104;",
+      "name": "Man: Blond Hair"
+    },
+    "🧓": {
+      "unicode": "\uD83E\uDDD3",
+      "html_entity": "&#129459;",
+      "name": "Older Person"
+    },
+    "👴": {
+      "unicode": "\uD83D\uDC74",
+      "html_entity": "&#128116;",
+      "name": "Old Man"
+    },
+    "👵": {
+      "unicode": "\uD83D\uDC75",
+      "html_entity": "&#128117;",
+      "name": "Old Woman"
+    },
+    "🙍": {
+      "unicode": "\uD83D\uDE4D",
+      "html_entity": "&#128077;",
+      "name": "Person Frowning"
+    },
+    "🙍‍♂️": {
+      "unicode": "\uD83D\uDE4D\u200D\uD83D\uDC68",
+      "html_entity": "&#128077;&#8205;&#128104;",
+      "name": "Man Frowning"
+    },
+    "🙍‍♀️": {
+      "unicode": "\uD83D\uDE4D\u200D\uD83D\uDC69",
+      "html_entity": "&#128077;&#8205;&#128105;",
+      "name": "Woman Frowning"
+    },
+    "🙎": {
+      "unicode": "\uD83D\uDE4E",
+      "html_entity": "&#128078;",
+      "name": "Person Pouting"
+    },
+    "🙎‍♂️": {
+      "unicode": "\uD83D\uDE4E\u200D\uD83D\uDC68",
+      "html_entity": "&#128078;&#8205;&#128104;",
+      "name": "Man Pouting"
+    },
+    "🙎‍♀️": {
+      "unicode": "\uD83D\uDE4E\u200D\uD83D\uDC69",
+      "html_entity": "&#128078;&#8205;&#128105;",
+      "name": "Woman Pouting"
+    },
+    "🙅": {
+      "unicode": "\uD83D\uDE45",
+      "html_entity": "&#128069;",
+      "name": "Person Gesturing No"
+    },
+    "🙅‍♂️": {
+      "unicode": "\uD83D\uDE45\u200D\uD83D\uDC68",
+      "html_entity": "&#128069;&#8205;&#128104;",
+      "name": "Man Gesturing No"
+    },
+    "🙅‍♀️": {
+      "unicode": "\uD83D\uDE45\u200D\uD83D\uDC69",
+      "html_entity": "&#128069;&#8205;&#128105;",
+      "name": "Woman Gesturing No"
+    },
+    "🙆": {
+      "unicode": "\uD83D\uDE46",
+      "html_entity": "&#128070;",
+      "name": "Person Gesturing OK"
+    },
+    "🙆‍♂️": {
+      "unicode": "\uD83D\uDE46\u200D\uD83D\uDC68",
+      "html_entity": "&#128070;&#8205;&#128104;",
+      "name": "Man Gesturing OK"
+    },
+    "🙆‍♀️": {
+      "unicode": "\uD83D\uDE46\u200D\uD83D\uDC69",
+      "html_entity": "&#128070;&#8205;&#128105;",
+      "name": "Woman Gesturing OK"
+    },
+    "💁": {
+      "unicode": "\uD83D\uDC81",
+      "html_entity": "&#128129;",
+      "name": "Person Tipping Hand"
+    },
+    "💁‍♂️": {
+      "unicode": "\uD83D\uDC81\u200D\uD83D\uDC68",
+      "html_entity": "&#128129;&#8205;&#128104;",
+      "name": "Man Tipping Hand"
+    },
+    "💁‍♀️": {
+      "unicode": "\uD83D\uDC81\u200D\uD83D\uDC69",
+      "html_entity": "&#128129;&#8205;&#128105;",
+      "name": "Woman Tipping Hand"
+    },
+    "🙋": {
+      "unicode": "\uD83D\uDE4B",
+      "html_entity": "&#128075;",
+      "name": "Person Raising Hand"
+    },
+    "🙋‍♂️": {
+      "unicode": "\uD83D\uDE4B\u200D\uD83D\uDC68",
+      "html_entity": "&#128075;&#8205;&#128104;",
+      "name": "Man Raising Hand"
+    },
+    "🙋‍♀️": {
+      "unicode": "\uD83D\uDE4B\u200D\uD83D\uDC69",
+      "html_entity": "&#128075;&#8205;&#128105;",
+      "name": "Woman Raising Hand"
+    },
+    "🧏": {
+      "unicode": "\uD83E\uDDBF",
+      "html_entity": "&#129407;",
+      "name": "Deaf Person"
+    },
+    "🧏‍♂️": {
+      "unicode": "\uD83E\uDDBF\u200D\uD83D\uDC68",
+      "html_entity": "&#129407;&#8205;&#128104;",
+      "name": "Deaf Man"
+    },
+    "🧏‍♀️": {
+      "unicode": "\uD83E\uDDBF\u200D\uD83D\uDC69",
+      "html_entity": "&#129407;&#8205;&#128105;",
+      "name": "Deaf Woman"
+    },
+    "🙇": {
+      "unicode": "\uD83D\uDE47",
+      "html_entity": "&#128071;",
+      "name": "Person Bowing"
+    },
+    "🙇‍♂️": {
+      "unicode": "\uD83D\uDE47\u200D\uD83D\uDC68",
+      "html_entity": "&#128071;&#8205;&#128104;",
+      "name": "Man Bowing"
+    },
+    "🙇‍♀️": {
+      "unicode": "\uD83D\uDE47\u200D\uD83D\uDC69",
+      "html_entity": "&#128071;&#8205;&#128105;",
+      "name": "Woman Bowing"
+    },
+    "🤦": {
+      "unicode": "\uD83E\uDD26",
+      "html_entity": "&#129318;",
+      "name": "Person Facepalming"
+    },
+    "🤦‍♂️": {
+      "unicode": "\uD83E\uDD26\u200D\uD83D\uDC68",
+      "html_entity": "&#129318;&#8205;&#128104;",
+      "name": "Man Facepalming"
+    },
+    "🤦‍♀️": {
+      "unicode": "\uD83E\uDD26\u200D\uD83D\uDC69",
+      "html_entity": "&#129318;&#8205;&#128105;",
+      "name": "Woman Facepalming"
+    },
+    "🤷": {
+      "unicode": "\uD83E\uDD37",
+      "html_entity": "&#129335;",
+      "name": "Person Shrugging"
+    },
+    "🤷‍♂️": {
+      "unicode": "\uD83E\uDD37\u200D\uD83D\uDC68",
+      "html_entity": "&#129335;&#8205;&#128104;",
+      "name": "Man Shrugging"
+    },
+    "🤷‍♀️": {
+      "unicode": "\uD83E\uDD37\u200D\uD83D\uDC69",
+      "html_entity": "&#129335;&#8205;&#128105;",
+      "name": "Woman Shrugging"
+    },
+    "🧑‍🦯": {
+      "unicode": "\uD83E\uDDD1\u200D\uD83E\uDDAF",
+      "html_entity": "&#129457;&#8205;&#129423;",
+      "name": "Person with White Cane"
+    },
+    "👨‍🦯": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDAF",
+      "html_entity": "&#128104;&#8205;&#129423;",
+      "name": "Man with White Cane"
+    },
+    "👩‍🦯": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDAF",
+      "html_entity": "&#128105;&#8205;&#129423;",
+      "name": "Woman with White Cane"
+    },
+    "🧑‍🦼": {
+      "unicode": "\uD83E\uDDD1\u200D\uD83E\uDDBC",
+      "html_entity": "&#129457;&#8205;&#129420;",
+      "name": "Person in Motorized Wheelchair"
+    },
+    "👨‍🦼": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDBC",
+      "html_entity": "&#128104;&#8205;&#129420;",
+      "name": "Man in Motorized Wheelchair"
+    },
+    "👩‍🦼": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDBC",
+      "html_entity": "&#128105;&#8205;&#129420;",
+      "name": "Woman in Motorized Wheelchair"
+    },
+    "🧑‍🦽": {
+      "unicode": "\uD83E\uDDD1\u200D\uD83E\uDDBD",
+      "html_entity": "&#129457;&#8205;&#129421;",
+      "name": "Person in Manual Wheelchair"
+    },
+    "👨‍🦽": {
+      "unicode": "\uD83D\uDC68\u200D\uD83E\uDDBD",
+      "html_entity": "&#128104;&#8205;&#129421;",
+      "name": "Man in Manual Wheelchair"
+    },
+    "👩‍🦽": {
+      "unicode": "\uD83D\uDC69\u200D\uD83E\uDDBD",
+      "html_entity": "&#128105;&#8205;&#129421;",
+      "name": "Woman in Manual Wheelchair"
+    },
+    "🏃": {
+      "unicode": "\uD83C\uDFC3",
+      "html_entity": "&#127939;",
+      "name": "Person Running"
+    },
+    "🏃‍♂️": {
+      "unicode": "\uD83C\uDFC3\u200D\uD83D\uDC68",
+      "html_entity": "&#127939;&#8205;&#128104;",
+      "name": "Man Running"
+    },
+    "🏃‍♀️": {
+      "unicode": "\uD83C\uDFC3\u200D\uD83D\uDC69",
+      "html_entity": "&#127939;&#8205;&#128105;",
+      "name": "Woman Running"
+    },
+    "💃": {
+      "unicode": "\uD83D\uDC83",
+      "html_entity": "&#128131;",
+      "name": "Woman Dancing"
+    },
+    "🕺": {
+      "unicode": "\uD83D\uDC7A",
+      "html_entity": "&#128122;",
+      "name": "Man Dancing"
+    },
+    "🕴️": {
+      "unicode": "\uD83E\uDD74",
+      "html_entity": "&#129396;",
+      "name": "Person in Suit Levitating"
+    },
+    "👯": {
+      "unicode": "\uD83D\uDC6F",
+      "html_entity": "&#128111;",
+      "name": "People with Bunny Ears"
+    },
+    "👯‍♂️": {
+      "unicode": "\uD83D\uDC6F\u200D\uD83D\uDC68",
+      "html_entity": "&#128111;&#8205;&#128104;",
+      "name": "Men with Bunny Ears"
+    },
+    "👯‍♀️": {
+      "unicode": "\uD83D\uDC6F\u200D\uD83D\uDC69",
+      "html_entity": "&#128111;&#8205;&#128105;",
+      "name": "Women with Bunny Ears"
+    },
+    "🧖": {
+      "unicode": "\uD83E\uDD96",
+      "html_entity": "&#129398;",
+      "name": "Person in Steamy Room"
+    },
+    "🧖‍♂️": {
+      "unicode": "\uD83E\uDD96\u200D\uD83D\uDC68",
+      "html_entity": "&#129398;&#8205;&#128104;",
+      "name": "Man in Steamy Room"
+    },
+    "🧖‍♀️": {
+      "unicode": "\uD83E\uDD96\u200D\uD83D\uDC69",
+      "html_entity": "&#129398;&#8205;&#128105;",
+      "name": "Woman in Steamy Room"
+    },
+    "🛀": {
+      "unicode": "\uD83D\uDEC0",
+      "html_entity": "&#128704;",
+      "name": "Person Taking Bath"
+    },
+    "🛌": {
+      "unicode": "\uD83D\uDECC",
+      "html_entity": "&#128716;",
+      "name": "Person in Bed"
+    },
+    "🧑‍🤝‍🧑": {
+      "unicode": "\uD83E\uDDD1\u200D\uD83E\uDD1D\u200D\uD83E\uDDD1",
+      "html_entity": "&#129457;&#8205;&#129421;&#8205;&#129457;",
+      "name": "People Holding Hands"
+    },
+    "👭": {
+      "unicode": "\uD83D\uDC6D",
+      "html_entity": "&#128109;",
+      "name": "Women Holding Hands"
+    },
+    "👫": {
+      "unicode": "\uD83D\uDC6B",
+      "html_entity": "&#128107;",
+      "name": "Woman and Man Holding Hands"
+    },
+    "👬": {
+      "unicode": "\uD83D\uDC6C",
+      "html_entity": "&#128108;",
+      "name": "Men Holding Hands"
+    },
+    "💏": {
+      "unicode": "\uD83D\uDC8F",
+      "html_entity": "&#128143;",
+      "name": "Kiss"
+    },
+    "👩‍❤️‍💋‍👨": {
+      "unicode": "\uD83D\uDC69\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC68",
+      "html_entity": "&#128105;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128104;",
+      "name": "Kiss: Woman, Man"
+    },
+    "👨‍❤️‍💋‍👨": {
+      "unicode": "\uD83D\uDC68\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC68",
+      "html_entity": "&#128104;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128104;",
+      "name": "Kiss: Man, Man"
+    },
+    "👩‍❤️‍💋‍👩": {
+      "unicode": "\uD83D\uDC69\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC69",
+      "html_entity": "&#128105;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128105;",
+      "name": "Kiss: Woman, Woman"
+    },
+    "💑": {
+      "unicode": "\uD83D\uDC91",
+      "html_entity": "&#128145;",
+      "name": "Couple with Heart"
+    },
+    "👩‍❤️‍👨": {
+      "unicode": "\uD83D\uDC69\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC68",
+      "html_entity": "&#128105;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128104;",
+      "name": "Couple with Heart: Woman, Man"
+    },
+    "👨‍❤️‍👨": {
+      "unicode": "\uD83D\uDC68\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC68",
+      "html_entity": "&#128104;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128104;",
+      "name": "Couple with Heart: Man, Man"
+    },
+    "👩‍❤️‍👩": {
+      "unicode": "\uD83D\uDC69\u200D\u2764\uFE0F\u200D\uD83D\uDC8B\u200D\uD83D\uDC69",
+      "html_entity": "&#128105;&#8205;&#10084;&#65039;&#8205;&#128139;&#8205;&#128105;",
+      "name": "Couple with Heart: Woman, Woman"
+    },
+    "👪": {
+      "unicode": "\uD83D\uDC6A",
+      "html_entity": "&#128106;",
+      "name": "Family"
+    },
+    "👨‍👩‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128105;&#8205;&#128102;",
+      "name": "Family: Man, Woman, Boy"
+    },
+    "👨‍👩‍👧": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67",
+      "html_entity": "&#128104;&#8205;&#128105;&#8205;&#128103;",
+      "name": "Family: Man, Woman, Girl"
+    },
+    "👨‍👩‍👧‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128105;&#8205;&#128103;&#8205;&#128102;",
+      "name": "Family: Man, Woman, Girl, Boy"
+    },
+    "👨‍👩‍👦‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC66\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128105;&#8205;&#128102;&#8205;&#128102;",
+      "name": "Family: Man, Woman, Boy, Boy"
+    },
+    "👨‍👩‍👧‍👧": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67",
+      "html_entity": "&#128104;&#8205;&#128105;&#8205;&#128103;&#8205;&#128103;",
+      "name": "Family: Man, Woman, Girl, Girl"
+    },
+    "👨‍👨‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC68\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128104;&#8205;&#128102;",
+      "name": "Family: Man, Man, Boy"
+    },
+    "👨‍👨‍👧": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC68\u200D\uD83D\uDC67",
+      "html_entity": "&#128104;&#8205;&#128104;&#8205;&#128103;",
+      "name": "Family: Man, Man, Girl"
+    },
+    "👨‍👨‍👧‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC68\u200D\uD83D\uDC67\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128104;&#8205;&#128103;&#8205;&#128102;",
+      "name": "Family: Man, Man, Girl, Boy"
+    },
+    "👨‍👨‍👦‍👦": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC68\u200D\uD83D\uDC66\u200D\uD83D\uDC66",
+      "html_entity": "&#128104;&#8205;&#128104;&#8205;&#128102;&#8205;&#128102;",
+      "name": "Family: Man, Man, Boy, Boy"
+    },
+    "👨‍👨‍👧‍👧": {
+      "unicode": "\uD83D\uDC68\u200D\uD83D\uDC68\u200D\uD83D\uDC67\u200D\uD83D\uDC67",
+      "html_entity": "&#128104;&#8205;&#128104;&#8205;&#128103;&#8205;&#128103;",
+      "name": "Family: Man, Man, Girl, Girl"
+    },
+    "👩‍👩‍👦": {
+      "unicode": "\uD83D\uDC69\u200D\uD83D\uDC69\u200D\uD83D\uDC66",
+      "html_entity": "&#128105;&#8205;&#128105;&#8205;&#128102;",
+      "name": "Family: Woman, Woman, Boy"
+    },
+    "👩‍👩‍👧": {
+      "unicode": "\uD83D\uDC69\u200D\uD83D\uDC69\u200D\uD83D\uDC67",
+      "html_entity": "&#128105;&#8205;&#128105;&#8205;&#128103;",
+      "name": "Family: Woman, Woman, Girl"
+    },
+    "👩‍👩‍👧‍👦": {
+      "unicode": "\uD83D\uDC69\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC66",
+      "html_entity": "&#128105;&#8205;&#128105;&#8205;&#128103;&#8205;&#128102;",
+      "name": "Family: Woman, Woman, Girl, Boy"
+    },
+    "👩‍👩‍👦‍👦": {
+      "unicode": "\uD83D\uDC69\u200D\uD83D\uDC69\u200D\uD83D\uDC66\u200D\uD83D\uDC66",
+      "html_entity": "&#128105;&#8205;&#128105;&#8205;&#128102;&#8205;&#128102;",
+      "name": "Family: Woman, Woman, Boy, Boy"
+    },
+    "👩‍👩‍👧‍👧": {
+      "unicode": "\uD83D\uDC69\u200D\uD83D\uDC69\u200D\uD83D\uDC67\u200D\uD83D\uDC67",
+      "html_entity": "&#128105;&#8205;&#128105;&#8205;&#128103;&#8205;&#128103;",
+      "name": "Family: Woman, Woman, Girl, Girl"
+    },
+    "🗣️": {
+      "unicode": "\uD83D\uDDE3️",
+      "html_entity": "&#128483;&#65039;",
+      "name": "Speaking Head"
+    },
+    "👤": {
+      "unicode": "\uD83D\uDC64",
+      "html_entity": "&#128100;",
+      "name": "Bust in Silhouette"
+    },
+    "👥": {
+      "unicode": "\uD83D\uDC65",
+      "html_entity": "&#128101;",
+      "name": "Busts in Silhouette"
+    },
+    "👣": {
+      "unicode": "\uD83D\uDC63",
+      "html_entity": "&#128099;",
+      "name": "Footprints"
+    },
+    "🐵": {
+      "unicode": "\uD83D\uDC35",
+      "html_entity": "&#128053;",
+      "name": "Monkey Face"
+    },
+    "🐒": {
+      "unicode": "\uD83D\uDC12",
+      "html_entity": "&#128018;",
+      "name": "Monkey"
+    },
+    "🦍": {
+      "unicode": "\uD83E\uDD8D",
+      "html_entity": "&#129421;",
+      "name": "Gorilla"
+    },
+    "🦧": {
+      "unicode": "\uD83E\uDDA7",
+      "html_entity": "&#129431;",
+      "name": "Orangutan"
+    },
+    "🐶": {
+      "unicode": "\uD83D\uDC36",
+      "html_entity": "&#128054;",
+      "name": "Dog Face"
+    },
+    "🐕": {
+      "unicode": "\uD83D\uDC15",
+      "html_entity": "&#128021;",
+      "name": "Dog"
+    },
+    "🦮": {
+      "unicode": "\uD83E\uDDAE",
+      "html_entity": "&#129422;",
+      "name": "Guide Dog"
+    },
+    "🐕‍🦺": {
+      "unicode": "\uD83D\uDC15\u200D\uD83E\uDDBA",
+      "html_entity": "&#128021;&#8205;&#129402;",
+      "name": "Service Dog"
+    },
+    "🐩": {
+      "unicode": "\uD83D\uDC29",
+      "html_entity": "&#128041;",
+      "name": "Poodle"
+    },
+    "🐺": {
+      "unicode": "\uD83D\uDC3A",
+      "html_entity": "&#128058;",
+      "name": "Wolf"
+    },
+    "🦊": {
+      "unicode": "\uD83E\uDD8A",
+      "html_entity": "&#129418;",
+      "name": "Fox"
+    },
+    "🦝": {
+      "unicode": "\uD83E\uDD9D",
+      "html_entity": "&#129437;",
+      "name": "Raccoon"
+    },
+    "🐱": {
+      "unicode": "\uD83D\uDC31",
+      "html_entity": "&#128049;",
+      "name": "Cat Face"
+    },
+    "🐈": {
+      "unicode": "\uD83D\uDC08",
+      "html_entity": "&#128008;",
+      "name": "Cat"
+    },
+    "🦁": {
+      "unicode": "\uD83E\uDD81",
+      "html_entity": "&#129409;",
+      "name": "Lion"
+    },
+    "🐯": {
+      "unicode": "\uD83D\uDC2F",
+      "html_entity": "&#128047;",
+      "name": "Tiger Face"
+    },
+    "🐅": {
+      "unicode": "\uD83D\uDC05",
+      "html_entity": "&#128005;",
+      "name": "Tiger"
+    },
+    "🐆": {
+      "unicode": "\uD83D\uDC06",
+      "html_entity": "&#128006;",
+      "name": "Leopard"
+    },
+    "🐴": {
+      "unicode": "\uD83D\uDC34",
+      "html_entity": "&#128052;",
+      "name": "Horse Face"
+    },
+    "🐎": {
+      "unicode": "\uD83D\uDC0E",
+      "html_entity": "&#128014;",
+      "name": "Horse"
+    },
+    "🦄": {
+      "unicode": "\uD83E\uDD84",
+      "html_entity": "&#129412;",
+      "name": "Unicorn"
+    },
+    "🦓": {
+      "unicode": "\uD83E\uDD93",
+      "html_entity": "&#129427;",
+      "name": "Zebra"
+    },
+    "🦌": {
+      "unicode": "\uD83E\uDD8C",
+      "html_entity": "&#129420;",
+      "name": "Deer"
+    },
+    "🐮": {
+      "unicode": "\uD83D\uDC2E",
+      "html_entity": "&#128046;",
+      "name": "Cow Face"
+    },
+    "🐂": {
+      "unicode": "\uD83D\uDC02",
+      "html_entity": "&#128002;",
+      "name": "Ox"
+    },
+    "🐃": {
+      "unicode": "\uD83D\uDC03",
+      "html_entity": "&#128003;",
+      "name": "Water Buffalo"
+    },
+    "🐄": {
+      "unicode": "\uD83D\uDC04",
+      "html_entity": "&#128004;",
+      "name": "Cow"
+    },
+    "🐷": {
+      "unicode": "\uD83D\uDC37",
+      "html_entity": "&#128055;",
+      "name": "Pig Face"
+    },
+    "🐖": {
+      "unicode": "\uD83D\uDC16",
+      "html_entity": "&#128022;",
+      "name": "Pig"
+    },
+    "🐗": {
+      "unicode": "\uD83D\uDC17",
+      "html_entity": "&#128023;",
+      "name": "Boar"
+    },
+    "🐽": {
+      "unicode": "\uD83D\uDC3D",
+      "html_entity": "&#128061;",
+      "name": "Pig Nose"
+    },
+    "🦘": {
+      "unicode": "\uD83E\uDD98",
+      "html_entity": "&#129432;",
+      "name": "Kangaroo"
+    },
+    "🦡": {
+      "unicode": "\uD83E\uDDA1",
+      "html_entity": "&#129441;",
+      "name": "Badger"
+    },
+    "🦢": {
+      "unicode": "\uD83E\uDDA2",
+      "html_entity": "&#129442;",
+      "name": "Swan"
+    },
+    "🦚": {
+      "unicode": "\uD83E\uDD9A",
+      "html_entity": "&#129434;",
+      "name": "Peacock"
+    },
+    "🦜": {
+      "unicode": "\uD83E\uDD9C",
+      "html_entity": "&#129436;",
+      "name": "Parrot"
+    },
+    "🦞": {
+      "unicode": "\uD83E\uDD9E",
+      "html_entity": "&#129438;",
+      "name": "Lobster"
+    },
+    "🦟": {
+      "unicode": "\uD83E\uDD9F",
+      "html_entity": "&#129439;",
+      "name": "Mosquito"
+    },
+    "🦠": {
+      "unicode": "\uD83E\uDDA0",
+      "html_entity": "&#129440;",
+      "name": "Microbe"
+    },
+    "🐌": {
+      "unicode": "\uD83D\uDC0C",
+      "html_entity": "&#128012;",
+      "name": "Snail"
+    },
+    "🦋": {
+      "unicode": "\uD83E\uDD8B",
+      "html_entity": "&#129419;",
+      "name": "Butterfly"
+    },
+    "🐛": {
+      "unicode": "\uD83D\uDC1B",
+      "html_entity": "&#128027;",
+      "name": "Bug"
+    },
+    "🐜": {
+      "unicode": "\uD83D\uDC1C",
+      "html_entity": "&#128028;",
+      "name": "Ant"
+    },
+    "🐝": {
+      "unicode": "\uD83D\uDC1D",
+      "html_entity": "&#128029;",
+      "name": "Honeybee"
+    },
+    "🐞": {
+      "unicode": "\uD83D\uDC1E",
+      "html_entity": "&#128030;",
+      "name": "Lady Beetle"
+    },
+    "🦗": {
+      "unicode": "\uD83E\uDD97",
+      "html_entity": "&#129431;",
+      "name": "Cricket"
+    },
+    "🕷️": {
+      "unicode": "\uD83D\uDD77️",
+      "html_entity": "&#128119;&#65039;",
+      "name": "Spider"
+    },
+    "🕸️": {
+      "unicode": "\uD83D\uDD78️",
+      "html_entity": "&#128120;&#65039;",
+      "name": "Spider Web"
+    },
+    "🦂": {
+      "unicode": "\uD83E\uDD82",
+      "html_entity": "&#129410;",
+      "name": "Scorpion"
+    }
+  }

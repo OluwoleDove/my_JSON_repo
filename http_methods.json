@@ -1,0 +1,73 @@
+{
+    "GET": {
+      "description": "Retrieve data from the server.",
+      "use_cases": [
+        "Fetching a webpage",
+        "Requesting information from an API",
+        "Accessing a resource by its URL"
+      ]
+    },
+    "POST": {
+      "description": "Submit data to be processed by the server.",
+      "use_cases": [
+        "Submitting a form",
+        "Creating a new resource on the server",
+        "Sending data to a server for processing"
+      ]
+    },
+    "PUT": {
+      "description": "Update or replace existing data on the server.",
+      "use_cases": [
+        "Updating a user's profile information",
+        "Replacing a resource with new content",
+        "Performing a full update of a resource"
+      ]
+    },
+    "PATCH": {
+      "description": "Update a part of existing data on the server.",
+      "use_cases": [
+        "Applying partial modifications to a resource",
+        "Updating specific fields of a resource",
+        "Sending changes to be applied to a resource"
+      ]
+    },
+    "DELETE": {
+      "description": "Remove data from the server.",
+      "use_cases": [
+        "Deleting a record from a database",
+        "Removing a resource from the server",
+        "Requesting the server to delete a resource"
+      ]
+    },
+    "HEAD": {
+      "description": "Retrieve only the headers of a response, not the actual content.",
+      "use_cases": [
+        "Checking if a resource exists",
+        "Retrieving metadata about a resource",
+        "Testing server availability without downloading data"
+      ]
+    },
+    "OPTIONS": {
+      "description": "Get information about the communication options available for a resource.",
+      "use_cases": [
+        "Determine the allowed methods for a resource",
+        "Checking CORS (Cross-Origin Resource Sharing) compatibility",
+        "Identifying available communication options"
+      ]
+    },
+    "CONNECT": {
+      "description": "Establish a network connection to a resource.",
+      "use_cases": [
+        "Used in HTTP proxies to establish a tunnel",
+        "Establishing a secure connection through a proxy",
+        "Creating a network connection for communication"
+      ]
+    },
+    "TRACE": {
+      "description": "Echoes back the received request for diagnostic purposes.",
+      "use_cases": [
+        "Debugging and troubleshooting requests",
+        "Checking the intermediate proxies' behavior"
+      ]
+    }
+}  

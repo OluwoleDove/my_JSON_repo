@@ -1,34 +1,13 @@
 {
     "Word Play": [
       {
-        "Sentence": "The rain in Spain stays mainly in the plains.",
-        "Words": ["rain", "Spain", "stays", "mainly", "plains"],
-        "Figure of speech": "Assonance",
-        "Vowel Sound": "ai",
-        "Meaning/Context": "An assonant phrase with the repeated 'ai' sound, talking about rain in Spain.",
-        "Category/Theme": "Weather",
-        "Tags": ["assonance", "wordplay", "rain", "Spain", "plains"],
-        "Source": "My Fair Lady (Musical and Film)"
-      },
-      {
         "Sentence": "The playful rays of the sunset cascade over the lake.",
         "Words": ["playful", "rays", "sunset", "cascade", "over", "lake"],
         "Figure of speech": "Assonance",
         "Vowel Sound": "a",
         "Meaning/Context": "An assonant phrase with the repeated short 'a' sound, describing the beautiful scene of a sunset over a lake.",
         "Category/Theme": "Nature",
-        "Tags": ["assonance", "wordplay", "sunset", "lake", "nature", "playful"],
-        "Source": ""
-      },
-      {
-        "Sentence": "Peter Piper picked a peck of pickled peppers.",
-        "Words": ["Peter", "Piper", "picked", "peck", "pickled", "peppers"],
-        "Figure of speech": "Alliteration",
-        "Initial Consonant": "P",
-        "Meaning/Context": "An alliterative phrase demonstrating the repetition of the 'P' sound.",
-        "Category/Theme": "Tongue Twister",
-        "Tags": ["alliteration", "wordplay", "tongue twister", "Peter", "peppers"],
-        "Source": "Unknown"
+        "Tags": ["assonance", "wordplay", "sunset", "lake", "nature", "playful"]
       },
       {
         "Sentence": "Silly Sally swiftly skipped to school.",
@@ -37,8 +16,7 @@
         "Initial Consonant": "S",
         "Meaning/Context": "An alliterative phrase with the repeated 'S' sound, describing Sally's quick trip to school.",
         "Category/Theme": "Children",
-        "Tags": ["alliteration", "wordplay", "Silly Sally", "school", "children"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "Silly Sally", "school", "children"]
       },
       {
         "Sentence": "The ship has sailed into the sunset.",
@@ -47,8 +25,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing a ship's journey into the sunset.",
         "Category/Theme": "Travel",
-        "Tags": ["consonance", "wordplay", "ship", "sunset", "travel"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "ship", "sunset", "travel"]
       },
       {
         "Sentence": "She sells seashells by the seashore.",
@@ -57,8 +34,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, depicting a woman selling seashells by the seashore.",
         "Category/Theme": "Beach",
-        "Tags": ["consonance", "wordplay", "seashells", "seashore", "beach"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "seashells", "seashore", "beach"]
       },
       {
         "Sentence": "Glorious grapes grow in the green garden.",
@@ -67,8 +43,7 @@
         "Initial Consonant": "G",
         "Meaning/Context": "An alliterative phrase describing the beauty of grapes growing in a green garden.",
         "Category/Theme": "Nature",
-        "Tags": ["alliteration", "wordplay", "grapes", "garden", "green"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "grapes", "garden", "green"]
       },
       {
         "Sentence": "Whispers of the wind sing sweet serenades.",
@@ -77,8 +52,7 @@
         "Vowel Sound": "i",
         "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing the gentle sound of the wind singing sweet serenades.",
         "Category/Theme": "Nature",
-        "Tags": ["assonance", "wordplay", "wind", "serenades", "whispers"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "wind", "serenades", "whispers"]
       },
       {
         "Sentence": "Crimson curtains cascade like a crimson waterfall.",
@@ -87,8 +61,7 @@
         "Consonant Sound": "c",
         "Meaning/Context": "A phrase with the repeated 'c' sound, comparing crimson curtains to a cascading crimson waterfall.",
         "Category/Theme": "Decor",
-        "Tags": ["consonance", "wordplay", "curtains", "cascade", "crimson"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "curtains", "cascade", "crimson"]
       },
       {
         "Sentence": "Playful pandas prance and play in the peaceful park.",
@@ -97,8 +70,7 @@
         "Initial Consonant": "P",
         "Meaning/Context": "An alliterative phrase depicting playful pandas prancing and playing in a peaceful park.",
         "Category/Theme": "Animals",
-        "Tags": ["alliteration", "wordplay", "pandas", "park", "playful"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "pandas", "park", "playful"]
       },
       {
         "Sentence": "Beneath the moon's beam, sweet dreams gleam.",
@@ -107,8 +79,7 @@
         "Vowel Sound": "ea",
         "Meaning/Context": "An assonant phrase with the repeated 'ea' sound, describing how sweet dreams gleam under the moon's beam.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "moon", "dreams", "sweet"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "moon", "dreams", "sweet"]
       },
       {
         "Sentence": "Sally's sea shells shimmer in the sun's light.",
@@ -117,8 +88,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing how Sally's sea shells shimmer in the sun's light.",
         "Category/Theme": "Beach",
-        "Tags": ["consonance", "wordplay", "sea shells", "sun", "Sally"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "sea shells", "sun", "Sally"]
       },
       {
         "Sentence": "Soft winds whisper wishes in the willow tree.",
@@ -127,8 +97,7 @@
         "Initial Consonant": "W",
         "Meaning/Context": "An alliterative phrase depicting soft winds whispering wishes in the willow tree.",
         "Category/Theme": "Nature",
-        "Tags": ["alliteration", "wordplay", "winds", "willow", "whisper"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "winds", "willow", "whisper"]
       },
       {
         "Sentence": "Mellow melodies float across the moonlit meadow.",
@@ -137,8 +106,7 @@
         "Vowel Sound": "o",
         "Meaning/Context": "An assonant phrase with the repeated 'o' sound, describing mellow melodies floating across the moonlit meadow.",
         "Category/Theme": "Music",
-        "Tags": ["assonance", "wordplay", "melodies", "moonlit", "meadow"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "melodies", "moonlit", "meadow"]
       },
       {
         "Sentence": "Sunny days bring sunny smiles.",
@@ -147,8 +115,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing how sunny days bring sunny smiles.",
         "Category/Theme": "Weather",
-        "Tags": ["consonance", "wordplay", "sunny", "smiles"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "sunny", "smiles"]
       },
       {
         "Sentence": "Amidst the tall trees, the tweeting birds tweet tunes.",
@@ -157,8 +124,7 @@
         "Initial Consonant": "T",
         "Meaning/Context": "An alliterative phrase depicting tweeting birds tweeting tunes amidst the tall trees.",
         "Category/Theme": "Nature",
-        "Tags": ["alliteration", "wordplay", "tall trees", "tweeting", "birds"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "tall trees", "tweeting", "birds"]
       },
       {
         "Sentence": "In the eerie evening, eerie sounds seep in.",
@@ -167,8 +133,7 @@
         "Vowel Sound": "ee",
         "Meaning/Context": "An assonant phrase with the repeated 'ee' sound, describing eerie sounds seeping in during the eerie evening.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "eerie", "evening", "sounds"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "eerie", "evening", "sounds"]
       },
       {
         "Sentence": "Crisp leaves dance in the autumn breeze.",
@@ -177,8 +142,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing crisp leaves dancing in the autumn breeze.",
         "Category/Theme": "Seasons",
-        "Tags": ["consonance", "wordplay", "crisp", "leaves", "autumn"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "crisp", "leaves", "autumn"]
       },
       {
         "Sentence": "Gentle raindrops serenade the sleepy streets.",
@@ -187,8 +151,7 @@
         "Vowel Sound": "ee",
         "Meaning/Context": "An assonant phrase with the repeated 'ee' sound, describing gentle raindrops serenading the sleepy streets.",
         "Category/Theme": "Weather",
-        "Tags": ["assonance", "wordplay", "raindrops", "streets", "gentle"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "raindrops", "streets", "gentle"]
       },
       {
         "Sentence": "Whiskers of the white cat glisten in the moonlight.",
@@ -197,8 +160,7 @@
         "Initial Consonant": "W",
         "Meaning/Context": "An alliterative phrase depicting the glistening whiskers of a white cat in the moonlight.",
         "Category/Theme": "Animals",
-        "Tags": ["alliteration", "wordplay", "whiskers", "white cat", "moonlight"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "whiskers", "white cat", "moonlight"]
       },
       {
         "Sentence": "The campfire crackles and casts cozy shadows.",
@@ -207,8 +169,7 @@
         "Consonant Sound": "c",
         "Meaning/Context": "A phrase with the repeated 'c' sound, describing the crackling campfire casting cozy shadows.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "campfire", "crackling", "cozy"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "campfire", "crackling", "cozy"]
       },
       {
         "Sentence": "Silver moonbeams shimmer on the silent sea.",
@@ -217,8 +178,7 @@
         "Vowel Sound": "i",
         "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing silver moonbeams shimmering on the silent sea.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "moonbeams", "shimmer", "sea"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "moonbeams", "shimmer", "sea"]
       },
       {
         "Sentence": "Misty mountains beckon with mystic melodies.",
@@ -227,8 +187,7 @@
         "Initial Consonant": "M",
         "Meaning/Context": "An alliterative phrase describing misty mountains beckoning with mystic melodies.",
         "Category/Theme": "Nature",
-        "Tags": ["alliteration", "wordplay", "misty mountains", "mystic", "melodies"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "misty mountains", "mystic", "melodies"]
       },
       {
         "Sentence": "Amber leaves whisper in the autumn breeze.",
@@ -237,8 +196,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing amber leaves whispering in the autumn breeze.",
         "Category/Theme": "Seasons",
-        "Tags": ["consonance", "wordplay", "amber", "leaves", "autumn"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "amber", "leaves", "autumn"]
       },
       {
         "Sentence": "In the starlit sky, serenity settles.",
@@ -247,8 +205,7 @@
         "Vowel Sound": "e",
         "Meaning/Context": "An assonant phrase with the repeated 'e' sound, describing serenity settling in the starlit sky.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "starlit", "sky", "serenity"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "starlit", "sky", "serenity"]
       },
       {
         "Sentence": "Fluttering fireflies light up the night.",
@@ -257,8 +214,7 @@
         "Initial Consonant": "F",
         "Meaning/Context": "An alliterative phrase depicting fluttering fireflies lighting up the night.",
         "Category/Theme": "Night",
-        "Tags": ["alliteration", "wordplay", "fireflies", "night", "fluttering"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "fireflies", "night", "fluttering"]
       },
       {
         "Sentence": "Silver moonlight shimmers on the silent sea.",
@@ -267,8 +223,7 @@
         "Vowel Sound": "i",
         "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing silver moonlight shimmering on the silent sea.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "moonlight", "shimmers", "sea"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "moonlight", "shimmers", "sea"]
       },
       {
         "Sentence": "In the heart of the forest, fairies frolic freely.",
@@ -277,8 +232,7 @@
         "Initial Consonant": "F",
         "Meaning/Context": "An alliterative phrase depicting fairies frolicking freely in the heart of the forest.",
         "Category/Theme": "Fantasy",
-        "Tags": ["alliteration", "wordplay", "forest", "fairies", "freely"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "forest", "fairies", "freely"]
       },
       {
         "Sentence": "Golden grains sway in the gentle breeze.",
@@ -287,8 +241,7 @@
         "Consonant Sound": "g",
         "Meaning/Context": "A phrase with the repeated 'g' sound, describing golden grains swaying in the gentle breeze.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "golden", "grains", "gentle"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "golden", "grains", "gentle"]
       },
       {
         "Sentence": "In the hush of the night, a secret stirs.",
@@ -297,8 +250,7 @@
         "Initial Consonant": "S",
         "Meaning/Context": "An alliterative phrase describing a secret stirring in the hush of the night.",
         "Category/Theme": "Night",
-        "Tags": ["alliteration", "wordplay", "night", "secret", "hush"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "night", "secret", "hush"]
       },
       {
         "Sentence": "The sun's rays chase away the chilly clouds.",
@@ -307,8 +259,7 @@
         "Consonant Sound": "c",
         "Meaning/Context": "A phrase with the repeated 'c' sound, describing the sun's rays chasing away the chilly clouds.",
         "Category/Theme": "Weather",
-        "Tags": ["consonance", "wordplay", "sun", "rays", "chilly clouds"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "sun", "rays", "chilly clouds"]
       },
       {
         "Sentence": "Gleaming stars gracefully glide across the galaxy.",
@@ -317,8 +268,7 @@
         "Initial Consonant": "G",
         "Meaning/Context": "An alliterative phrase depicting gleaming stars gracefully gliding across the galaxy.",
         "Category/Theme": "Space",
-        "Tags": ["alliteration", "wordplay", "stars", "galaxy", "gleaming"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "stars", "galaxy", "gleaming"]
       },
       {
         "Sentence": "Misty mountains call with their mystic allure.",
@@ -327,8 +277,7 @@
         "Consonant Sound": "m",
         "Meaning/Context": "A phrase with the repeated 'm' sound, describing misty mountains calling with their mystic allure.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "misty mountains", "mystic", "call"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "misty mountains", "mystic", "call"]
       },
       {
         "Sentence": "In the light of the silvery moon, whispers wander.",
@@ -337,8 +286,7 @@
         "Vowel Sound": "i",
         "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing whispers wandering in the light of the silvery moon.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "moon", "whispers", "light"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "moon", "whispers", "light"]
       },
       {
         "Sentence": "Twinkling fireflies twirl in the twilight.",
@@ -347,8 +295,7 @@
         "Initial Consonant": "T",
         "Meaning/Context": "An alliterative phrase depicting twinkling fireflies twirling in the twilight.",
         "Category/Theme": "Night",
-        "Tags": ["alliteration", "wordplay", "twinkling", "fireflies", "twilight"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "twinkling", "fireflies", "twilight"]
       },
       {
         "Sentence": "In the midst of misty meadows, whispers wake.",
@@ -357,8 +304,7 @@
         "Consonant Sound": "w",
         "Meaning/Context": "A phrase with the repeated 'w' sound, describing whispers waking in the midst of misty meadows.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "misty meadows", "whispers", "wake"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "misty meadows", "whispers", "wake"]
       },
       {
         "Sentence": "Lively laughter echoes through the leafy lanes.",
@@ -367,8 +313,7 @@
         "Initial Consonant": "L",
         "Meaning/Context": "An alliterative phrase depicting lively laughter echoing through the leafy lanes.",
         "Category/Theme": "Life",
-        "Tags": ["alliteration", "wordplay", "laughter", "leafy lanes", "lively"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "laughter", "leafy lanes", "lively"]
       },
       {
         "Sentence": "Hazy horizons hold hidden hopes.",
@@ -377,8 +322,7 @@
         "Consonant Sound": "h",
         "Meaning/Context": "A phrase with the repeated 'h' sound, describing hazy horizons holding hidden hopes.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "hazy", "horizons", "hidden"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "hazy", "horizons", "hidden"]
       },
       {
         "Sentence": "Murmuring streams under the moon's beams.",
@@ -387,8 +331,25 @@
         "Vowel Sound": "u",
         "Meaning/Context": "An assonant phrase with the repeated 'u' sound, describing murmuring streams under the moon's beams.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "streams", "moon", "beams"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "streams", "moon", "beams"]
+      },
+      {
+        "Sentence": "Blissful breeze brushes against the blooming bluebells.",
+        "Words": ["blissful", "breeze", "brushes", "blooming", "bluebells"],
+        "Figure of speech": "Alliteration",
+        "Initial Consonant": "B",
+        "Meaning/Context": "An alliterative phrase depicting blissful breeze brushing against the blooming bluebells.",
+        "Category/Theme": "Nature",
+        "Tags": ["alliteration", "wordplay", "blissful breeze", "blooming bluebells"]
+      },
+      {
+        "Sentence": "Violet violets bloom vibrantly in the verdant valley.",
+        "Words": ["violet", "violets", "bloom", "vibrantly", "verdant", "valley"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "v",
+        "Meaning/Context": "A phrase with the repeated 'v' sound, describing violet violets blooming vibrantly in the verdant valley.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "wordplay", "violet violets", "bloom", "verdant valley"]
       },
       {
         "Sentence": "In the quaint quietude, whispers weave.",
@@ -397,8 +358,16 @@
         "Initial Consonant": "Q",
         "Meaning/Context": "An alliterative phrase describing whispers weaving in the quaint quietude.",
         "Category/Theme": "Quiet",
-        "Tags": ["alliteration", "wordplay", "whispers", "quietude", "quaint"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "whispers", "quietude", "quaint"]
+      },
+      {
+        "Sentence": "Serenading stars softly shimmer in the silent sky.",
+        "Words": ["serenading", "stars", "softly", "shimmer", "silent", "sky"],
+        "Figure of speech": "Assonance",
+        "Vowel Sound": "i",
+        "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing serenading stars softly shimmering in the silent sky.",
+        "Category/Theme": "Night",
+        "Tags": ["assonance", "wordplay", "serenading stars", "softly shimmer", "silent sky"]
       },
       {
         "Sentence": "Sailing seagulls sweep across the sky.",
@@ -407,8 +376,7 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing sailing seagulls sweeping across the sky.",
         "Category/Theme": "Nature",
-        "Tags": ["consonance", "wordplay", "seagulls", "sky", "sailing"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "seagulls", "sky", "sailing"]
       },
       {
         "Sentence": "Whistling winds whisper in the wilderness.",
@@ -417,8 +385,7 @@
         "Initial Consonant": "W",
         "Meaning/Context": "An alliterative phrase depicting whistling winds whispering in the wilderness.",
         "Category/Theme": "Nature",
-        "Tags": ["alliteration", "wordplay", "whistling", "winds", "wilderness"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "whistling", "winds", "wilderness"]
       },
       {
         "Sentence": "In the hush of twilight, magic murmurs.",
@@ -427,8 +394,7 @@
         "Vowel Sound": "u",
         "Meaning/Context": "An assonant phrase with the repeated 'u' sound, describing magic murmuring in the hush of twilight.",
         "Category/Theme": "Magic",
-        "Tags": ["assonance", "wordplay", "magic", "twilight", "hush"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "magic", "twilight", "hush"]
       },
       {
         "Sentence": "Swaying shadows in the shimmering moonlight.",
@@ -437,8 +403,7 @@
         "Initial Consonant": "S",
         "Meaning/Context": "An alliterative phrase depicting swaying shadows in the shimmering moonlight.",
         "Category/Theme": "Night",
-        "Tags": ["alliteration", "wordplay", "swaying", "shadows", "moonlight"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "swaying", "shadows", "moonlight"]
       },
       {
         "Sentence": "Rustling leaves sing songs of autumn.",
@@ -447,8 +412,34 @@
         "Consonant Sound": "s",
         "Meaning/Context": "A phrase with the repeated 's' sound, describing rustling leaves singing songs of autumn.",
         "Category/Theme": "Seasons",
-        "Tags": ["consonance", "wordplay", "rustling", "leaves", "autumn"],
-        "Source": ""
+        "Tags": ["consonance", "wordplay", "rustling", "leaves", "autumn"]
+      },
+      {
+        "Sentence": "Midnight moonbeams merge with the misty meadow.",
+        "Words": ["midnight", "moonbeams", "merge", "misty", "meadow"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "m",
+        "Meaning/Context": "A phrase with the repeated 'm' sound, describing midnight moonbeams merging with the misty meadow.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "wordplay", "midnight", "moonbeams", "misty meadow"]
+      },
+      {
+        "Sentence": "Serenading stars softly shimmer in the silent sky.",
+        "Words": ["serenading", "stars", "softly", "shimmer", "silent", "sky"],
+        "Figure of speech": "Assonance",
+        "Vowel Sound": "i",
+        "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing serenading stars softly shimmering in the silent sky.",
+        "Category/Theme": "Night",
+        "Tags": ["assonance", "wordplay", "serenading stars", "softly shimmer", "silent sky"]
+      },
+      {
+        "Sentence": "Midnight moonbeams merge with the misty meadow.",
+        "Words": ["midnight", "moonbeams", "merge", "misty", "meadow"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "m",
+        "Meaning/Context": "A phrase with the repeated 'm' sound, describing midnight moonbeams merging with the misty meadow.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "wordplay", "midnight", "moonbeams", "misty meadow"]
       },
       {
         "Sentence": "In the silence of the night, whispers wander.",
@@ -457,8 +448,34 @@
         "Vowel Sound": "i",
         "Meaning/Context": "An assonant phrase with the repeated 'i' sound, describing whispers wandering in the silence of the night.",
         "Category/Theme": "Night",
-        "Tags": ["assonance", "wordplay", "whispers", "silence", "night"],
-        "Source": ""
+        "Tags": ["assonance", "wordplay", "whispers", "silence", "night"]
+      },
+      {
+        "Sentence": "Blissful breeze brushes against the blooming bluebells.",
+        "Words": ["blissful", "breeze", "brushes", "blooming", "bluebells"],
+        "Figure of speech": "Alliteration",
+        "Initial Consonant": "B",
+        "Meaning/Context": "An alliterative phrase depicting blissful breeze brushing against the blooming bluebells.",
+        "Category/Theme": "Nature",
+        "Tags": ["alliteration", "wordplay", "blissful breeze", "blooming bluebells"]
+      },
+      {
+        "Sentence": "Whistling winds whisper through the wheat fields.",
+        "Words": ["whistling", "winds", "whisper", "through", "wheat", "fields"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "w",
+        "Meaning/Context": "A phrase with the repeated 'w' sound, describing whistling winds whispering through the wheat fields.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "wordplay", "whistling winds", "whisper", "wheat fields"]
+      },
+      {
+        "Sentence": "Violet violets bloom vibrantly in the verdant valley.",
+        "Words": ["violet", "violets", "bloom", "vibrantly", "verdant", "valley"],
+        "Figure of speech": "Consonance",
+        "Consonant Sound": "v",
+        "Meaning/Context": "A phrase with the repeated 'v' sound, describing violet violets blooming vibrantly in the verdant valley.",
+        "Category/Theme": "Nature",
+        "Tags": ["consonance", "wordplay", "violet violets", "bloom", "verdant valley"]
       },
       {
         "Sentence": "Fluttering feathers fall from the friendly fowl.",
@@ -467,8 +484,7 @@
         "Initial Consonant": "F",
         "Meaning/Context": "An alliterative phrase depicting fluttering feathers falling from the friendly fowl.",
         "Category/Theme": "Animals",
-        "Tags": ["alliteration", "wordplay", "fluttering", "feathers", "fowl"],
-        "Source": ""
+        "Tags": ["alliteration", "wordplay", "fluttering", "feathers", "fowl"]
       }
     ]
   }
