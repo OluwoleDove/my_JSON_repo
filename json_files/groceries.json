@@ -1,0 +1,1741 @@
+{
+    "Groceries": {
+      "Fresh Produce": {
+        "Fruits": [
+          {
+            "name": "Apples",
+            "image": ""
+          },
+          {
+            "name": "Bananas",
+            "image": ""
+          },
+          {
+            "name": "Oranges",
+            "image": ""
+          },
+          {
+            "name": "Berries",
+            "image": ""
+          },
+          {
+            "name": "Grapes",
+            "image": ""
+          },
+          {
+            "name": "Pineapple",
+            "image": ""
+          },
+          {
+            "name": "Watermelon",
+            "image": ""
+          },
+          {
+            "name": "Mangoes",
+            "image": ""
+          },
+          {
+            "name": "Peaches",
+            "image": ""
+          },
+          {
+            "name": "Plums",
+            "image": ""
+          },
+          {
+            "name": "Kiwi",
+            "image": ""
+          },
+          {
+            "name": "Strawberries",
+            "image": ""
+          }
+        ],
+        "Vegetables": [
+          {
+            "name": "Lettuce",
+            "image": ""
+          },
+          {
+            "name": "Carrots",
+            "image": ""
+          },
+          {
+            "name": "Tomatoes",
+            "image": ""
+          },
+          {
+            "name": "Onions",
+            "image": ""
+          },
+          {
+            "name": "Broccoli",
+            "image": ""
+          },
+          {
+            "name": "Cucumbers",
+            "image": ""
+          },
+          {
+            "name": "Spinach",
+            "image": ""
+          },
+          {
+            "name": "Bell Peppers",
+            "image": ""
+          },
+          {
+            "name": "Potatoes",
+            "image": ""
+          },
+          {
+            "name": "Sweet Potatoes",
+            "image": ""
+          },
+          {
+            "name": "Zucchini",
+            "image": ""
+          },
+          {
+            "name": "Eggplant",
+            "image": ""
+          }
+        ],
+        "Herbs": [
+          {
+            "name": "Basil",
+            "image": ""
+          },
+          {
+            "name": "Parsley",
+            "image": ""
+          },
+          {
+            "name": "Cilantro",
+            "image": ""
+          },
+          {
+            "name": "Mint",
+            "image": ""
+          },
+          {
+            "name": "Rosemary",
+            "image": ""
+          },
+          {
+            "name": "Thyme",
+            "image": ""
+          },
+          {
+            "name": "Dill",
+            "image": ""
+          },
+          {
+            "name": "Chives",
+            "image": ""
+          },
+          {
+            "name": "Sage",
+            "image": ""
+          },
+          {
+            "name": "Oregano",
+            "image": ""
+          },
+          {
+            "name": "Cilantro",
+            "image": ""
+          },
+          {
+            "name": "Bay Leaves",
+            "image": ""
+          }
+        ]
+      },
+      "Meat and Poultry": {
+        "Beef": [
+          {
+            "name": "Ground Beef",
+            "image": ""
+          },
+          {
+            "name": "Steaks",
+            "image": ""
+          },
+          {
+            "name": "Roasts",
+            "image": ""
+          },
+          {
+            "name": "Ground Chuck",
+            "image": ""
+          },
+          {
+            "name": "Beef Brisket",
+            "image": ""
+          },
+          {
+            "name": "Beef Ribs",
+            "image": ""
+          }
+        ],
+        "Pork": [
+          {
+            "name": "Pork Chops",
+            "image": ""
+          },
+          {
+            "name": "Bacon",
+            "image": ""
+          },
+          {
+            "name": "Pork Belly",
+            "image": ""
+          },
+          {
+            "name": "Pork Tenderloin",
+            "image": ""
+          },
+          {
+            "name": "Pork Sausages",
+            "image": ""
+          },
+          {
+            "name": "Pork Ribs",
+            "image": ""
+          }
+        ],
+        "Chicken": [
+          {
+            "name": "Whole Chicken",
+            "image": ""
+          },
+          {
+            "name": "Chicken Breasts",
+            "image": ""
+          },
+          {
+            "name": "Chicken Thighs",
+            "image": ""
+          },
+          {
+            "name": "Chicken Drumsticks",
+            "image": ""
+          },
+          {
+            "name": "Chicken Wings",
+            "image": ""
+          },
+          {
+            "name": "Ground Chicken",
+            "image": ""
+          }
+        ],
+        "Lamb": [
+          {
+            "name": "Lamb Chops",
+            "image": ""
+          },
+          {
+            "name": "Lamb Leg",
+            "image": ""
+          },
+          {
+            "name": "Lamb Shoulder",
+            "image": ""
+          },
+          {
+            "name": "Lamb Shanks",
+            "image": ""
+          },
+          {
+            "name": "Ground Lamb",
+            "image": ""
+          }
+        ],
+        "Turkey": [
+          {
+            "name": "Whole Turkey",
+            "image": ""
+          },
+          {
+            "name": "Turkey Breasts",
+            "image": ""
+          },
+          {
+            "name": "Ground Turkey",
+            "image": ""
+          },
+          {
+            "name": "Turkey Sausages",
+            "image": ""
+          }
+        ],
+        "Other Poultry": [
+          {
+            "name": "Duck",
+            "image": ""
+          },
+          {
+            "name": "Quail",
+            "image": ""
+          },
+          {
+            "name": "Cornish Hen",
+            "image": ""
+          }
+        ]
+      },
+      "Seafood": {
+        "Fish": [
+          {
+            "name": "Salmon",
+            "image": ""
+          },
+          {
+            "name": "Tilapia",
+            "image": ""
+          },
+          {
+            "name": "Cod",
+            "image": ""
+          },
+          {
+            "name": "Tuna",
+            "image": ""
+          },
+          {
+            "name": "Trout",
+            "image": ""
+          },
+          {
+            "name": "Snapper",
+            "image": ""
+          }
+        ],
+        "Shellfish": [
+          {
+            "name": "Shrimp",
+            "image": ""
+          },
+          {
+            "name": "Crab",
+            "image": ""
+          },
+          {
+            "name": "Lobster",
+            "image": ""
+          },
+          {
+            "name": "Mussels",
+            "image": ""
+          },
+          {
+            "name": "Clams",
+            "image": ""
+          },
+          {
+            "name": "Oysters",
+            "image": ""
+          }
+        ],
+        "Squid and Octopus": [
+          {
+            "name": "Squid",
+            "image": ""
+          },
+          {
+            "name": "Octopus",
+            "image": ""
+          }
+        ]
+      },
+      "Deli and Prepared Foods": {
+        "Deli Meats": [
+          {
+            "name": "Ham",
+            "image": ""
+          },
+          {
+            "name": "Turkey",
+            "image": ""
+          },
+          {
+            "name": "Roast Beef",
+            "image": ""
+          },
+          {
+            "name": "Salami",
+            "image": ""
+          },
+          {
+            "name": "Pastrami",
+            "image": ""
+          },
+          {
+            "name": "Bologna",
+            "image": ""
+          }
+        ],
+        "Cheeses": [
+          {
+            "name": "Swiss",
+            "image": ""
+          },
+          {
+            "name": "Provolone",
+            "image": ""
+          },
+          {
+            "name": "Cheddar",
+            "image": ""
+          },
+          {
+            "name": "Mozzarella",
+            "image": ""
+          },
+          {
+            "name": "Gouda",
+            "image": ""
+          },
+          {
+            "name": "Feta",
+            "image": ""
+          }
+        ],
+        "Salads": [
+          {
+            "name": "Potato Salad",
+            "image": ""
+          },
+          {
+            "name": "Coleslaw",
+            "image": ""
+          },
+          {
+            "name": "Pasta Salad",
+            "image": ""
+          },
+          {
+            "name": "Chicken Salad",
+            "image": ""
+          },
+          {
+            "name": "Egg Salad",
+            "image": ""
+          },
+          {
+            "name": "Tuna Salad",
+            "image": ""
+          }
+        ],
+        "Ready-to-Eat Meals": [
+          {
+            "name": "Rotisserie Chicken",
+            "image": ""
+          },
+          {
+            "name": "Sushi",
+            "image": ""
+          },
+          {
+            "name": "Sandwiches",
+            "image": ""
+          },
+          {
+            "name": "Wraps",
+            "image": ""
+          },
+          {
+            "name": "Salads",
+            "image": ""
+          },
+          {
+            "name": "Pizza Slices",
+            "image": ""
+          }
+        ]
+      },
+      "Dairy and Eggs": {
+        "Milk": [
+          {
+            "name": "Whole Milk",
+            "image": ""
+          },
+          {
+            "name": "2% Milk",
+            "image": ""
+          },
+          {
+            "name": "Skim Milk",
+            "image": ""
+          },
+          {
+            "name": "Almond Milk",
+            "image": ""
+          },
+          {
+            "name": "Soy Milk",
+            "image": ""
+          },
+          {
+            "name": "Coconut Milk",
+            "image": ""
+          }
+        ],
+        "Butter": [
+          {
+            "name": "Salted Butter",
+            "image": ""
+          },
+          {
+            "name": "Unsalted Butter",
+            "image": ""
+          },
+          {
+            "name": "Whipped Butter",
+            "image": ""
+          },
+          {
+            "name": "Flavored Butter",
+            "image": ""
+          }
+        ],
+        "Cheese": [
+          {
+            "name": "Cheddar",
+            "image": ""
+          },
+          {
+            "name": "Mozzarella",
+            "image": ""
+          },
+          {
+            "name": "Swiss",
+            "image": ""
+          },
+          {
+            "name": "Parmesan",
+            "image": ""
+          },
+          {
+            "name": "Feta",
+            "image": ""
+          },
+          {
+            "name": "Gouda",
+            "image": ""
+          }
+        ],
+        "Yogurt": [
+          {
+            "name": "Plain Yogurt",
+            "image": ""
+          },
+          {
+            "name": "Greek Yogurt",
+            "image": ""
+          },
+          {
+            "name": "Flavored Yogurt",
+            "image": ""
+          },
+          {
+            "name": "Low-Fat Yogurt",
+            "image": ""
+          },
+          {
+            "name": "Non-Dairy Yogurt",
+            "image": ""
+          }
+        ],
+        "Eggs": [
+          {
+            "name": "Large Eggs",
+            "image": ""
+          },
+          {
+            "name": "Medium Eggs",
+            "image": ""
+          },
+          {
+            "name": "Free-Range Eggs",
+            "image": ""
+          },
+          {
+            "name": "Organic Eggs",
+            "image": ""
+          }
+        ]
+      },
+      "Bakery": {
+        "Bread": [
+          {
+            "name": "White Bread",
+            "image": ""
+          },
+          {
+            "name": "Whole Wheat Bread",
+            "image": ""
+          },
+          {
+            "name": "Multigrain Bread",
+            "image": ""
+          },
+          {
+            "name": "Sourdough Bread",
+            "image": ""
+          },
+          {
+            "name": "Rye Bread",
+            "image": ""
+          },
+          {
+            "name": "Baguettes",
+            "image": ""
+          }
+        ],
+        "Bagels": [
+          {
+            "name": "Plain Bagels",
+            "image": ""
+          },
+          {
+            "name": "Everything Bagels",
+            "image": ""
+          },
+          {
+            "name": "Blueberry Bagels",
+            "image": ""
+          },
+          {
+            "name": "Cinnamon Raisin Bagels",
+            "image": ""
+          }
+        ],
+        "Rolls and Buns": [
+          {
+            "name": "Hamburger Buns",
+            "image": ""
+          },
+          {
+            "name": "Hot Dog Buns",
+            "image": ""
+          },
+          {
+            "name": "Dinner Rolls",
+            "image": ""
+          },
+          {
+            "name": "Croissants",
+            "image": ""
+          }
+        ],
+        "Pastries": [
+          {
+            "name": "Croissants",
+            "image": ""
+          },
+          {
+            "name": "Danishes",
+            "image": ""
+          },
+          {
+            "name": "Muffins",
+            "image": ""
+          },
+          {
+            "name": "Donuts",
+            "image": ""
+          }
+        ],
+        "Cakes and Pies": [
+          {
+            "name": "Chocolate Cake",
+            "image": ""
+          },
+          {
+            "name": "Vanilla Cake",
+            "image": ""
+          },
+          {
+            "name": "Cheesecake",
+            "image": ""
+          },
+          {
+            "name": "Apple Pie",
+            "image": ""
+          },
+          {
+            "name": "Key Lime Pie",
+            "image": ""
+          }
+        ],
+        "Cookies and Brownies": [
+          {
+            "name": "Chocolate Chip Cookies",
+            "image": ""
+          },
+          {
+            "name": "Oatmeal Cookies",
+            "image": ""
+          },
+          {
+            "name": "Sugar Cookies",
+            "image": ""
+          },
+          {
+            "name": "Brownies",
+            "image": ""
+          }
+        ]
+      },
+      "Frozen Foods": {
+        "Frozen Vegetables": [
+          {
+            "name": "Peas",
+            "image": ""
+          },
+          {
+            "name": "Corn",
+            "image": ""
+          },
+          {
+            "name": "Broccoli",
+            "image": ""
+          },
+          {
+            "name": "Mixed Vegetables",
+            "image": ""
+          },
+          {
+            "name": "Spinach",
+            "image": ""
+          },
+          {
+            "name": "Cauliflower",
+            "image": ""
+          }
+        ],
+        "Frozen Fruits": [
+          {
+            "name": "Mixed Berries",
+            "image": ""
+          },
+          {
+            "name": "Mango Chunks",
+            "image": ""
+          },
+          {
+            "name": "Blueberries",
+            "image": ""
+          },
+          {
+            "name": "Strawberries",
+            "image": ""
+          },
+          {
+            "name": "Peaches",
+            "image": ""
+          },
+          {
+            "name": "Pineapple Chunks",
+            "image": ""
+          }
+        ],
+        "Frozen Pizzas": [
+          {
+            "name": "Pepperoni Pizza",
+            "image": ""
+          },
+          {
+            "name": "Cheese Pizza",
+            "image": ""
+          },
+          {
+            "name": "Supreme Pizza",
+            "image": ""
+          },
+          {
+            "name": "Margherita Pizza",
+            "image": ""
+          }
+        ],
+        "Frozen Dinners": [
+          {
+            "name": "Chicken Alfredo",
+            "image": ""
+          },
+          {
+            "name": "Beef Stroganoff",
+            "image": ""
+          },
+          {
+            "name": "Vegetable Stir-Fry",
+            "image": ""
+          },
+          {
+            "name": "Spaghetti and Meatballs",
+            "image": ""
+          }
+        ],
+        "Ice Cream and Sorbet": [
+          {
+            "name": "Vanilla Ice Cream",
+            "image": ""
+          },
+          {
+            "name": "Chocolate Ice Cream",
+            "image": ""
+          },
+          {
+            "name": "Strawberry Ice Cream",
+            "image": ""
+          },
+          {
+            "name": "Mint Chocolate Chip Ice Cream",
+            "image": ""
+          }
+        ],
+        "Frozen Desserts": [
+          {
+            "name": "Frozen Yogurt",
+            "image": ""
+          },
+          {
+            "name": "Ice Cream Sandwiches",
+            "image": ""
+          },
+          {
+            "name": "Fruit Sorbet",
+            "image": ""
+          },
+          {
+            "name": "Frozen Popsicles",
+            "image": ""
+          }
+        ]
+      },
+      "Canned and Jarred Goods": {
+        "Canned Soups": [
+          {
+            "name": "Chicken Noodle Soup",
+            "image": ""
+          },
+          {
+            "name": "Tomato Soup",
+            "image": ""
+          },
+          {
+            "name": "Vegetable Soup",
+            "image": ""
+          },
+          {
+            "name": "Cream of Mushroom Soup",
+            "image": ""
+          }
+        ],
+        "Canned Vegetables": [
+          {
+            "name": "Corn",
+            "image": ""
+          },
+          {
+            "name": "Green Beans",
+            "image": ""
+          },
+          {
+            "name": "Peas",
+            "image": ""
+          },
+          {
+            "name": "Carrots",
+            "image": ""
+          },
+          {
+            "name": "Tomatoes",
+            "image": ""
+          },
+          {
+            "name": "Asparagus",
+            "image": ""
+          }
+        ],
+        "Canned Fruits": [
+          {
+            "name": "Pineapple Chunks",
+            "image": ""
+          },
+          {
+            "name": "Peaches",
+            "image": ""
+          },
+          {
+            "name": "Mandarin Oranges",
+            "image": ""
+          },
+          {
+            "name": "Pears",
+            "image": ""
+          },
+          {
+            "name": "Fruit Cocktail",
+            "image": ""
+          },
+          {
+            "name": "Applesauce",
+            "image": ""
+          }
+        ],
+        "Canned Beans": [
+          {
+            "name": "Black Beans",
+            "image": ""
+          },
+          {
+            "name": "Kidney Beans",
+            "image": ""
+          },
+          {
+            "name": "Chickpeas",
+            "image": ""
+          },
+          {
+            "name": "Pinto Beans",
+            "image": ""
+          },
+          {
+            "name": "Cannellini Beans",
+            "image": ""
+          },
+          {
+            "name": "Baked Beans",
+            "image": ""
+          }
+        ],
+        "Pasta Sauce and Tomato Products": [
+          {
+            "name": "Marinara Sauce",
+            "image": ""
+          },
+          {
+            "name": "Tomato Paste",
+            "image": ""
+          },
+          {
+            "name": "Crushed Tomatoes",
+            "image": ""
+          },
+          {
+            "name": "Diced Tomatoes",
+            "image": ""
+          },
+          {
+            "name": "Salsa",
+            "image": ""
+          },
+          {
+            "name": "Pasta Sauce with Meat",
+            "image": ""
+          }
+        ]
+      },
+      "Grains and Pasta": {
+        "Rice": [
+          {
+            "name": "White Rice",
+            "image": ""
+          },
+          {
+            "name": "Brown Rice",
+            "image": ""
+          },
+          {
+            "name": "Basmati Rice",
+            "image": ""
+          },
+          {
+            "name": "Jasmine Rice",
+            "image": ""
+          },
+          {
+            "name": "Wild Rice",
+            "image": ""
+          },
+          {
+            "name": "Arborio Rice",
+            "image": ""
+          }
+        ],
+        "Pasta": [
+          {
+            "name": "Spaghetti",
+            "image": ""
+          },
+          {
+            "name": "Penne",
+            "image": ""
+          },
+          {
+            "name": "Macaroni",
+            "image": ""
+          },
+          {
+            "name": "Fettuccine",
+            "image": ""
+          },
+          {
+            "name": "Lasagna",
+            "image": ""
+          },
+          {
+            "name": "Farfalle (Bowtie Pasta)",
+            "image": ""
+          }
+        ],
+        "Quinoa": [
+          {
+            "name": "White Quinoa",
+            "image": ""
+          },
+          {
+            "name": "Red Quinoa",
+            "image": ""
+          },
+          {
+            "name": "Tri-Color Quinoa",
+            "image": ""
+          },
+          {
+            "name": "Black Quinoa",
+            "image": ""
+          }
+        ],
+        "Couscous": [
+          {
+            "name": "Regular Couscous",
+            "image": ""
+          },
+          {
+            "name": "Israeli (Pearl) Couscous",
+            "image": ""
+          },
+          {
+            "name": "Whole Wheat Couscous",
+            "image": ""
+          }
+        ],
+        "Bulgur": [
+          {
+            "name": "Fine Bulgur",
+            "image": ""
+          },
+          {
+            "name": "Medium Bulgur",
+            "image": ""
+          },
+          {
+            "name": "Coarse Bulgur",
+            "image": ""
+          }
+        ],
+        "Oats and Oatmeal": [
+          {
+            "name": "Old-Fashioned Rolled Oats",
+            "image": ""
+          },
+          {
+            "name": "Quick-Cooking Oats",
+            "image": ""
+          },
+          {
+            "name": "Steel-Cut Oats",
+            "image": ""
+          },
+          {
+            "name": "Instant Oatmeal",
+            "image": ""
+          }
+        ]
+      },
+      "Baking and Cooking Supplies": {
+        "Flour": [
+          {
+            "name": "All-Purpose Flour",
+            "image": ""
+          },
+          {
+            "name": "Whole Wheat Flour",
+            "image": ""
+          },
+          {
+            "name": "Bread Flour",
+            "image": ""
+          },
+          {
+            "name": "Cake Flour",
+            "image": ""
+          },
+          {
+            "name": "Self-Rising Flour",
+            "image": ""
+          },
+          {
+            "name": "Almond Flour",
+            "image": ""
+          }
+        ],
+        "Sugar": [
+          {
+            "name": "Granulated Sugar",
+            "image": ""
+          },
+          {
+            "name": "Brown Sugar",
+            "image": ""
+          },
+          {
+            "name": "Powdered Sugar",
+            "image": ""
+          },
+          {
+            "name": "Caster Sugar",
+            "image": ""
+          },
+          {
+            "name": "Coconut Sugar",
+            "image": ""
+          },
+          {
+            "name": "Raw Sugar",
+            "image": ""
+          }
+        ],
+        "Baking Powder and Baking Soda": [
+          {
+            "name": "Baking Powder",
+            "image": ""
+          },
+          {
+            "name": "Baking Soda",
+            "image": ""
+          }
+        ],
+        "Yeast": [
+          {
+            "name": "Active Dry Yeast",
+            "image": ""
+          },
+          {
+            "name": "Instant Yeast",
+            "image": ""
+          },
+          {
+            "name": "Fresh Yeast",
+            "image": ""
+          }
+        ],
+        "Cooking Oils": [
+          {
+            "name": "Olive Oil",
+            "image": ""
+          },
+          {
+            "name": "Vegetable Oil",
+            "image": ""
+          },
+          {
+            "name": "Canola Oil",
+            "image": ""
+          },
+          {
+            "name": "Coconut Oil",
+            "image": ""
+          },
+          {
+            "name": "Sesame Oil",
+            "image": ""
+          },
+          {
+            "name": "Peanut Oil",
+            "image": ""
+          }
+        ],
+        "Vinegar": [
+          {
+            "name": "Balsamic Vinegar",
+            "image": ""
+          },
+          {
+            "name": "Apple Cider Vinegar",
+            "image": ""
+          },
+          {
+            "name": "Red Wine Vinegar",
+            "image": ""
+          },
+          {
+            "name": "White Wine Vinegar",
+            "image": ""
+          },
+          {
+            "name": "Rice Vinegar",
+            "image": ""
+          },
+          {
+            "name": "Distilled Vinegar",
+            "image": ""
+          }
+        ]
+      },
+      "Sauces, Condiments, and Spices": {
+        "Ketchup": [
+          {
+            "name": "Tomato Ketchup",
+            "image": ""
+          },
+          {
+            "name": "Honey Mustard Ketchup",
+            "image": ""
+          },
+          {
+            "name": "Spicy Ketchup",
+            "image": ""
+          }
+        ],
+        "Mustard": [
+          {
+            "name": "Yellow Mustard",
+            "image": ""
+          },
+          {
+            "name": "Dijon Mustard",
+            "image": ""
+          },
+          {
+            "name": "Honey Mustard",
+            "image": ""
+          },
+          {
+            "name": "Spicy Mustard",
+            "image": ""
+          }
+        ],
+        "Mayonnaise": [
+          {
+            "name": "Regular Mayonnaise",
+            "image": ""
+          },
+          {
+            "name": "Light Mayonnaise",
+            "image": ""
+          },
+          {
+            "name": "Olive Oil Mayonnaise",
+            "image": ""
+          },
+          {
+            "name": "Vegan Mayonnaise",
+            "image": ""
+          }
+        ],
+        "BBQ Sauce": [
+          {
+            "name": "Original BBQ Sauce",
+            "image": ""
+          },
+          {
+            "name": "Hickory BBQ Sauce",
+            "image": ""
+          },
+          {
+            "name": "Sweet and Spicy BBQ Sauce",
+            "image": ""
+          },
+          {
+            "name": "Smoky Chipotle BBQ Sauce",
+            "image": ""
+          }
+        ],
+        "Hot Sauce": [
+          {
+            "name": "Tabasco",
+            "image": ""
+          },
+          {
+            "name": "Sriracha",
+            "image": ""
+          },
+          {
+            "name": "Frank's RedHot",
+            "image": ""
+          },
+          {
+            "name": "Cholula",
+            "image": ""
+          }
+        ],
+        "Soy Sauce": [
+          {
+            "name": "Regular Soy Sauce",
+            "image": ""
+          },
+          {
+            "name": "Low-Sodium Soy Sauce",
+            "image": ""
+          },
+          {
+            "name": "Tamari",
+            "image": ""
+          },
+          {
+            "name": "Shoyu",
+            "image": ""
+          }
+        ],
+        "Honey": [
+          {
+            "name": "Pure Honey",
+            "image": ""
+          },
+          {
+            "name": "Raw Honey",
+            "image": ""
+          },
+          {
+            "name": "Manuka Honey",
+            "image": ""
+          }
+        ],
+        "Maple Syrup": [
+          {
+            "name": "Pure Maple Syrup",
+            "image": ""
+          },
+          {
+            "name": "Maple Pancake Syrup",
+            "image": ""
+          },
+          {
+            "name": "Sugar-Free Maple Syrup",
+            "image": ""
+          }
+        ],
+        "Spices": [
+          {
+            "name": "Salt",
+            "image": ""
+          },
+          {
+            "name": "Black Pepper",
+            "image": ""
+          },
+          {
+            "name": "Garlic Powder",
+            "image": ""
+          },
+          {
+            "name": "Onion Powder",
+            "image": ""
+          },
+          {
+            "name": "Paprika",
+            "image": ""
+          },
+          {
+            "name": "Cumin",
+            "image": ""
+          },
+          {
+            "name": "Cinnamon",
+            "image": ""
+          },
+          {
+            "name": "Chili Powder",
+            "image": ""
+          },
+          {
+            "name": "Oregano",
+            "image": ""
+          },
+          {
+            "name": "Basil",
+            "image": ""
+          },
+          {
+            "name": "Rosemary",
+            "image": ""
+          },
+          {
+            "name": "Thyme",
+            "image": ""
+          }
+        ]
+      },
+      "Snacks and Candy": {
+        "Chips and Crisps": [
+          {
+            "name": "Potato Chips",
+            "image": ""
+          },
+          {
+            "name": "Tortilla Chips",
+            "image": ""
+          },
+          {
+            "name": "Pita Chips",
+            "image": ""
+          },
+          {
+            "name": "Corn Chips",
+            "image": ""
+          },
+          {
+            "name": "Vegetable Chips",
+            "image": ""
+          },
+          {
+            "name": "Kettle Chips",
+            "image": ""
+          }
+        ],
+        "Pretzels": [
+          {
+            "name": "Traditional Pretzels",
+            "image": ""
+          },
+          {
+            "name": "Pretzel Sticks",
+            "image": ""
+          },
+          {
+            "name": "Twisted Pretzels",
+            "image": ""
+          },
+          {
+            "name": "Flavored Pretzels",
+            "image": ""
+          }
+        ],
+        "Crackers": [
+          {
+            "name": "Saltine Crackers",
+            "image": ""
+          },
+          {
+            "name": "Ritz Crackers",
+            "image": ""
+          },
+          {
+            "name": "Wheat Crackers",
+            "image": ""
+          },
+          {
+            "name": "Cheese Crackers",
+            "image": ""
+          },
+          {
+            "name": "Multigrain Crackers",
+            "image": ""
+          },
+          {
+            "name": "Sesame Crackers",
+            "image": ""
+          }
+        ],
+        "Popcorn": [
+          {
+            "name": "Butter Popcorn",
+            "image": ""
+          },
+          {
+            "name": "Kettle Corn",
+            "image": ""
+          },
+          {
+            "name": "Cheese Popcorn",
+            "image": ""
+          },
+          {
+            "name": "Caramel Popcorn",
+            "image": ""
+          },
+          {
+            "name": "Microwave Popcorn",
+            "image": ""
+          },
+          {
+            "name": "Plain Popcorn",
+            "image": ""
+          }
+        ],
+        "Nuts": [
+          {
+            "name": "Almonds",
+            "image": ""
+          },
+          {
+            "name": "Cashews",
+            "image": ""
+          },
+          {
+            "name": "Peanuts",
+            "image": ""
+          },
+          {
+            "name": "Walnuts",
+            "image": ""
+          },
+          {
+            "name": "Pistachios",
+            "image": ""
+          },
+          {
+            "name": "Hazelnuts",
+            "image": ""
+          }
+        ],
+        "Trail Mix": [
+          {
+            "name": "Classic Trail Mix",
+            "image": ""
+          },
+          {
+            "name": "Nut and Seed Mix",
+            "image": ""
+          },
+          {
+            "name": "Fruit and Nut Mix",
+            "image": ""
+          },
+          {
+            "name": "Granola Mix",
+            "image": ""
+          }
+        ],
+        "Candy": [
+          {
+            "name": "Chocolate Bars",
+            "image": ""
+          },
+          {
+            "name": "Gummy Bears",
+            "image": ""
+          },
+          {
+            "name": "Licorice",
+            "image": ""
+          },
+          {
+            "name": "Hard Candy",
+            "image": ""
+          },
+          {
+            "name": "Caramel Candy",
+            "image": ""
+          },
+          {
+            "name": "Toffee",
+            "image": ""
+          }
+        ],
+        "Cookies": [
+          {
+            "name": "Chocolate Chip Cookies",
+            "image": ""
+          },
+          {
+            "name": "Oatmeal Cookies",
+            "image": ""
+          },
+          {
+            "name": "Sugar Cookies",
+            "image": ""
+          },
+          {
+            "name": "Peanut Butter Cookies",
+            "image": ""
+          },
+          {
+            "name": "Snickerdoodles",
+            "image": ""
+          },
+          {
+            "name": "Shortbread Cookies",
+            "image": ""
+          }
+        ]
+      },
+      "Beverages": {
+        "Water": [
+          {
+            "name": "Still Water",
+            "image": ""
+          },
+          {
+            "name": "Sparkling Water",
+            "image": ""
+          },
+          {
+            "name": "Flavored Water",
+            "image": ""
+          }
+        ],
+        "Soda": [
+          {
+            "name": "Cola",
+            "image": ""
+          },
+          {
+            "name": "Lemon-Lime Soda",
+            "image": ""
+          },
+          {
+            "name": "Orange Soda",
+            "image": ""
+          },
+          {
+            "name": "Root Beer",
+            "image": ""
+          },
+          {
+            "name": "Ginger Ale",
+            "image": ""
+          },
+          {
+            "name": "Dr. Pepper",
+            "image": ""
+          }
+        ],
+        "Juices": [
+          {
+            "name": "Orange Juice",
+            "image": ""
+          },
+          {
+            "name": "Apple Juice",
+            "image": ""
+          },
+          {
+            "name": "Cranberry Juice",
+            "image": ""
+          },
+          {
+            "name": "Grape Juice",
+            "image": ""
+          },
+          {
+            "name": "Pineapple Juice",
+            "image": ""
+          },
+          {
+            "name": "Tomato Juice",
+            "image": ""
+          }
+        ],
+        "Iced Tea and Lemonade": [
+          {
+            "name": "Sweetened Iced Tea",
+            "image": ""
+          },
+          {
+            "name": "Unsweetened Iced Tea",
+            "image": ""
+          },
+          {
+            "name": "Lemonade",
+            "image": ""
+          },
+          {
+            "name": "Half and Half (Arnold Palmer)",
+            "image": ""
+          }
+        ],
+        "Coffee": [
+          {
+            "name": "Ground Coffee",
+            "image": ""
+          },
+          {
+            "name": "Whole Bean Coffee",
+            "image": ""
+          },
+          {
+            "name": "Instant Coffee",
+            "image": ""
+          },
+          {
+            "name": "Decaf Coffee",
+            "image": ""
+          },
+          {
+            "name": "Flavored Coffee",
+            "image": ""
+          },
+          {
+            "name": "Cold Brew Coffee",
+            "image": ""
+          }
+        ],
+        "Tea": [
+          {
+            "name": "Black Tea",
+            "image": ""
+          },
+          {
+            "name": "Green Tea",
+            "image": ""
+          },
+          {
+            "name": "Herbal Tea",
+            "image": ""
+          },
+          {
+            "name": "Chai Tea",
+            "image": ""
+          },
+          {
+            "name": "White Tea",
+            "image": ""
+          },
+          {
+            "name": "Oolong Tea",
+            "image": ""
+          }
+        ],
+        "Energy and Sports Drinks": [
+          {
+            "name": "Energy Drinks",
+            "image": ""
+          },
+          {
+            "name": "Sports Drinks",
+            "image": ""
+          },
+          {
+            "name": "Electrolyte Drinks",
+            "image": ""
+          }
+        ],
+        "Alcoholic Beverages": [
+          {
+            "name": "Beer",
+            "image": ""
+          },
+          {
+            "name": "Wine",
+            "image": ""
+          },
+          {
+            "name": "Spirits (Vodka, Rum, Whiskey, etc.)",
+            "image": ""
+          },
+          {
+            "name": "Cocktails",
+            "image": ""
+          }
+        ]
+      }
+    }
+  }
+  

@@ -1,0 +1,211 @@
+{
+    "Cookware": {
+      "Pots and Pans": [
+        { "name": "Saucepan", "image": "" },
+        { "name": "Frying Pan", "image": "" },
+        { "name": "Stockpot", "image": "" },
+        { "name": "Saute Pan", "image": "" },
+        { "name": "Dutch Oven", "image": "" },
+        { "name": "Griddle", "image": "" }
+      ],
+      "Baking Dishes": [
+        { "name": "Baking Sheet", "image": "" },
+        { "name": "Cake Pan", "image": "" },
+        { "name": "Pie Dish", "image": "" },
+        { "name": "Casserole Dish", "image": "" },
+        { "name": "Muffin Pan", "image": "" },
+        { "name": "Loaf Pan", "image": "" }
+      ],
+      "Cooking Utensils": [
+        { "name": "Spatula", "image": "" },
+        { "name": "Ladle", "image": "" },
+        { "name": "Tongs", "image": "" },
+        { "name": "Whisk", "image": "" },
+        { "name": "Slotted Spoon", "image": "" },
+        { "name": "Soup Ladle", "image": "" },
+        { "name": "Pasta Server", "image": "" },
+        { "name": "Peeler", "image": "" },
+        { "name": "Grater", "image": "" },
+        { "name": "Can Opener", "image": "" },
+        { "name": "Pizza Cutter", "image": "" },
+        { "name": "Measuring Cups and Spoons", "image": "" }
+      ],
+      "Cutlery": [
+        { "name": "Chef's Knife", "image": "" },
+        { "name": "Paring Knife", "image": "" },
+        { "name": "Bread Knife", "image": "" },
+        { "name": "Serrated Knife", "image": "" },
+        { "name": "Utility Knife", "image": "" },
+        { "name": "Steak Knives", "image": "" },
+        { "name": "Kitchen Shears", "image": "" },
+        { "name": "Knife Block Set", "image": "" }
+      ],
+      "Food Storage": [
+        { "name": "Food Containers", "image": "" },
+        { "name": "Plastic Wrap", "image": "" },
+        { "name": "Aluminum Foil", "image": "" },
+        { "name": "Ziplock Bags", "image": "" },
+        { "name": "Glass Jars", "image": "" },
+        { "name": "Cling Film", "image": "" },
+        { "name": "Food Storage Bags", "image": "" }
+      ]
+    },
+    "Small Appliances": {
+      "Microwave": [{ "name": "Microwave Oven", "image": "" }],
+      "Toaster": [{ "name": "Toaster", "image": "" }],
+      "Coffee Maker": [{ "name": "Coffee Maker", "image": "" }],
+      "Electric Kettle": [{ "name": "Electric Kettle", "image": "" }],
+      "Blender": [{ "name": "Blender", "image": "" }],
+      "Food Processor": [{ "name": "Food Processor", "image": "" }],
+      "Hand Mixer": [{ "name": "Hand Mixer", "image": "" }],
+      "Slow Cooker": [{ "name": "Slow Cooker", "image": "" }],
+      "Rice Cooker": [{ "name": "Rice Cooker", "image": "" }],
+      "Toaster Oven": [{ "name": "Toaster Oven", "image": "" }],
+      "Mini Fridge": [{ "name": "Mini Fridge", "image": "" }],
+      "Electric Grill": [{ "name": "Electric Grill", "image": "" }]
+    },
+    "Dinnerware": {
+      "Plates": [
+        { "name": "Dinner Plates", "image": "" },
+        { "name": "Salad Plates", "image": "" },
+        { "name": "Side Plates", "image": "" },
+        { "name": "Dessert Plates", "image": "" }
+      ],
+      "Bowls": [
+        { "name": "Soup Bowls", "image": "" },
+        { "name": "Cereal Bowls", "image": "" },
+        { "name": "Salad Bowls", "image": "" },
+        { "name": "Fruit Bowls", "image": "" }
+      ],
+      "Glasses": [
+        { "name": "Water Glasses", "image": "" },
+        { "name": "Wine Glasses", "image": "" },
+        { "name": "Juice Glasses", "image": "" },
+        { "name": "Shot Glasses", "image": "" }
+      ],
+      "Mugs": [
+        { "name": "Coffee Mugs", "image": "" },
+        { "name": "Tea Mugs", "image": "" },
+        { "name": "Soup Mugs", "image": "" },
+        { "name": "Travel Mugs", "image": "" }
+      ],
+      "Cutlery": [
+        { "name": "Forks", "image": "" },
+        { "name": "Knives", "image": "" },
+        { "name": "Spoons", "image": "" },
+        { "name": "Teaspoons", "image": "" }
+      ],
+      "Serving Dishes": [
+        { "name": "Serving Platters", "image": "" },
+        { "name": "Serving Bowls", "image": "" },
+        { "name": "Serving Trays", "image": "" }
+      ],
+      "Napkins and Holders": [
+        { "name": "Cloth Napkins", "image": "" },
+        { "name": "Paper Napkins", "image": "" },
+        { "name": "Napkin Holders", "image": "" }
+      ]
+    },
+    "Cooking Essentials": {
+      "Cooking Oil": [{ "name": "Olive Oil", "image": "" }, { "name": "Vegetable Oil", "image": "" }],
+      "Salt and Pepper": [
+        { "name": "Table Salt", "image": "" },
+        { "name": "Sea Salt", "image": "" },
+        { "name": "Kosher Salt", "image": "" },
+        { "name": "Black Pepper", "image": "" }
+      ],
+      "Herbs and Spices": [
+        { "name": "Garlic Powder", "image": "" },
+        { "name": "Onion Powder", "image": "" },
+        { "name": "Paprika", "image": "" },
+        { "name": "Cumin", "image": "" },
+        { "name": "Basil", "image": "" },
+        { "name": "Oregano", "image": "" },
+        { "name": "Thyme", "image": "" },
+        { "name": "Rosemary", "image": "" },
+        { "name": "Cinnamon", "image": "" },
+        { "name": "Nutmeg", "image": "" },
+        { "name": "Chili Powder", "image": "" }
+      ],
+      "Cooking Sauces": [
+        { "name": "Tomato Sauce", "image": "" },
+        { "name": "Pasta Sauce", "image": "" },
+        { "name": "Soy Sauce", "image": "" },
+        { "name": "Barbecue Sauce", "image": "" },
+        { "name": "Hot Sauce", "image": "" },
+        { "name": "Teriyaki Sauce", "image": "" }
+      ],
+      "Vinegar": [
+        { "name": "Balsamic Vinegar", "image": "" },
+        { "name": "Red Wine Vinegar", "image": "" },
+        { "name": "White Vinegar", "image": "" },
+        { "name": "Apple Cider Vinegar", "image": "" }
+      ],
+      "Sweeteners": [
+        { "name": "Sugar", "image": "" },
+        { "name": "Brown Sugar", "image": "" },
+        { "name": "Honey", "image": "" },
+        { "name": "Maple Syrup", "image": "" },
+        { "name": "Artificial Sweeteners", "image": "" }
+      ],
+      "Flour": [
+        { "name": "All-Purpose Flour", "image": "" },
+        { "name": "Whole Wheat Flour", "image": "" },
+        { "name": "Baking Powder", "image": "" },
+        { "name": "Baking Soda", "image": "" },
+        { "name": "Cornstarch", "image": "" }
+      ],
+      "Canned Goods": [
+        { "name": "Canned Beans", "image": "" },
+        { "name": "Canned Tomatoes", "image": "" },
+        { "name": "Canned Tuna", "image": "" },
+        { "name": "Canned Corn", "image": "" },
+        { "name": "Canned Soup", "image": "" },
+        { "name": "Canned Vegetables", "image": "" }
+      ]
+    },
+    "Appliances": {
+      "Refrigerator": [{ "name": "Refrigerator", "image": "" }],
+      "Stove": [{ "name": "Stove", "image": "" }],
+      "Oven": [{ "name": "Oven", "image": "" }],
+      "Microwave": [{ "name": "Microwave Oven", "image": "" }],
+      "Toaster": [{ "name": "Toaster", "image": "" }],
+      "Coffee Maker": [{ "name": "Coffee Maker", "image": "" }],
+      "Blender": [{ "name": "Blender", "image": "" }],
+      "Food Processor": [{ "name": "Food Processor", "image": "" }],
+      "Hand Mixer": [{ "name": "Hand Mixer", "image": "" }],
+      "Slow Cooker": [{ "name": "Slow Cooker", "image": "" }],
+      "Rice Cooker": [{ "name": "Rice Cooker", "image": "" }],
+      "Toaster Oven": [{ "name": "Toaster Oven", "image": "" }],
+      "Electric Grill": [{ "name": "Electric Grill", "image": "" }],
+      "Electric Kettle": [{ "name": "Electric Kettle", "image": "" }],
+      "Dishwasher": [{ "name": "Dishwasher", "image": "" }]
+    },
+    "Kitchen Tools": {
+      "Cutting Board": [{ "name": "Cutting Board", "image": "" }],
+      "Mixing Bowls": [{ "name": "Mixing Bowls", "image": "" }],
+      "Measuring Cups and Spoons": [{ "name": "Measuring Cups", "image": "" }, { "name": "Measuring Spoons", "image": "" }],
+      "Colander": [{ "name": "Colander", "image": "" }],
+      "Grater": [{ "name": "Grater", "image": "" }],
+      "Can Opener": [{ "name": "Can Opener", "image": "" }],
+      "Peeler": [{ "name": "Peeler", "image": "" }],
+      "Kitchen Shears": [{ "name": "Kitchen Shears", "image": "" }],
+      "Baking Tools": [
+        { "name": "Rolling Pin", "image": "" },
+        { "name": "Pastry Brush", "image": "" },
+        { "name": "Cookie Cutters", "image": "" },
+        { "name": "Cake Decorating Tools", "image": "" }
+      ],
+      "Utensil Holder": [{ "name": "Utensil Holder", "image": "" }],
+      "Kitchen Timer": [{ "name": "Kitchen Timer", "image": "" }],
+      "Oven Mitts": [{ "name": "Oven Mitts", "image": "" }],
+      "Pot Holders": [{ "name": "Pot Holders", "image": "" }],
+      "Kitchen Scale": [{ "name": "Kitchen Scale", "image": "" }],
+      "Cutlery Organizer": [{ "name": "Cutlery Organizer", "image": "" }],
+      "Spice Rack": [{ "name": "Spice Rack", "image": "" }],
+      "Drawer Organizer": [{ "name": "Drawer Organizer", "image": "" }],
+      "Trash Can": [{ "name": "Trash Can", "image": "" }],
+      "Recycling Bin": [{ "name": "Recycling Bin", "image": "" }]
+    }
+  }
+  
