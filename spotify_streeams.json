@@ -1,0 +1,101 @@
+{
+    "2022": [
+      {
+        "month": "January",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Un Verano Sin Ti"
+      },
+      {
+        "month": "February",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Tití Me Preguntó"
+      },
+      {
+        "month": "March",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Yonaguni"
+      },
+      {
+        "month": "April",
+        "most_streamed_artist": "Harry Styles",
+        "most_streamed_song": "As It Was"
+      },
+      {
+        "month": "May",
+        "most_streamed_artist": "Harry Styles",
+        "most_streamed_song": "Watermelon Sugar"
+      },
+      {
+        "month": "June",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Me Porto Bonito"
+      },
+      {
+        "month": "July",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Ojitos Lindos"
+      },
+      {
+        "month": "August",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Callaíta"
+      },
+      {
+        "month": "September",
+        "most_streamed_artist": "Drake",
+        "most_streamed_song": "Way 2 Sexy"
+      },
+      {
+        "month": "October",
+        "most_streamed_artist": "Taylor Swift",
+        "most_streamed_song": "Wildest Dreams (Taylor's Version)"
+      },
+      {
+        "month": "November",
+        "most_streamed_artist": "Adele",
+        "most_streamed_song": "Easy On Me"
+      },
+      {
+        "month": "December",
+        "most_streamed_artist": "Ed Sheeran",
+        "most_streamed_song": "Shivers"
+      }
+    ],
+    "2023": [
+      {
+        "month": "January",
+        "most_streamed_artist": "The Weeknd",
+        "most_streamed_song": "Blinding Lights"
+      },
+      {
+        "month": "February",
+        "most_streamed_artist": "The Weeknd",
+        "most_streamed_song": "Save Your Tears"
+      },
+      {
+        "month": "March",
+        "most_streamed_artist": "Drake",
+        "most_streamed_song": "Way 2 Sexy"
+      },
+      {
+        "month": "April",
+        "most_streamed_artist": "Harry Styles",
+        "most_streamed_song": "As It Was"
+      },
+      {
+        "month": "May",
+        "most_streamed_artist": "Harry Styles",
+        "most_streamed_song": "Watermelon Sugar"
+      },
+      {
+        "month": "June",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Me Porto Bonito"
+      },
+      {
+        "month": "July",
+        "most_streamed_artist": "Bad Bunny",
+        "most_streamed_song": "Ojitos Lindos"
+      }
+    ]
+  }  
