@@ -1,20 +1,8 @@
-const express = require('express');
-const { readFile } = require('fs/promises');
-const path = require('path');
+// server.mjs
+import express from 'express';
+import readJSONFile from './fruits.mjs';
 
 const app = express();
-const jsonFilesFolderPath = path.join(__dirname, 'json_files'); // Absolute path to the folder containing JSON files
-
-// Function to read and parse JSON files from the data folder
-async function readJSONFile(filename) {
-  try {
-    const data = await readFile(path.join(jsonFilesFolderPath, filename));
-    return JSON.parse(data);
-  } catch (err) {
-    console.error(`Error reading file '${filename}': ${err.message}`);
-    return null;
-  }
-}
 
 // API endpoint to get the JSON file content
 app.get('/api/myjson', async (req, res) => {

@@ -2,10 +2,10 @@
   "name": "my_json_repo",
   "version": "1.0.0",
   "description": "A public repo containing some key data you'll need to improve the UX of your project",
-  "main": "server.js",
+  "main": "server.mjs",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js",
+    "start": "nodemon server.mjs",
     "build": "babel ./src --out-dir ./dist"
   },
   "repository": {
@@ -19,6 +19,7 @@
     "url": "https://github.com/OluwoleDove/my_JSON_repo/issues"
   },
   "homepage": "https://github.com/OluwoleDove/my_JSON_repo#readme",
+  "type": "module",
   "dependencies": {
     "express": "^4.18.2",
     "fs": "^0.0.1-security",

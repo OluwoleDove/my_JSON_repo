@@ -15,3 +15,6 @@ Babel: npm install @babel/core @babel/cli @babel/preset-env --save-dev
 Path: Path is a built-in module in Node.js, there's no need to install it.
 Express: npm install express --save
 fs/promises: A built-in module in Node.js, introduced in Node.js 10.0.0 - no need for installation.
+
+.js: CommonJS modules (used by default in Node.js)
+.mjs: ECMAScript modules (used when you enable ESM in Node.js)
