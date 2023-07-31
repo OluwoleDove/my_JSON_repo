@@ -6,7 +6,7 @@ const app = express();
 
 // API endpoint to get the JSON file content
 app.get('/api/myjson', async (req, res) => {
-  const filename = 'fruits.json';
+  const filename = 'wears.json';
 
   try {
     const jsonData = await readJSONFile(filename);
