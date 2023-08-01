@@ -1,19 +1,31 @@
 // server.mjs
 import express from 'express';
-import readJSONFile from './fruits.mjs';
+import read_json_file from './main.mjs';
 
 const app = express();
 
-// API endpoint to get the JSON file content
-app.get('/api/myjson', async (req, res) => {
-  const filename = 'wears.json';
+// List of JSON files you want to serve as different endpoints
+const json_files = ['wears', 'fruits', 'groceries', 'countries', 'emojis', 'kitchenette', 'states_lga', 'word_play', 'spotify_streams', 'http_methods', 'programming_languages', 'http_staus_codes', 'common_greetings', 'top_2022_NG_google_seach'];
+
+app.get('/api/:filename', async (req, res) => {
+  // Get the 'filename' parameter from the request URL
+  let { filename } = req.params;
+
+  // Check if the requested filename exists in the list of allowed JSON files
+  if (!json_files.includes(filename)) {
+    return res.status(404).json({ error: 'File not found' });
+  }
 
   try {
-    const jsonData = await readJSONFile(filename);
-    if (jsonData === null) {
+    // Append '.json' extension to the filename
+    filename += ".json";
+
+    // Read the JSON file and send the data as the response
+    const json_data = await read_json_file(filename);
+    if (json_data === null) {
       return res.status(404).json({ error: 'File not found' });
     }
-    res.json(jsonData);
+    res.json(json_data);
   } catch (err) {
     console.error(`Error reading file '${filename}': ${err.message}`);
     res.status(500).json({ error: 'Server error' });
