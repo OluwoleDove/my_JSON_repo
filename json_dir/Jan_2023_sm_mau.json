@@ -1,0 +1,75 @@
+{
+    "data": [
+      {
+        "platform": "Facebook",
+        "mau": "2.91bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "WhatsApp",
+        "mau": "2.22bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "YouTube",
+        "mau": "2.20bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Instagram",
+        "mau": "1.49bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Facebook Messenger",
+        "mau": "1.30bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "TikTok",
+        "mau": "1.16bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Twitter",
+        "mau": "402m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Snapchat",
+        "mau": "332m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Pinterest",
+        "mau": "454m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "QQ",
+        "mau": "1.06bn",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Sina Weibo",
+        "mau": "573m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Telegram",
+        "mau": "700m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Kuaishou",
+        "mau": "654m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+      {
+        "platform": "Reddit",
+        "mau": "430m",
+        "source": "https://www.statista.com/statistics/272014/global-social-networks-ranked-by-number-of-users/"
+      },
+    ]
+  }
+  
