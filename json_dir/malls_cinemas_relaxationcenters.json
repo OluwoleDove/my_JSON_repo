@@ -1,0 +1,85 @@
+{
+    "cinemas": [
+      {
+        "name": "Silverbird Cinemas",
+        "location": "Lagos, Abuja, Port Harcourt, Uyo, and other locations"
+      },
+      {
+        "name": "Genesis Deluxe Cinemas",
+        "location": "Lagos, Abuja, Port Harcourt, and other cities"
+      },
+      {
+        "name": "Filmhouse Cinemas",
+        "location": "Lagos, Ibadan, Calabar, Benin City, Kano, and other locations"
+      },
+      {
+        "name": "Ozone Cinemas",
+        "location": "Lagos"
+      },
+      {
+        "name": "Viva Cinemas",
+        "location": "Lagos, Ibadan, Ilorin, Enugu"
+      }
+    ],
+    "malls": [
+      {
+        "name": "Ikeja City Mall",
+        "location": "Lagos"
+      },
+      {
+        "name": "Jabi Lake Mall",
+        "location": "Abuja"
+      },
+      {
+        "name": "Ado Bayero Mall",
+        "location": "Kano"
+      },
+      {
+        "name": "Novare Lekki Mall",
+        "location": "Lagos"
+      },
+      {
+        "name": "Palms Shopping Mall",
+        "location": "Lagos"
+      },
+      {
+        "name": "Polo Park Mall",
+        "location": "Enugu"
+      },
+      {
+        "name": "Shoprite",
+        "location": "Various cities including Lagos, Abuja, Port Harcourt, Ibadan"
+      }
+    ],
+    "relaxation_centers": [
+      {
+        "name": "Pleasure Park",
+        "location": "Port Harcourt"
+      },
+      {
+        "name": "Millennium Park",
+        "location": "Abuja"
+      },
+      {
+        "name": "Freedom Park",
+        "location": "Lagos"
+      },
+      {
+        "name": "Lekki Conservation Centre",
+        "location": "Lagos"
+      },
+      {
+        "name": "Yankari Game Reserve",
+        "location": "Bauchi"
+      },
+      {
+        "name": "Olumo Rock Tourist Complex",
+        "location": "Abeokuta"
+      },
+      {
+        "name": "Tarkwa Bay Beach",
+        "location": "Lagos"
+      }
+    ]
+  }
+  

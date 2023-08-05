@@ -5,7 +5,7 @@ import read_json_file from './main.mjs';
 const app = express();
 
 // List of JSON files you want to serve as different endpoints
-const json_files = ['wears', 'fruits', 'groceries', 'countries', 'emojis', 'kitchenette', 'states_lga', 'word_play', 'spotify_streams', 'http_methods', 'programming_languages', 'http_staus_codes', 'common_greetings', 'top_2022_NG_google_seach'];
+const json_files = ['wears', 'fruits', 'groceries', 'countries', 'emojis', 'kitchenette', 'states_lga', 'word_play', 'spotify_streams', 'http_methods', 'programming_languages', 'http_staus_codes', 'common_greetings', 'top_2022_NG_google_seach', 'malls_cinemas_relaxationcenters'];
 
 app.get('/api/:filename', async (req, res) => {
   // Get the 'filename' parameter from the request URL
