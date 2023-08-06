@@ -1,0 +1,61 @@
+{
+    "luxury_car_brands": [
+      {
+        "brand": "Rolls-Royce",
+        "products": ["Phantom", "Ghost", "Wraith", "Dawn", "Cullinan"]
+      },
+      {
+        "brand": "Bentley",
+        "products": ["Bentayga", "Continental GT", "Flying Spur"]
+      },
+      {
+        "brand": "Mercedes-Benz",
+        "products": ["Mercedes-Maybach S-Class", "Mercedes-Maybach GLS"]
+      },
+      {
+        "brand": "BMW",
+        "products": ["BMW Alpina B7"]
+      },
+      {
+        "brand": "Audi",
+        "products": ["Audi A8", "Audi Q8", "Audi e-tron GT"]
+      },
+      {
+        "brand": "Porsche",
+        "products": ["Porsche Panamera", "Porsche Cayenne", "Porsche Taycan"]
+      },
+      {
+        "brand": "Jaguar",
+        "products": ["Jaguar XJ", "Jaguar F-Type"]
+      },
+      {
+        "brand": "Land Rover",
+        "products": ["Range Rover Vogue/Autobiography", "Range Rover Sport", "Range Rover Velar"]
+      },
+      {
+        "brand": "Lexus",
+        "products": ["Lexus LS"]
+      },
+      {
+        "brand": "Aston Martin",
+        "products": ["Aston Martin DB11", "Aston Martin DBS Superleggera", "Aston Martin Rapide"]
+      },
+      {
+        "brand": "Maserati",
+        "products": ["Maserati Quattroporte", "Maserati Ghibli", "Maserati Levante"]
+      },
+      {
+        "brand": "Ferrari",
+        "products": ["Ferrari 812 Superfast", "Ferrari GTC4Lusso", "Ferrari SF90 Stradale"]
+      },
+      {
+        "brand": "Lamborghini",
+        "products": ["Lamborghini Urus", "Lamborghini Huracán", "Lamborghini Aventador"]
+      },
+      {
+        "brand": "Rolls-Royce",
+        "products": ["Rolls-Royce Phantom", "Rolls-Royce Ghost", "Rolls-Royce Wraith", "Rolls-Royce Dawn", "Rolls-Royce Cullinan"]
+      }
+    ]
+  }
+  

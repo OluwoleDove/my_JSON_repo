@@ -1,0 +1,61 @@
+{
+    "luxury_fashion_brands": [
+      {
+        "brand": "Louis Vuitton",
+        "products": ["Monogram Canvas Bags", "LV Trunk Clutches", "LV Twist Bag", "LV Archlight Sneakers"]
+      },
+      {
+        "brand": "Gucci",
+        "products": ["GG Marmont Bag", "Ace Sneakers", "Dionysus Bag", "Princetown Slippers"]
+      },
+      {
+        "brand": "Chanel",
+        "products": ["Chanel Classic Flap Bag", "Chanel Boy Bag", "Chanel 2.55 Bag", "Chanel Tweed Jackets"]
+      },
+      {
+        "brand": "Hermès",
+        "products": ["Birkin Bag", "Kelly Bag", "Hermès Scarves", "Hermès Clic H Bracelet"]
+      },
+      {
+        "brand": "Prada",
+        "products": ["Prada Galleria Bag", "Prada Nylon Backpack", "Prada Cahier Bag", "Prada Derby Shoes"]
+      },
+      {
+        "brand": "Christian Dior",
+        "products": ["Lady Dior Bag", "Dior Saddle Bag", "J'Adior Pumps", "Dior Book Tote"]
+      },
+      {
+        "brand": "Versace",
+        "products": ["Medusa Head Belt", "Versace Baroque Print Shirts", "Versace Chain Reaction Sneakers"]
+      },
+      {
+        "brand": "Burberry",
+        "products": ["Burberry Trench Coat", "Burberry Check Scarf", "Burberry Logo Print T-shirt"]
+      },
+      {
+        "brand": "Valentino",
+        "products": ["Valentino Rockstud Pumps", "Valentino Garavani Shoulder Bag", "Valentino Logo Belt"]
+      },
+      {
+        "brand": "Saint Laurent",
+        "products": ["YSL Monogram Bag", "SL/01 Sneakers", "Kate Tassel Bag", "Leather Biker Jackets"]
+      },
+      {
+        "brand": "Balenciaga",
+        "products": ["Balenciaga Triple S Sneakers", "City Bag", "Track.2 Sneakers"]
+      },
+      {
+        "brand": "Givenchy",
+        "products": ["Antigona Bag", "Givenchy Logo T-shirt", "Chain Ankle Boots"]
+      },
+      {
+        "brand": "Fendi",
+        "products": ["Fendi Peekaboo Bag", "FF Logo Belt", "Fendi Baguette Bag"]
+      },
+      {
+        "brand": "Bottega Veneta",
+        "products": ["Bottega Veneta The Pouch", "Bottega Veneta BV Lido Sandals", "Bottega Veneta Cassette Bag"]
+      }
+    ]
+  }
+  
