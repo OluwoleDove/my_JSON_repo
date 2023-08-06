@@ -1,0 +1,73 @@
+{
+    "action_movies": [
+      {
+        "movie": "Mad Max: Fury Road",
+        "main_actors": ["Tom Hardy", "Charlize Theron"],
+        "producer": "George Miller",
+        "year_of_release": 2015
+      },
+      {
+        "movie": "Gladiator",
+        "main_actors": ["Russell Crowe", "Joaquin Phoenix"],
+        "producer": "Douglas Wick, David Franzoni, Branko Lustig",
+        "year_of_release": 2000
+      }
+    ],
+    "comedy_movies": [
+      {
+        "movie": "Super Troopers",
+        "main_actors": ["Jay Chandrasekhar", "Kevin Heffernan", "Steve Lemme"],
+        "producer": "Richard Perello",
+        "year_of_release": 2001
+      },
+      {
+        "movie": "Bridesmaids",
+        "main_actors": ["Kristen Wiig", "Maya Rudolph", "Melissa McCarthy"],
+        "producer": "Judd Apatow, Barry Mendel, Clayton Townsend",
+        "year_of_release": 2011
+      }
+    ],
+    "drama_movies": [
+      {
+        "movie": "The Godfather",
+        "main_actors": ["Marlon Brando", "Al Pacino"],
+        "producer": "Albert S. Ruddy",
+        "year_of_release": 1972
+      },
+      {
+        "movie": "The Shawshank Redemption",
+        "main_actors": ["Tim Robbins", "Morgan Freeman"],
+        "producer": "Niki Marvin",
+        "year_of_release": 1994
+      }
+    ],
+    "sci_fi_movies": [
+      {
+        "movie": "Interstellar",
+        "main_actors": ["Matthew McConaughey", "Anne Hathaway"],
+        "producer": "Christopher Nolan, Emma Thomas, Lynda Obst",
+        "year_of_release": 2014
+      },
+      {
+        "movie": "Blade Runner",
+        "main_actors": ["Harrison Ford", "Rutger Hauer"],
+        "producer": "Michael Deeley",
+        "year_of_release": 1982
+      }
+    ],
+    "romance_movies": [
+      {
+        "movie": "The Notebook",
+        "main_actors": ["Ryan Gosling", "Rachel McAdams"],
+        "producer": "Lynn Harris, Mark Johnson",
+        "year_of_release": 2004
+      },
+      {
+        "movie": "La La Land",
+        "main_actors": ["Ryan Gosling", "Emma Stone"],
+        "producer": "Fred Berger, Jordan Horowitz, Marc Platt",
+        "year_of_release": 2016
+      }
+    ]
+  }
+  
