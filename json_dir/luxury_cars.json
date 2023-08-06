@@ -2,60 +2,103 @@
     "luxury_car_brands": [
       {
         "brand": "Rolls-Royce",
-        "products": ["Phantom", "Ghost", "Wraith", "Dawn", "Cullinan"]
+        "products": [
+          {"name": "Phantom", "image": ""},
+          {"name": "Ghost", "image": ""},
+          {"name": "Wraith", "image": ""},
+          {"name": "Dawn", "image": ""},
+          {"name": "Cullinan", "image": ""}
+        ]
       },
       {
         "brand": "Bentley",
-        "products": ["Bentayga", "Continental GT", "Flying Spur"]
+        "products": [
+          {"name": "Bentayga", "image": ""},
+          {"name": "Continental GT", "image": ""},
+          {"name": "Flying Spur", "image": ""}
+        ]
       },
       {
         "brand": "Mercedes-Benz",
-        "products": ["Mercedes-Maybach S-Class", "Mercedes-Maybach GLS"]
+        "products": [
+          {"name": "Mercedes-Maybach S-Class", "image": ""},
+          {"name": "Mercedes-Maybach GLS", "image": ""}
+        ]
       },
       {
         "brand": "BMW",
-        "products": ["BMW Alpina B7"]
+        "products": [
+          {"name": "BMW Alpina B7", "image": ""}
+        ]
       },
       {
         "brand": "Audi",
-        "products": ["Audi A8", "Audi Q8", "Audi e-tron GT"]
+        "products": [
+          {"name": "Audi A8", "image": ""},
+          {"name": "Audi Q8", "image": ""},
+          {"name": "Audi e-tron GT", "image": ""}
+        ]
       },
       {
         "brand": "Porsche",
-        "products": ["Porsche Panamera", "Porsche Cayenne", "Porsche Taycan"]
+        "products": [
+          {"name": "Porsche Panamera", "image": ""},
+          {"name": "Porsche Cayenne", "image": ""},
+          {"name": "Porsche Taycan", "image": ""}
+        ]
       },
       {
         "brand": "Jaguar",
-        "products": ["Jaguar XJ", "Jaguar F-Type"]
+        "products": [
+          {"name": "Jaguar XJ", "image": ""},
+          {"name": "Jaguar F-Type", "image": ""}
+        ]
       },
       {
         "brand": "Land Rover",
-        "products": ["Range Rover Vogue/Autobiography", "Range Rover Sport", "Range Rover Velar"]
+        "products": [
+          {"name": "Range Rover Vogue/Autobiography", "image": ""},
+          {"name": "Range Rover Sport", "image": ""},
+          {"name": "Range Rover Velar", "image": ""}
+        ]
       },
       {
         "brand": "Lexus",
-        "products": ["Lexus LS"]
+        "products": [
+          {"name": "Lexus LS", "image": ""}
+        ]
       },
       {
         "brand": "Aston Martin",
-        "products": ["Aston Martin DB11", "Aston Martin DBS Superleggera", "Aston Martin Rapide"]
+        "products": [
+          {"name": "Aston Martin DB11", "image": ""},
+          {"name": "Aston Martin DBS Superleggera", "image": ""},
+          {"name": "Aston Martin Rapide", "image": ""}
+        ]
       },
       {
         "brand": "Maserati",
-        "products": ["Maserati Quattroporte", "Maserati Ghibli", "Maserati Levante"]
+        "products": [
+          {"name": "Maserati Quattroporte", "image": ""},
+          {"name": "Maserati Ghibli", "image": ""},
+          {"name": "Maserati Levante", "image": ""}
+        ]
       },
       {
         "brand": "Ferrari",
-        "products": ["Ferrari 812 Superfast", "Ferrari GTC4Lusso", "Ferrari SF90 Stradale"]
+        "products": [
+          {"name": "Ferrari 812 Superfast", "image": ""},
+          {"name": "Ferrari GTC4Lusso", "image": ""},
+          {"name": "Ferrari SF90 Stradale", "image": ""}
+        ]
       },
       {
         "brand": "Lamborghini",
-        "products": ["Lamborghini Urus", "Lamborghini Huracán", "Lamborghini Aventador"]
-      },
-      {
-        "brand": "Rolls-Royce",
-        "products": ["Rolls-Royce Phantom", "Rolls-Royce Ghost", "Rolls-Royce Wraith", "Rolls-Royce Dawn", "Rolls-Royce Cullinan"]
+        "products": [
+          {"name": "Lamborghini Urus", "image": ""},
+          {"name": "Lamborghini Huracán", "image": ""},
+          {"name": "Lamborghini Aventador", "image": ""}
+        ]
       }
     ]
-  }
-  
+  }  

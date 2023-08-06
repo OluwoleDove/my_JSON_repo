@@ -2,59 +2,122 @@
     "luxury_fashion_brands": [
       {
         "brand": "Louis Vuitton",
-        "products": ["Monogram Canvas Bags", "LV Trunk Clutches", "LV Twist Bag", "LV Archlight Sneakers"]
+        "products": [
+          {"name": "Monogram Canvas Bags", "image": ""},
+          {"name": "LV Trunk Clutches", "image": ""},
+          {"name": "LV Twist Bag", "image": ""},
+          {"name": "LV Archlight Sneakers", "image": ""}
+        ]
       },
       {
         "brand": "Gucci",
-        "products": ["GG Marmont Bag", "Ace Sneakers", "Dionysus Bag", "Princetown Slippers"]
+        "products": [
+          {"name": "GG Marmont Bag", "image": ""},
+          {"name": "Ace Sneakers", "image": ""},
+          {"name": "Dionysus Bag", "image": ""},
+          {"name": "Princetown Slippers", "image": ""}
+        ]
       },
       {
         "brand": "Chanel",
-        "products": ["Chanel Classic Flap Bag", "Chanel Boy Bag", "Chanel 2.55 Bag", "Chanel Tweed Jackets"]
+        "products": [
+          {"name": "Chanel Classic Flap Bag", "image": ""},
+          {"name": "Chanel Boy Bag", "image": ""},
+          {"name": "Chanel 2.55 Bag", "image": ""},
+          {"name": "Chanel Tweed Jackets", "image": ""}
+        ]
       },
       {
         "brand": "Hermès",
-        "products": ["Birkin Bag", "Kelly Bag", "Hermès Scarves", "Hermès Clic H Bracelet"]
+        "products": [
+          {"name": "Birkin Bag", "image": ""},
+          {"name": "Kelly Bag", "image": ""},
+          {"name": "Hermès Scarves", "image": ""},
+          {"name": "Hermès Clic H Bracelet", "image": ""}
+        ]
       },
       {
         "brand": "Prada",
-        "products": ["Prada Galleria Bag", "Prada Nylon Backpack", "Prada Cahier Bag", "Prada Derby Shoes"]
+        "products": [
+          {"name": "Prada Galleria Bag", "image": ""},
+          {"name": "Prada Nylon Backpack", "image": ""},
+          {"name": "Prada Cahier Bag", "image": ""},
+          {"name": "Prada Derby Shoes", "image": ""}
+        ]
       },
       {
         "brand": "Christian Dior",
-        "products": ["Lady Dior Bag", "Dior Saddle Bag", "J'Adior Pumps", "Dior Book Tote"]
+        "products": [
+          {"name": "Lady Dior Bag", "image": ""},
+          {"name": "Dior Saddle Bag", "image": ""},
+          {"name": "J'Adior Pumps", "image": ""},
+          {"name": "Dior Book Tote", "image": ""}
+        ]
       },
       {
         "brand": "Versace",
-        "products": ["Medusa Head Belt", "Versace Baroque Print Shirts", "Versace Chain Reaction Sneakers"]
+        "products": [
+          {"name": "Medusa Head Belt", "image": ""},
+          {"name": "Versace Baroque Print Shirts", "image": ""},
+          {"name": "Versace Chain Reaction Sneakers", "image": ""}
+        ]
       },
       {
         "brand": "Burberry",
-        "products": ["Burberry Trench Coat", "Burberry Check Scarf", "Burberry Logo Print T-shirt"]
+        "products": [
+          {"name": "Burberry Trench Coat", "image": ""},
+          {"name": "Burberry Check Scarf", "image": ""},
+          {"name": "Burberry Logo Print T-shirt", "image": ""}
+        ]
       },
       {
         "brand": "Valentino",
-        "products": ["Valentino Rockstud Pumps", "Valentino Garavani Shoulder Bag", "Valentino Logo Belt"]
+        "products": [
+          {"name": "Valentino Rockstud Pumps", "image": ""},
+          {"name": "Valentino Garavani Shoulder Bag", "image": ""},
+          {"name": "Valentino Logo Belt", "image": ""}
+        ]
       },
       {
         "brand": "Saint Laurent",
-        "products": ["YSL Monogram Bag", "SL/01 Sneakers", "Kate Tassel Bag", "Leather Biker Jackets"]
+        "products": [
+          {"name": "YSL Monogram Bag", "image": ""},
+          {"name": "SL/01 Sneakers", "image": ""},
+          {"name": "Kate Tassel Bag", "image": ""},
+          {"name": "Leather Biker Jackets", "image": ""}
+        ]
       },
       {
         "brand": "Balenciaga",
-        "products": ["Balenciaga Triple S Sneakers", "City Bag", "Track.2 Sneakers"]
+        "products": [
+          {"name": "Balenciaga Triple S Sneakers", "image": ""},
+          {"name": "City Bag", "image": ""},
+          {"name": "Track.2 Sneakers", "image": ""}
+        ]
       },
       {
         "brand": "Givenchy",
-        "products": ["Antigona Bag", "Givenchy Logo T-shirt", "Chain Ankle Boots"]
+        "products": [
+          {"name": "Antigona Bag", "image": ""},
+          {"name": "Givenchy Logo T-shirt", "image": ""},
+          {"name": "Chain Ankle Boots", "image": ""}
+        ]
       },
       {
         "brand": "Fendi",
-        "products": ["Fendi Peekaboo Bag", "FF Logo Belt", "Fendi Baguette Bag"]
+        "products": [
+          {"name": "Fendi Peekaboo Bag", "image": ""},
+          {"name": "FF Logo Belt", "image": ""},
+          {"name": "Fendi Baguette Bag", "image": ""}
+        ]
       },
       {
         "brand": "Bottega Veneta",
-        "products": ["Bottega Veneta The Pouch", "Bottega Veneta BV Lido Sandals", "Bottega Veneta Cassette Bag"]
+        "products": [
+          {"name": "Bottega Veneta The Pouch", "image": ""},
+          {"name": "Bottega Veneta BV Lido Sandals", "image": ""},
+          {"name": "Bottega Veneta Cassette Bag", "image": ""}
+        ]
       }
     ]
   }
