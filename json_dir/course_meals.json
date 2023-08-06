@@ -1,0 +1,175 @@
+{
+    "2-course-meals": [
+      {
+        "Starter": "Greek Salad",
+        "Main Course": "Lamb Kebabs",
+        "Dessert": ""
+      },
+      {
+        "Main Course": "Pesto Chicken Pasta",
+        "Dessert": "Chocolate Brownie",
+        "Starter": ""
+      },
+      {
+        "Starter": "Caesar Salad",
+        "Main Course": "Grilled Shrimp",
+        "Dessert": ""
+      },
+      {
+        "Main Course": "Steak Fajitas",
+        "Dessert": "Churros",
+        "Starter": ""
+      },
+      {
+        "Starter": "Bruschetta",
+        "Main Course": "Eggplant Parmesan",
+        "Dessert": ""
+      }
+    ],
+    "3-course-meals": [
+      {
+        "Appetizer": "Spring Rolls",
+        "Main Course": "Beef Stir-Fry",
+        "Dessert": "Mango Sorbet",
+        "Soup": ""
+      },
+      {
+        "Starter": "Mushroom Soup",
+        "Soup": "Minestrone Soup",
+        "Main Course": "Grilled Salmon",
+        "Dessert": ""
+      },
+      {
+        "Appetizer": "Caprese Skewers",
+        "Main Course": "Chicken Marsala",
+        "Dessert": "Tiramisu",
+        "Soup": ""
+      },
+      {
+        "Starter": "Avocado Salad",
+        "Soup": "Cream of Tomato Soup",
+        "Main Course": "Penne alla Vodka",
+        "Dessert": ""
+      },
+      {
+        "Appetizer": "Spinach and Artichoke Dip",
+        "Main Course": "Grilled Ribeye Steak",
+        "Dessert": "New York Cheesecake",
+        "Soup": ""
+      }
+    ],
+    "5-course-meals": [
+      {
+        "Appetizer": "Antipasto Platter",
+        "Soup": "Cream of Broccoli Soup",
+        "Salad": "Mixed Greens with Balsamic Vinaigrette",
+        "Main Course": "Beef Tenderloin",
+        "Dessert": "Tiramisu",
+        "Fish Course": ""
+      },
+      {
+        "Starter": "Ceviche",
+        "Soup": "Chicken Noodle Soup",
+        "Fish Course": "Pan-Seared Scallops",
+        "Main Course": "Stuffed Bell Peppers",
+        "Dessert": "Fruit Salad",
+        "Salad": "",
+        "Pasta": "",
+        "Sorbet": "",
+        "Palate Cleanser": "",
+        "Cheese Course": ""
+      },
+      {
+        "Appetizer": "Sushi Platter",
+        "Soup": "Miso Soup",
+        "Salad": "Seaweed Salad",
+        "Main Course": "Teriyaki Salmon",
+        "Dessert": "Green Tea Ice Cream",
+        "Fish Course": ""
+      },
+      {
+        "Starter": "Smoked Salmon",
+        "Soup": "Lobster Bisque",
+        "Salad": "Arugula Salad with Raspberry Vinaigrette",
+        "Main Course": "Chicken Alfredo",
+        "Dessert": "Tiramisu",
+        "Fish Course": ""
+      },
+      {
+        "Appetizer": "Escargot",
+        "Soup": "French Onion Soup",
+        "Salad": "Watercress Salad with Citrus Dressing",
+        "Main Course": "Coq au Vin",
+        "Dessert": "Crème Brûlée",
+        "Fish Course": ""
+      }
+    ],
+    "10-course-meals": [
+      {
+        "Amuse-bouche": "Salmon Tartare",
+        "Soup": "Tom Kha Gai",
+        "Appetizer": "Foie Gras Torchon",
+        "Salad": "Watermelon and Feta Salad",
+        "Pasta": "Lobster Ravioli",
+        "Sorbet": "Mango-Passionfruit Sorbet",
+        "Fish Course": "Seared Tuna",
+        "Palate Cleanser": "Citrus Mint Granita",
+        "Meat Course": "Duck à l'Orange",
+        "Cheese Course": "Assorted Gourmet Cheeses",
+        "Dessert": "Opera Cake"
+      },
+      {
+        "Amuse-bouche": "Cucumber Gazpacho",
+        "Soup": "Potato Leek Soup",
+        "Appetizer": "Escargot with Garlic Butter",
+        "Salad": "Arugula Salad with Pomegranate Dressing",
+        "Pasta": "Wild Mushroom Risotto",
+        "Sorbet": "Lime-Mint Sorbet",
+        "Fish Course": "Grilled Swordfish",
+        "Palate Cleanser": "Berry Sorbet",
+        "Meat Course": "Beef Bourguignon",
+        "Cheese Course": "Selection of European Cheeses",
+        "Dessert": "Crêpes Suzette"
+      },
+      {
+        "Amuse-bouche": "Tuna Tartare",
+        "Soup": "Butternut Squash Bisque",
+        "Appetizer": "Foie Gras Mousse",
+        "Salad": "Roasted Beet Salad with Goat Cheese",
+        "Pasta": "Gnocchi with Truffle Cream Sauce",
+        "Sorbet": "Raspberry Sorbet",
+        "Fish Course": "Pan-Seared Halibut",
+        "Palate Cleanser": "Cucumber Mint Sorbet",
+        "Meat Course": "Filet Mignon",
+        "Cheese Course": "Assortment of Artisan Cheeses",
+        "Dessert": "Chocolate Soufflé"
+      },
+      {
+        "Amuse-bouche": "Oyster Shooter",
+        "Soup": "Lentil Soup",
+        "Appetizer": "Grilled Octopus",
+        "Salad": "Caprese Salad with Balsamic Glaze",
+        "Pasta": "Lobster Linguine",
+        "Sorbet": "Blood Orange Sorbet",
+        "Fish Course": "Seared Scallops",
+        "Palate Cleanser": "Mint Watermelon Granita",
+        "Meat Course": "Rack of Lamb",
+        "Cheese Course": "International Cheese Board",
+        "Dessert": "Raspberry White Chocolate Mousse Cake"
+      },
+      {
+        "Amuse-bouche": "Salmon Roe on Blini",
+        "Soup": "French Onion Soup",
+        "Appetizer": "Foie Gras Terrine",
+        "Salad": "Mixed Greens with Champagne Vinaigrette",
+        "Pasta": "Saffron Seafood Risotto",
+        "Sorbet": "Lemon Sorbet",
+        "Fish Course": "Pan-Seared Sea Bass",
+        "Palate Cleanser": "Lime Basil Sorbet",
+        "Meat Course": "Chateaubriand with Red Wine Sauce",
+        "Cheese Course": "Cheese and Charcuterie Platter",
+        "Dessert": "Chocolate Molten Lava Cake"
+      }
+    ]
+  }
+  
