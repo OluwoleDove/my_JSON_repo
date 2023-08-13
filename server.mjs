@@ -1,4 +1,3 @@
-// server.mjs
 import express from 'express';
 import read_json_file from './main.mjs';
 
@@ -7,6 +6,7 @@ const app = express();
 const json_files = [
   "car_brands",
   "common_greetings",
+  "colors",
   "countries",
   "emojis",
   "fruits",
