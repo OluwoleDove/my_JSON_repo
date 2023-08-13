@@ -4,7 +4,28 @@ import read_json_file from './main.mjs';
 
 const app = express();
 
-const json_files = ['wears', 'fruits', 'groceries', 'countries', 'emojis', 'kitchenette', 'states_lga', 'word_play', 'spotify_streams', 'http_methods', 'programming_languages', 'http_staus_codes', 'common_greetings', 'luxury_cars', 'luxury_fashion', 'top_2022_NG_google_seach', 'malls_cinemas_relaxationcenters'];
+const json_files = [
+  "car_brands",
+  "common_greetings",
+  "countries",
+  "emojis",
+  "fruits",
+  "groceries",
+  "http_methods",
+  "http_staus_codes",
+  "kitchenette",
+  "luxury_cars",
+  "luxury_fashion",
+  "malls_cinemas_relaxationcenters",
+  "phone_brands",
+  "programming_languages",
+  "spotify_streams",
+  "states_lga",
+  "top_2022_NG_google_seach",
+  "wears",
+  "word_play"
+];
+
 
 app.get('/api/:filename', async (req, res) => {
   let { filename } = req.params;

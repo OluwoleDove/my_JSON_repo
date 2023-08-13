@@ -1,0 +1,103 @@
+[
+    {
+      "name": "Apple",
+      "founder": "Steve Jobs, Steve Wozniak, Ronald Wayne",
+      "country": "United States"
+    },
+    {
+      "name": "Samsung",
+      "founder": "Lee Byung-chul",
+      "country": "South Korea"
+    },
+    {
+      "name": "Huawei",
+      "founder": "Ren Zhengfei",
+      "country": "China"
+    },
+    {
+      "name": "Xiaomi",
+      "founder": "Lei Jun",
+      "country": "China"
+    },
+    {
+      "name": "Oppo",
+      "founder": "Chen Mingyong",
+      "country": "China"
+    },
+    {
+      "name": "OnePlus",
+      "founder": "Pete Lau, Carl Pei",
+      "country": "China"
+    },
+    {
+      "name": "Sony",
+      "founder": "Masaru Ibuka, Akio Morita",
+      "country": "Japan"
+    },
+    {
+      "name": "LG",
+      "founder": "Koo In-hwoi",
+      "country": "South Korea"
+    },
+    {
+      "name": "Google (Pixel Phones)",
+      "founder": "Larry Page, Sergey Brin",
+      "country": "United States"
+    },
+    {
+      "name": "Motorola",
+      "founder": "Paul Galvin, Joseph Galvin",
+      "country": "United States"
+    },
+    {
+      "name": "Nokia",
+      "founder": "Fredrik Idestam, Leo Mechelin",
+      "country": "Finland"
+    },
+    {
+      "name": "HTC",
+      "founder": "Cher Wang, Peter Chou, H.T. Cho",
+      "country": "Taiwan"
+    },
+    {
+      "name": "BlackBerry",
+      "founder": "Mike Lazaridis, Douglas Fregin",
+      "country": "Canada"
+    },
+    {
+      "name": "Lenovo (Motorola Mobility)",
+      "founder": "Liu Chuanzhi",
+      "country": "China"
+    },
+    {
+      "name": "Asus",
+      "founder": "T.H. Tung, Ted Hsu, Wayne Hsieh, M.T. Liao",
+      "country": "Taiwan"
+    },
+    {
+      "name": "ZTE",
+      "founder": "Hou Weigui",
+      "country": "China"
+    },
+    {
+      "name": "Vivo",
+      "founder": "Shen Wei",
+      "country": "China"
+    },
+    {
+      "name": "Realme",
+      "founder": "Sky Li",
+      "country": "China"
+    },
+    {
+      "name": "Meizu",
+      "founder": "Jack Wong",
+      "country": "China"
+    },
+    {
+      "name": "TCL",
+      "founder": "Li Dongsheng",
+      "country": "China"
+    }
+  ]
+  
