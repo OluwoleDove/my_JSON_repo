@@ -1,0 +1,188 @@
+[
+    {
+      "name": "Toyota",
+      "founder": "Kiichiro Toyoda",
+      "country": "Japan"
+    },
+    {
+      "name": "Volkswagen Group",
+      "founder": "Ferdinand Porsche",
+      "country": "Germany"
+    },
+    {
+      "name": "General Motors",
+      "founder": "William C. Durant",
+      "country": "United States"
+    },
+    {
+      "name": "Ford Motor Company",
+      "founder": "Henry Ford",
+      "country": "United States"
+    },
+    {
+      "name": "Honda",
+      "founder": "Soichiro Honda",
+      "country": "Japan"
+    },
+    {
+      "name": "Nissan",
+      "founder": "Yoshisuke Aikawa",
+      "country": "Japan"
+    },
+    {
+      "name": "Mercedes-Benz",
+      "founder": "Karl Benz, Gottlieb Daimler",
+      "country": "Germany"
+    },
+    {
+      "name": "BMW",
+      "founder": "Karl Rapp, Gustav Otto",
+      "country": "Germany"
+    },
+    {
+      "name": "Hyundai Motor Company",
+      "founder": "Chung Ju-yung",
+      "country": "South Korea"
+    },
+    {
+      "name": "Kia Corporation",
+      "founder": "Kim Chul-ho",
+      "country": "South Korea"
+    },
+    {
+      "name": "Ferrari",
+      "founder": "Enzo Ferrari",
+      "country": "Italy"
+    },
+    {
+      "name": "Porsche",
+      "founder": "Ferdinand Porsche",
+      "country": "Germany"
+    },
+    {
+      "name": "Mazda",
+      "founder": "Jujiro Matsuda",
+      "country": "Japan"
+    },
+    {
+      "name": "Subaru",
+      "founder": "Kenji Kita",
+      "country": "Japan"
+    },
+    {
+      "name": "Volvo",
+      "founder": "Assar Gabrielsson, Gustaf Larson",
+      "country": "Sweden"
+    },
+    {
+      "name": "Tesla, Inc.",
+      "founder": "Martin Eberhard, Marc Tarpenning, Elon Musk",
+      "country": "United States"
+    },
+    {
+      "name": "Chrysler",
+      "founder": "Walter Chrysler",
+      "country": "United States"
+    },
+    {
+      "name": "Mitsubishi Motors",
+      "founder": "Iwasaki Yataro",
+      "country": "Japan"
+    },
+    {
+      "name": "Renault",
+      "founder": "Louis Renault",
+      "country": "France"
+    },
+    {
+      "name": "Peugeot",
+      "founder": "Jean-Pierre Peugeot",
+      "country": "France"
+    },
+    {
+      "name": "Citroën",
+      "founder": "André Citroën",
+      "country": "France"
+    },
+    {
+      "name": "Audi",
+      "founder": "August Horch",
+      "country": "Germany"
+    },
+    {
+      "name": "Land Rover",
+      "founder": "Maurice Wilks",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Jaguar",
+      "founder": "Sir William Lyons, William Walmsley",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Mini",
+      "founder": "Sir Alec Issigonis",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Lexus",
+      "founder": "Eiji Toyoda",
+      "country": "Japan"
+    },
+    {
+      "name": "Alfa Romeo",
+      "founder": "Alexandre Darracq",
+      "country": "Italy"
+    },
+    {
+      "name": "Bentley",
+      "founder": "W.O. Bentley",
+      "country": "United Kingdom"
+    },
+    {
+      "name": "Maserati",
+      "founder": "Alfieri Maserati and brothers",
+      "country": "Italy"
+    },
+    {
+      "name": "Suzuki Motor Corporation",
+      "founder": "Michio Suzuki",
+      "country": "Japan"
+    },
+    {
+      "name": "Geely",
+      "founder": "Li Shufu",
+      "country": "China"
+    },
+    {
+      "name": "BYD",
+      "founder": "Wang Chuanfu",
+      "country": "China"
+    },
+    {
+      "name": "Great Wall Motors",
+      "founder": "Wei Jianjun",
+      "country": "China"
+    },
+    {
+      "name": "Proton",
+      "founder": "Government of Malaysia",
+      "country": "Malaysia"
+    },
+    {
+      "name": "Tata Motors",
+      "founder": "J.R.D. Tata",
+      "country": "India"
+    },
+    {
+      "name": "Mahindra & Mahindra",
+      "founder": "J.C. Mahindra, K.C. Mahindra",
+      "country": "India"
+    },
+    {
+      "name": "Perodua",
+      "founder": "Government of Malaysia",
+      "country": "Malaysia"
+    }
+  ]
+  
