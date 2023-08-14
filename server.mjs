@@ -19,6 +19,7 @@ const json_files = [
   "malls_cinemas_relaxationcenters",
   "phone_brands",
   "programming_languages",
+  "sports",
   "spotify_streams",
   "states_lga",
   "top_2022_NG_google_seach",

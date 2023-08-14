@@ -1,0 +1,140 @@
+{
+    "sports": [
+      {
+        "name": "Football (Soccer)",
+        "players_per_team": 11,
+        "major_cup": "FIFA World Cup"
+      },
+      {
+        "name": "Basketball",
+        "players_per_team": 5,
+        "major_cup": "NBA Finals"
+      },
+      {
+        "name": "American Football",
+        "players_per_team": 11,
+        "major_cup": "Super Bowl"
+      },
+      {
+        "name": "Cricket",
+        "players_per_team": 11,
+        "major_cup": "ICC Cricket World Cup"
+      },
+      {
+        "name": "Baseball",
+        "players_per_team": 9,
+        "major_cup": "World Series"
+      },
+      {
+        "name": "Rugby Union",
+        "players_per_team": 15,
+        "major_cup": "Rugby World Cup"
+      },
+      {
+        "name": "Rugby League",
+        "players_per_team": 13,
+        "major_cup": "Rugby League World Cup"
+      },
+      {
+        "name": "Tennis",
+        "players_per_team": 1,
+        "major_cup": "Wimbledon"
+      },
+      {
+        "name": "Golf",
+        "players_per_team": 1,
+        "major_cup": "The Masters"
+      },
+      {
+        "name": "Hockey",
+        "players_per_team": 11,
+        "major_cup": "Stanley Cup"
+      },
+      {
+        "name": "Volleyball",
+        "players_per_team": 6,
+        "major_cup": "FIVB Volleyball World Cup"
+      },
+      {
+        "name": "Table Tennis",
+        "players_per_team": 1,
+        "major_cup": "ITTF World Cup"
+      },
+      {
+        "name": "Badminton",
+        "players_per_team": 1,
+        "major_cup": "All England Open"
+      },
+      {
+        "name": "Formula 1",
+        "players_per_team": 1,
+        "major_cup": "Formula One World Championship"
+      },
+      {
+        "name": "NASCAR",
+        "players_per_team": 1,
+        "major_cup": "Daytona 500"
+      },
+      {
+        "name": "Swimming",
+        "players_per_team": 1,
+        "major_cup": "FINA World Championships"
+      },
+      {
+        "name": "Gymnastics",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Wrestling",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Boxing",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Taekwondo",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Judo",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Fencing",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Athletics",
+        "players_per_team": 1,
+        "major_cup": "Olympic Games"
+      },
+      {
+        "name": "Cycling",
+        "players_per_team": 1,
+        "major_cup": "Tour de France"
+      },
+      {
+        "name": "Skiing",
+        "players_per_team": 1,
+        "major_cup": "Winter Olympics"
+      },
+      {
+        "name": "Snowboarding",
+        "players_per_team": 1,
+        "major_cup": "Winter Olympics"
+      },
+      {
+        "name": "Surfing",
+        "players_per_team": 1,
+        "major_cup": "World Surf League Championship"
+      }
+    ]
+  }
+  
