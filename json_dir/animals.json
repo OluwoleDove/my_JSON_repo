@@ -12,6 +12,17 @@
         "regions": ["Africa"]
       },
       {
+        "name": "Ant",
+        "classification": "Insect",
+        "feeding_habits": "Omnivore",
+        "natural_habitat": "Various",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Larva",
+        "gestation_period": "Varies by species",
+        "regions": ["Worldwide"]
+      },
+      {
         "name": "Bear",
         "classification": "Mammal",
         "feeding_habits": "Omnivore",
@@ -23,25 +34,102 @@
         "regions": ["Worldwide"]
       },
       {
-        "name": "Cat",
+        "name": "Beaver",
         "classification": "Mammal",
-        "feeding_habits": "Carnivore",
-        "natural_habitat": "Various",
-        "male_name": "Tom",
-        "female_name": "Queen",
-        "young_name": "Kitten",
-        "gestation_period": "2 months",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "North America, Europe",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Kit",
+        "gestation_period": "2-4 weeks",
         "regions": ["Worldwide"]
       },
       {
-        "name": "Dog",
+        "name": "Bison",
         "classification": "Mammal",
-        "feeding_habits": "Omnivore",
-        "natural_habitat": "Domestic",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Grasslands",
+        "male_name": "Bull",
+        "female_name": "Cow",
+        "young_name": "Calf",
+        "gestation_period": "9 months",
+        "regions": ["North America", "Europe"]
+      },
+      {
+        "name": "Butterfly",
+        "classification": "Insect",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Various",
         "male_name": "Male",
         "female_name": "Female",
-        "young_name": "Puppy",
-        "gestation_period": "2 months",
+        "young_name": "Caterpillar",
+        "gestation_period": "Varies by species",
+        "regions": ["Worldwide"]
+      },
+      {
+        "name": "Camel",
+        "classification": "Mammal",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Deserts",
+        "male_name": "Bull",
+        "female_name": "Cow",
+        "young_name": "Calf",
+        "gestation_period": "13 months",
+        "regions": ["Africa", "Asia"]
+      },
+      {
+        "name": "Cheetah",
+        "classification": "Mammal",
+        "feeding_habits": "Carnivore",
+        "natural_habitat": "Grasslands",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Cub",
+        "gestation_period": "3 months",
+        "regions": ["Africa"]
+      },
+      {
+        "name": "Chicken",
+        "classification": "Bird",
+        "feeding_habits": "Omnivore",
+        "natural_habitat": "Domestic",
+        "male_name": "Rooster",
+        "female_name": "Hen",
+        "young_name": "Chick",
+        "gestation_period": "21 days (Egg incubation)",
+        "regions": ["Worldwide"]
+      },
+      {
+        "name": "Chimpanzee",
+        "classification": "Mammal",
+        "feeding_habits": "Omnivore",
+        "natural_habitat": "Forest",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Infant",
+        "gestation_period": "8 months",
+        "regions": ["Africa"]
+      },
+      {
+        "name": "Crocodile",
+        "classification": "Reptile",
+        "feeding_habits": "Carnivore",
+        "natural_habitat": "Swamps, Rivers",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Hatchling",
+        "gestation_period": "3 months (Egg incubation)",
+        "regions": ["Africa", "Asia", "Americas", "Australia"]
+      },
+      {
+        "name": "Dolphin",
+        "classification": "Mammal",
+        "feeding_habits": "Carnivore",
+        "natural_habitat": "Ocean",
+        "male_name": "Bull",
+        "female_name": "Cow",
+        "young_name": "Calf",
+        "gestation_period": "10-12 months",
         "regions": ["Worldwide"]
       },
       {
@@ -56,14 +144,14 @@
         "regions": ["Africa", "Asia"]
       },
       {
-        "name": "Fox",
-        "classification": "Mammal",
+        "name": "Frog",
+        "classification": "Amphibian",
         "feeding_habits": "Carnivore",
         "natural_habitat": "Various",
-        "male_name": "Dog",
-        "female_name": "Vixen",
-        "young_name": "Pup",
-        "gestation_period": "1.5 months",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Tadpole",
+        "gestation_period": "Varies by species",
         "regions": ["Worldwide"]
       },
       {
@@ -78,15 +166,37 @@
         "regions": ["Africa"]
       },
       {
-        "name": "Horse",
+        "name": "Gorilla",
         "classification": "Mammal",
         "feeding_habits": "Herbivore",
+        "natural_habitat": "Forest",
+        "male_name": "Silverback",
+        "female_name": "Female",
+        "young_name": "Infant",
+        "gestation_period": "8.5 months",
+        "regions": ["Africa"]
+      },
+      {
+        "name": "Hawk",
+        "classification": "Bird",
+        "feeding_habits": "Carnivore",
         "natural_habitat": "Various",
-        "male_name": "Stallion",
-        "female_name": "Mare",
-        "young_name": "Foal",
-        "gestation_period": "11 months",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Chick",
+        "gestation_period": "1-2 months (Egg incubation)",
         "regions": ["Worldwide"]
+      },
+      {
+        "name": "Hippopotamus",
+        "classification": "Mammal",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Rivers, Lakes",
+        "male_name": "Bull",
+        "female_name": "Cow",
+        "young_name": "Calf",
+        "gestation_period": "8 months",
+        "regions": ["Africa"]
       },
       {
         "name": "Iguana",
@@ -98,6 +208,17 @@
         "young_name": "Hatchling",
         "gestation_period": "2 months (Egg incubation)",
         "regions": ["Central America", "South America"]
+      },
+      {
+        "name": "Impala",
+        "classification": "Mammal",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Savannah",
+        "male_name": "Ram",
+        "female_name": "Ewe",
+        "young_name": "Lamb",
+        "gestation_period": "6-7 months",
+        "regions": ["Africa"]
       },
       {
         "name": "Jaguar",
@@ -122,6 +243,17 @@
         "regions": ["Australia"]
       },
       {
+        "name": "Koala",
+        "classification": "Mammal",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Eucalyptus Forests",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Joey",
+        "gestation_period": "35 days",
+        "regions": ["Australia"]
+      },
+      {
         "name": "Lion",
         "classification": "Mammal",
         "feeding_habits": "Carnivore",
@@ -133,6 +265,39 @@
         "regions": ["Africa"]
       },
       {
+        "name": "Lobster",
+        "classification": "Crustacean",
+        "feeding_habits": "Omnivore",
+        "natural_habitat": "Ocean",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Larva",
+        "gestation_period": "Varies by species",
+        "regions": ["Worldwide"]
+      },
+      {
+        "name": "Macaw",
+        "classification": "Bird",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Rainforests",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Chick",
+        "gestation_period": "3-4 weeks",
+        "regions": ["Americas"]
+      },
+      {
+        "name": "Meerkat",
+        "classification": "Mammal",
+        "feeding_habits": "Omnivore",
+        "natural_habitat": "Deserts",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Pup",
+        "gestation_period": "2 months",
+        "regions": ["Africa"]
+      },
+      {
         "name": "Monkey",
         "classification": "Mammal",
         "feeding_habits": "Omnivore",
@@ -141,7 +306,7 @@
         "female_name": "Female",
         "young_name": "Infant",
         "gestation_period": "5-7 months",
-        "regions": ["Worldwide"]
+        "regions": ["Africa", "Asia", "Americas"]
       },
       {
         "name": "Newt",
@@ -155,15 +320,26 @@
         "regions": ["Worldwide"]
       },
       {
-        "name": "Ostrich",
-        "classification": "Bird",
-        "feeding_habits": "Herbivore",
-        "natural_habitat": "Savannah",
+        "name": "Ocelot",
+        "classification": "Mammal",
+        "feeding_habits": "Carnivore",
+        "natural_habitat": "Rainforests",
         "male_name": "Male",
         "female_name": "Female",
-        "young_name": "Chick",
-        "gestation_period": "40-50 days (Egg incubation)",
-        "regions": ["Africa"]
+        "young_name": "Kitten",
+        "gestation_period": "2 months",
+        "regions": ["Americas"]
+      },
+      {
+        "name": "Panda",
+        "classification": "Mammal",
+        "feeding_habits": "Herbivore",
+        "natural_habitat": "Mountain Forests",
+        "male_name": "Male",
+        "female_name": "Female",
+        "young_name": "Cub",
+        "gestation_period": "95-160 days",
+        "regions": ["China"]
       },
       {
         "name": "Penguin",
