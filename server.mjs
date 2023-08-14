@@ -4,6 +4,7 @@ import read_json_file from './main.mjs';
 const app = express();
 
 const json_files = [
+  "animals",
   "car_brands",
   "common_greetings",
   "colors",
