@@ -1,0 +1,175 @@
+{
+    "scriptures": [
+      {
+        "book": "Psalm",
+        "chapter": 100,
+        "verse": 4,
+        "content": "Enter his gates with thanksgiving, and his courts with praise! Give thanks to him and praise his name!"
+      },
+      {
+        "book": "Psalm",
+        "chapter": 107,
+        "verse": 1,
+        "content": "Oh give thanks to the LORD, for he is good, for his steadfast love endures forever!"
+      },
+      {
+        "book": "Psalm",
+        "chapter": 118,
+        "verse": 24,
+        "content": "This is the day the LORD has made; let us rejoice and be glad in it."
+      },
+      {
+        "book": "Psalm",
+        "chapter": 136,
+        "verses": [
+          "Give thanks to the LORD, for he is good. His love endures forever.",
+          "Give thanks to the God of gods. His love endures forever.",
+          "Give thanks to the Lord of lords. His love endures forever."
+        ]
+      },
+      {
+        "book": "Proverbs",
+        "chapter": 17,
+        "verse": 22,
+        "content": "A cheerful heart is good medicine, but a crushed spirit dries up the bones."
+      },
+      {
+        "book": "Ecclesiastes",
+        "chapter": 3,
+        "verse": 11,
+        "content": "He has made everything beautiful in its time. He has also set eternity in the human heart, yet no one can fathom what God has done from beginning to end."
+      },
+      {
+        "book": "Romans",
+        "chapter": 12,
+        "verse": 12,
+        "content": "Rejoice in hope, be patient in tribulation, be constant in prayer."
+      },
+      {
+        "book": "Colossians",
+        "chapter": 3,
+        "verse": 15,
+        "content": "Let the peace of Christ rule in your hearts, since as members of one body you were called to peace. And be thankful."
+      },
+      {
+        "book": "1 Thessalonians",
+        "chapter": 5,
+        "verse": 18,
+        "content": "Give thanks in all circumstances, for this is the will of God in Christ Jesus for you."
+      },
+      {
+        "book": "Hebrews",
+        "chapter": 13,
+        "verse": 15,
+        "content": "Through Jesus, therefore, let us continually offer to God a sacrifice of praise—the fruit of lips that confess his name."
+      },
+      {
+        "book": "James",
+        "chapter": 1,
+        "verse": 17,
+        "content": "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows."
+      },
+      {
+        "book": "1 Peter",
+        "chapter": 4,
+        "verse": 11,
+        "content": "If anyone suffers as a Christian, let him not be ashamed, but let him glorify God in that name."
+      },
+      {
+        "book": "1 John",
+        "chapter": 1,
+        "verse": 9,
+        "content": "If we confess our sins, he is faithful and just to forgive us our sins and to cleanse us from all unrighteousness."
+      },
+      {
+        "book": "Revelation",
+        "chapter": 7,
+        "verse": 12,
+        "content": "Saying: Amen! Blessing and glory and wisdom and thanks and honor and power and might be to our God forever and ever! Amen."
+      }
+    ]
+  }
+  
+  [
+    {
+      "gratitude": "Health and well-being",
+      "scripture": "3 John 1:2 - Beloved, I pray that all may go well with you and that you may be in good health, as it goes well with your soul."
+    },
+    {
+      "gratitude": "Supportive friends",
+      "scripture": "Proverbs 17:17 - A friend loves at all times, and a brother is born for adversity."
+    },
+    {
+      "gratitude": "Loving family",
+      "scripture": "Psalm 128:3 - Your wife will be like a fruitful vine within your house; your children will be like olive shoots around your table."
+    },
+    {
+      "gratitude": "Access to clean water",
+      "scripture": "John 4:14 - But whoever drinks of the water that I will give him will never be thirsty again. The water that I will give him will become in him a spring of water welling up to eternal life."
+    },
+    {
+      "gratitude": "A comfortable home",
+      "scripture": "Psalm 84:3 - Even the sparrow finds a home, and the swallow a nest for herself, where she may lay her young, at your altars, O Lord of hosts, my King and my God."
+    },
+    {
+      "gratitude": "Delicious food",
+      "scripture": "Psalm 34:8 - Oh, taste and see that the Lord is good! Blessed is the man who takes refuge in him!"
+    },
+    {
+      "gratitude": "Nature's beauty",
+      "scripture": "Psalm 19:1 - The heavens declare the glory of God, and the sky above proclaims his handiwork."
+    },
+    {
+      "gratitude": "Laughter",
+      "scripture": "Proverbs 17:22 - A joyful heart is good medicine, but a crushed spirit dries up the bones."
+    },
+    {
+      "gratitude": "Education",
+      "scripture": "Proverbs 1:7 - The fear of the Lord is the beginning of knowledge; fools despise wisdom and instruction."
+    },
+    {
+      "gratitude": "Kind strangers",
+      "scripture": "Hebrews 13:2 - Do not neglect to show hospitality to strangers, for thereby some have entertained angels unawares."
+    },
+    {
+      "gratitude": "Personal growth",
+      "scripture": "2 Peter 3:18 - But grow in the grace and knowledge of our Lord and Savior Jesus Christ. To him be the glory both now and to the day of eternity. Amen."
+    },
+    {
+      "gratitude": "Artistic expression",
+      "scripture": "Exodus 31:3 - And I have filled him with the Spirit of God, with ability and intelligence, with knowledge and all craftsmanship,"
+    },
+    {
+      "gratitude": "Freedom of choice",
+      "scripture": "Galatians 5:13 - For you were called to freedom, brothers. Only do not use your freedom as an opportunity for the flesh, but through love serve one another."
+    },
+    {
+      "gratitude": "Positive role models",
+      "scripture": "Philippians 3:17 - Brothers, join in imitating me, and keep your eyes on those who walk according to the example you have in us."
+    },
+    {
+      "gratitude": "Music that moves us",
+      "scripture": "Psalm 33:2-3 - Give thanks to the Lord with the lyre; make melody to him with the harp of ten strings! Sing to him a new song; play skillfully on the strings, with loud shouts."
+    },
+    {
+      "gratitude": "Cozy blankets",
+      "scripture": "Psalm 4:8 - In peace I will both lie down and sleep; for you alone, O Lord, make me dwell in safety."
+    },
+    {
+      "gratitude": "Fresh air",
+      "scripture": "Genesis 2:7 - Then the Lord God formed the man of dust from the ground and breathed into his nostrils the breath of life, and the man became a living creature."
+    },
+    {
+      "gratitude": "Opportunities to learn",
+      "scripture": "Proverbs 18:15 - An intelligent heart acquires knowledge, and the ear of the wise seeks knowledge."
+    },
+    {
+      "gratitude": "Memorable adventures",
+      "scripture": "Psalm 139:14 - I praise you, for I am fearfully and wonderfully made. Wonderful are your works; my soul knows it very well."
+    },
+    {
+      "gratitude": "Time to relax",
+      "scripture": "Matthew 11:28 - Come to me, all who labor and are heavy laden, and I will give you rest."
+    }
+  ]
+  
