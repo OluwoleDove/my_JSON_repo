@@ -6,6 +6,7 @@ const app = express();
 const json_files = [
   "animals",
   "car_brands",
+  "celebrations",
   "common_greetings",
   "colors",
   "countries",

@@ -1,0 +1,93 @@
+{
+    "celebrations": [
+      {
+        "name": "New Year's Eve",
+        "date": "December 31",
+        "description": "A celebration marking the end of the current year and the beginning of the next year.",
+        "type": "Cultural",
+        "location": "Global",
+        "traditions": [
+          "Fireworks display",
+          "Countdown to midnight"
+        ]
+      },
+      {
+        "name": "Valentine's Day",
+        "date": "February 14",
+        "description": "A day to celebrate love and affection between intimate partners.",
+        "type": "Romantic",
+        "location": "Worldwide",
+        "traditions": [
+          "Exchanging gifts",
+          "Sending love notes"
+        ]
+      },
+      {
+        "name": "Easter",
+        "date": "Date varies (April)",
+        "description": "A Christian holiday celebrating the resurrection of Jesus Christ from the dead.",
+        "type": "Religious",
+        "location": "Christian-majority countries",
+        "traditions": [
+          "Easter egg hunt",
+          "Attending church services"
+        ]
+      },
+      {
+        "name": "Independence Day",
+        "date": "July 4",
+        "description": "A national holiday celebrating the independence of the United States from British rule.",
+        "type": "National",
+        "location": "United States",
+        "traditions": [
+          "Parades",
+          "Fireworks"
+        ]
+      },
+      {
+        "name": "Diwali",
+        "date": "Date varies (October/November)",
+        "description": "A Hindu festival of lights, symbolizing the victory of light over darkness and good over evil.",
+        "type": "Religious and Cultural",
+        "location": "India and other countries with Hindu communities",
+        "traditions": [
+          "Decorating with oil lamps (diyas)",
+          "Exchanging sweets"
+        ]
+      },
+      {
+        "name": "Chinese New Year",
+        "date": "Date varies (January/February)",
+        "description": "The Chinese lunar new year, celebrated with family reunions and festive traditions.",
+        "type": "Cultural",
+        "location": "China and various Asian countries",
+        "traditions": [
+          "Dragon and lion dances",
+          "Giving red envelopes (hongbao) with money"
+        ]
+      },
+      {
+        "name": "Thanksgiving",
+        "date": "Fourth Thursday of November (US)",
+        "description": "A day of giving thanks for the harvest and blessings of the past year.",
+        "type": "National",
+        "location": "United States and Canada",
+        "traditions": [
+          "Turkey dinner",
+          "Family gatherings"
+        ]
+      },
+      {
+        "name": "Holi",
+        "date": "Date varies (February/March)",
+        "description": "A Hindu spring festival celebrated with vibrant colors, music, and dancing.",
+        "type": "Religious and Cultural",
+        "location": "India and other countries with Hindu communities",
+        "traditions": [
+          "Throwing colored powders",
+          "Bonfires"
+        ]
+      }
+    ]
+  }
+  
