@@ -1,188 +1,220 @@
-[
+{
+  "vehicleCompanies": [
     {
       "name": "Toyota",
       "founder": "Kiichiro Toyoda",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Toyota", "Lexus"]
     },
     {
       "name": "Volkswagen Group",
       "founder": "Ferdinand Porsche",
-      "country": "Germany"
+      "country": "Germany",
+      "brands": ["Volkswagen", "Audi", "Porsche", "Bentley"]
     },
     {
       "name": "General Motors",
       "founder": "William C. Durant",
-      "country": "United States"
+      "country": "United States",
+      "brands": ["Chevrolet", "GMC", "Cadillac", "Buick"]
     },
     {
       "name": "Ford Motor Company",
       "founder": "Henry Ford",
-      "country": "United States"
+      "country": "United States",
+      "brands": ["Ford", "Lincoln"]
     },
     {
       "name": "Honda",
       "founder": "Soichiro Honda",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Honda", "Acura"]
     },
     {
       "name": "Nissan",
       "founder": "Yoshisuke Aikawa",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Nissan", "Infiniti"]
     },
     {
       "name": "Mercedes-Benz",
       "founder": "Karl Benz, Gottlieb Daimler",
-      "country": "Germany"
+      "country": "Germany",
+      "brands": ["Mercedes-Benz"]
     },
     {
       "name": "BMW",
       "founder": "Karl Rapp, Gustav Otto",
-      "country": "Germany"
+      "country": "Germany",
+      "brands": ["BMW", "MINI"]
     },
     {
       "name": "Hyundai Motor Company",
       "founder": "Chung Ju-yung",
-      "country": "South Korea"
+      "country": "South Korea",
+      "brands": ["Hyundai", "Genesis"]
     },
     {
       "name": "Kia Corporation",
       "founder": "Kim Chul-ho",
-      "country": "South Korea"
+      "country": "South Korea",
+      "brands": ["Kia"]
     },
     {
       "name": "Ferrari",
       "founder": "Enzo Ferrari",
-      "country": "Italy"
+      "country": "Italy",
+      "brands": ["Ferrari"]
     },
     {
       "name": "Porsche",
       "founder": "Ferdinand Porsche",
-      "country": "Germany"
+      "country": "Germany",
+      "brands": ["Porsche"]
     },
     {
       "name": "Mazda",
       "founder": "Jujiro Matsuda",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Mazda"]
     },
     {
       "name": "Subaru",
       "founder": "Kenji Kita",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Subaru"]
     },
     {
       "name": "Volvo",
       "founder": "Assar Gabrielsson, Gustaf Larson",
-      "country": "Sweden"
+      "country": "Sweden",
+      "brands": ["Volvo"]
     },
     {
       "name": "Tesla, Inc.",
       "founder": "Martin Eberhard, Marc Tarpenning, Elon Musk",
-      "country": "United States"
+      "country": "United States",
+      "brands": ["Tesla"]
     },
     {
       "name": "Chrysler",
       "founder": "Walter Chrysler",
-      "country": "United States"
+      "country": "United States",
+      "brands": ["Chrysler", "Dodge", "Ram"]
     },
     {
       "name": "Mitsubishi Motors",
       "founder": "Iwasaki Yataro",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Mitsubishi"]
     },
     {
       "name": "Renault",
       "founder": "Louis Renault",
-      "country": "France"
+      "country": "France",
+      "brands": ["Renault", "Dacia", "Lada"]
     },
     {
       "name": "Peugeot",
       "founder": "Jean-Pierre Peugeot",
-      "country": "France"
-    },
-    {
-      "name": "Citroën",
-      "founder": "André Citroën",
-      "country": "France"
+      "country": "France",
+      "brands": ["Peugeot", "Citroën", "DS"]
     },
     {
       "name": "Audi",
       "founder": "August Horch",
-      "country": "Germany"
+      "country": "Germany",
+      "brands": ["Audi"]
     },
     {
       "name": "Land Rover",
       "founder": "Maurice Wilks",
-      "country": "United Kingdom"
+      "country": "United Kingdom",
+      "brands": ["Land Rover"]
     },
     {
       "name": "Jaguar",
       "founder": "Sir William Lyons, William Walmsley",
-      "country": "United Kingdom"
+      "country": "United Kingdom",
+      "brands": ["Jaguar"]
     },
     {
       "name": "Mini",
       "founder": "Sir Alec Issigonis",
-      "country": "United Kingdom"
+      "country": "United Kingdom",
+      "brands": ["Mini"]
     },
     {
       "name": "Lexus",
       "founder": "Eiji Toyoda",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Lexus"]
     },
     {
       "name": "Alfa Romeo",
       "founder": "Alexandre Darracq",
-      "country": "Italy"
+      "country": "Italy",
+      "brands": ["Alfa Romeo"]
     },
     {
       "name": "Bentley",
       "founder": "W.O. Bentley",
-      "country": "United Kingdom"
+      "country": "United Kingdom",
+      "brands": ["Bentley"]
     },
     {
       "name": "Maserati",
       "founder": "Alfieri Maserati and brothers",
-      "country": "Italy"
+      "country": "Italy",
+      "brands": ["Maserati"]
     },
     {
       "name": "Suzuki Motor Corporation",
       "founder": "Michio Suzuki",
-      "country": "Japan"
+      "country": "Japan",
+      "brands": ["Suzuki"]
     },
     {
       "name": "Geely",
       "founder": "Li Shufu",
-      "country": "China"
+      "country": "China",
+      "brands": ["Geely"]
     },
     {
       "name": "BYD",
       "founder": "Wang Chuanfu",
-      "country": "China"
+      "country": "China",
+      "brands": ["BYD"]
     },
     {
       "name": "Great Wall Motors",
       "founder": "Wei Jianjun",
-      "country": "China"
+      "country": "China",
+      "brands": ["Great Wall Motors"]
     },
     {
       "name": "Proton",
       "founder": "Government of Malaysia",
-      "country": "Malaysia"
+      "country": "Malaysia",
+      "brands": ["Proton"]
     },
     {
       "name": "Tata Motors",
       "founder": "J.R.D. Tata",
-      "country": "India"
+      "country": "India",
+      "brands": ["Tata", "Jaguar", "Land Rover"]
     },
     {
       "name": "Mahindra & Mahindra",
       "founder": "J.C. Mahindra, K.C. Mahindra",
-      "country": "India"
+      "country": "India",
+      "brands": ["Mahindra", "SsangYong"]
     },
     {
       "name": "Perodua",
       "founder": "Government of Malaysia",
-      "country": "Malaysia"
+      "country": "Malaysia",
+      "brands": ["Perodua"]
     }
   ]
-  
+}
