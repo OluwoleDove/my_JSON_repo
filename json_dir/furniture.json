@@ -1,0 +1,54 @@
+{
+    "home": [
+      {
+        "name": "Sofa",
+        "usage": "Used for seating and relaxation in living rooms or lounges.",
+        "image": ""
+      },
+      {
+        "name": "Dining Table",
+        "usage": "Used for having meals and gatherings in dining rooms or kitchens.",
+        "image": ""
+      },
+      {
+        "name": "Bed",
+        "usage": "Used for sleeping and resting in bedrooms.",
+        "image": ""
+      }
+    ],
+    "office": [
+      {
+        "name": "Desk",
+        "usage": "Used as a workspace for tasks, often equipped with a computer.",
+        "image": ""
+      },
+      {
+        "name": "Office Chair",
+        "usage": "Used for comfortable seating during work hours.",
+        "image": ""
+      },
+      {
+        "name": "Filing Cabinet",
+        "usage": "Used for organizing and storing documents and office supplies.",
+        "image": ""
+      }
+    ],
+    "palace": [
+      {
+        "name": "Throne",
+        "usage": "Used by monarchs or dignitaries for ceremonial and official purposes.",
+        "image": ""
+      },
+      {
+        "name": "Chaise Lounge",
+        "usage": "Used for relaxation and socializing in opulent settings.",
+        "image": ""
+      },
+      {
+        "name": "Grand Dining Table",
+        "usage": "Used for hosting lavish feasts and important events.",
+        "image": ""
+      }
+    ]
+  }
+  
