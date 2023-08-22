@@ -14,6 +14,21 @@
         "name": "Bed",
         "usage": "Used for sleeping and resting in bedrooms.",
         "image": ""
+      },
+      {
+        "name": "Coffee Table",
+        "usage": "Placed in living rooms for holding beverages, books, or decorative items.",
+        "image": ""
+      },
+      {
+        "name": "Bookshelf",
+        "usage": "Used for storing books and decorative items.",
+        "image": ""
+      },
+      {
+        "name": "Wardrobe",
+        "usage": "Used for storing clothing and accessories in bedrooms.",
+        "image": ""
       }
     ],
     "office": [
@@ -30,6 +45,21 @@
       {
         "name": "Filing Cabinet",
         "usage": "Used for organizing and storing documents and office supplies.",
+        "image": ""
+      },
+      {
+        "name": "Meeting Table",
+        "usage": "Used for discussions and meetings in office spaces.",
+        "image": ""
+      },
+      {
+        "name": "Shelving Unit",
+        "usage": "Provides additional storage and display space in offices.",
+        "image": ""
+      },
+      {
+        "name": "Executive Desk",
+        "usage": "A high-end desk often used by managers or executives.",
         "image": ""
       }
     ],
@@ -48,7 +78,21 @@
         "name": "Grand Dining Table",
         "usage": "Used for hosting lavish feasts and important events.",
         "image": ""
+      },
+      {
+        "name": "Canopy Bed",
+        "usage": "A luxurious bed with decorative curtains, often found in palaces.",
+        "image": ""
+      },
+      {
+        "name": "Gilded Mirror",
+        "usage": "An ornate mirror used for decoration in palace interiors.",
+        "image": ""
+      },
+      {
+        "name": "Royal Cabinet",
+        "usage": "A finely crafted cabinet for displaying valuable items.",
+        "image": ""
       }
     ]
-  }
-  
+  }  

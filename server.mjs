@@ -12,6 +12,7 @@ const json_files = [
   "countries",
   "emojis",
   "fruits",
+  "furniture",
   "groceries",
   "http_methods",
   "http_staus_codes",
